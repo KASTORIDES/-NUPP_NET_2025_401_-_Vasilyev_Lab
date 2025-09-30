@@ -1,0 +1,14 @@
+C:\Users\Kofeyok\source\repos\StudentManagementApp\StudentManagementApp\bin\Debug\net8.0\StudentManagementApp.exe
+C:\Users\Kofeyok\source\repos\StudentManagementApp\StudentManagementApp\bin\Debug\net8.0\StudentManagementApp.deps.json
+C:\Users\Kofeyok\source\repos\StudentManagementApp\StudentManagementApp\bin\Debug\net8.0\StudentManagementApp.runtimeconfig.json
+C:\Users\Kofeyok\source\repos\StudentManagementApp\StudentManagementApp\bin\Debug\net8.0\StudentManagementApp.dll
+C:\Users\Kofeyok\source\repos\StudentManagementApp\StudentManagementApp\bin\Debug\net8.0\StudentManagementApp.pdb
+C:\Users\Kofeyok\source\repos\StudentManagementApp\StudentManagementApp\obj\Debug\net8.0\StudentManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kofeyok\source\repos\StudentManagementApp\StudentManagementApp\obj\Debug\net8.0\StudentManagementApp.AssemblyInfoInputs.cache
+C:\Users\Kofeyok\source\repos\StudentManagementApp\StudentManagementApp\obj\Debug\net8.0\StudentManagementApp.AssemblyInfo.cs
+C:\Users\Kofeyok\source\repos\StudentManagementApp\StudentManagementApp\obj\Debug\net8.0\StudentManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\Kofeyok\source\repos\StudentManagementApp\StudentManagementApp\obj\Debug\net8.0\StudentManagementApp.dll
+C:\Users\Kofeyok\source\repos\StudentManagementApp\StudentManagementApp\obj\Debug\net8.0\refint\StudentManagementApp.dll
+C:\Users\Kofeyok\source\repos\StudentManagementApp\StudentManagementApp\obj\Debug\net8.0\StudentManagementApp.pdb
+C:\Users\Kofeyok\source\repos\StudentManagementApp\StudentManagementApp\obj\Debug\net8.0\StudentManagementApp.genruntimeconfig.cache
+C:\Users\Kofeyok\source\repos\StudentManagementApp\StudentManagementApp\obj\Debug\net8.0\ref\StudentManagementApp.dll

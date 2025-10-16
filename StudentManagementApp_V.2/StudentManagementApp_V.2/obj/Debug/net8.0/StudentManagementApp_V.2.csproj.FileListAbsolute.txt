@@ -1,0 +1,14 @@
+C:\Users\Kofeyok\source\repos\StudentManagementApp_V.2\StudentManagementApp_V.2\bin\Debug\net8.0\StudentManagementApp_V.2.exe
+C:\Users\Kofeyok\source\repos\StudentManagementApp_V.2\StudentManagementApp_V.2\bin\Debug\net8.0\StudentManagementApp_V.2.deps.json
+C:\Users\Kofeyok\source\repos\StudentManagementApp_V.2\StudentManagementApp_V.2\bin\Debug\net8.0\StudentManagementApp_V.2.runtimeconfig.json
+C:\Users\Kofeyok\source\repos\StudentManagementApp_V.2\StudentManagementApp_V.2\bin\Debug\net8.0\StudentManagementApp_V.2.dll
+C:\Users\Kofeyok\source\repos\StudentManagementApp_V.2\StudentManagementApp_V.2\bin\Debug\net8.0\StudentManagementApp_V.2.pdb
+C:\Users\Kofeyok\source\repos\StudentManagementApp_V.2\StudentManagementApp_V.2\obj\Debug\net8.0\StudentManagementApp_V.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kofeyok\source\repos\StudentManagementApp_V.2\StudentManagementApp_V.2\obj\Debug\net8.0\StudentManagementApp_V.2.AssemblyInfoInputs.cache
+C:\Users\Kofeyok\source\repos\StudentManagementApp_V.2\StudentManagementApp_V.2\obj\Debug\net8.0\StudentManagementApp_V.2.AssemblyInfo.cs
+C:\Users\Kofeyok\source\repos\StudentManagementApp_V.2\StudentManagementApp_V.2\obj\Debug\net8.0\StudentManagementApp_V.2.csproj.CoreCompileInputs.cache
+C:\Users\Kofeyok\source\repos\StudentManagementApp_V.2\StudentManagementApp_V.2\obj\Debug\net8.0\StudentManagementApp_V.2.dll
+C:\Users\Kofeyok\source\repos\StudentManagementApp_V.2\StudentManagementApp_V.2\obj\Debug\net8.0\refint\StudentManagementApp_V.2.dll
+C:\Users\Kofeyok\source\repos\StudentManagementApp_V.2\StudentManagementApp_V.2\obj\Debug\net8.0\StudentManagementApp_V.2.pdb
+C:\Users\Kofeyok\source\repos\StudentManagementApp_V.2\StudentManagementApp_V.2\obj\Debug\net8.0\StudentManagementApp_V.2.genruntimeconfig.cache
+C:\Users\Kofeyok\source\repos\StudentManagementApp_V.2\StudentManagementApp_V.2\obj\Debug\net8.0\ref\StudentManagementApp_V.2.dll

@@ -1,0 +1,6002 @@
+[
+  {
+    "Id": "3667f542-990a-4937-8a24-6ead1c881b37",
+    "Name": "Student_73a4f",
+    "Group": "D4",
+    "AverageGrade": 1.94
+  },
+  {
+    "Id": "95ec0d7c-a2cf-4e44-969c-f44b6ca2d5af",
+    "Name": "Student_75f15",
+    "Group": "C3",
+    "AverageGrade": 4.88
+  },
+  {
+    "Id": "c0916ffe-b98b-4289-be04-3af89307062e",
+    "Name": "Student_5a059",
+    "Group": "C3",
+    "AverageGrade": 0.61
+  },
+  {
+    "Id": "7d63cfa9-68e2-4f2c-b87d-1d4d9ce4d346",
+    "Name": "Student_d2422",
+    "Group": "B2",
+    "AverageGrade": 3.85
+  },
+  {
+    "Id": "b6aac575-e60f-4959-94b4-d14b05fab666",
+    "Name": "Student_4d887",
+    "Group": "B2",
+    "AverageGrade": 2.7
+  },
+  {
+    "Id": "806d8ae3-c558-4df8-9080-064095f17f66",
+    "Name": "Student_b9569",
+    "Group": "A1",
+    "AverageGrade": 0.33
+  },
+  {
+    "Id": "b2426ab8-2b4d-450f-83fb-f26b0fd6828e",
+    "Name": "Student_a4a75",
+    "Group": "A1",
+    "AverageGrade": 2.68
+  },
+  {
+    "Id": "edc5cd20-064b-43fb-9f3c-6279a9289a6a",
+    "Name": "Student_123a3",
+    "Group": "B2",
+    "AverageGrade": 2.52
+  },
+  {
+    "Id": "e798eb5b-f409-41ef-9c04-688af89391fd",
+    "Name": "Student_9d8c0",
+    "Group": "A1",
+    "AverageGrade": 3.59
+  },
+  {
+    "Id": "4d1c2c41-9999-4de8-b3fc-0413c6349c3f",
+    "Name": "Student_c22fd",
+    "Group": "B2",
+    "AverageGrade": 2.5
+  },
+  {
+    "Id": "6c36882d-7460-4284-9538-195ac34fdcbc",
+    "Name": "Student_0a5c0",
+    "Group": "D4",
+    "AverageGrade": 3.89
+  },
+  {
+    "Id": "74c15488-3939-4288-bdfa-e68ab96a71d4",
+    "Name": "Student_8e7e6",
+    "Group": "C3",
+    "AverageGrade": 2.04
+  },
+  {
+    "Id": "18579fb9-c8e3-4661-bbcb-430c3d3ce57c",
+    "Name": "Student_4d100",
+    "Group": "C3",
+    "AverageGrade": 0.76
+  },
+  {
+    "Id": "62b916fb-6b8f-4273-b69d-2f6c9b5e887d",
+    "Name": "Student_1284c",
+    "Group": "B2",
+    "AverageGrade": 1.72
+  },
+  {
+    "Id": "2a19c1e3-5a53-46a7-b208-df1b4f9e6eb9",
+    "Name": "Student_bff8e",
+    "Group": "C3",
+    "AverageGrade": 3.99
+  },
+  {
+    "Id": "c1bdaec1-1bdf-4138-807a-8ebaccb4fb00",
+    "Name": "Student_9d1aa",
+    "Group": "A1",
+    "AverageGrade": 0.57
+  },
+  {
+    "Id": "232de417-8df9-4c91-acc2-b571e4141a37",
+    "Name": "Student_3dcfb",
+    "Group": "B2",
+    "AverageGrade": 0.1
+  },
+  {
+    "Id": "6d4f279a-a45e-4b3e-8dcb-0b8b912c0fa4",
+    "Name": "Student_2f16f",
+    "Group": "B2",
+    "AverageGrade": 4.07
+  },
+  {
+    "Id": "2fa839e9-94b1-4476-8eb8-d7ec6461f6b5",
+    "Name": "Student_05d47",
+    "Group": "B2",
+    "AverageGrade": 1.44
+  },
+  {
+    "Id": "b1d73042-a655-4612-ba28-acf67643033c",
+    "Name": "Student_c49d1",
+    "Group": "A1",
+    "AverageGrade": 4.86
+  },
+  {
+    "Id": "f4e5f9d7-53bb-46f6-8189-f6cce1c8e800",
+    "Name": "Student_370f8",
+    "Group": "C3",
+    "AverageGrade": 2.68
+  },
+  {
+    "Id": "8f35ef93-0d37-4a62-8a60-24b5df3b324b",
+    "Name": "Student_1f03e",
+    "Group": "D4",
+    "AverageGrade": 4.98
+  },
+  {
+    "Id": "3a64c7bc-0eca-4b89-8847-24fd7b6c51e1",
+    "Name": "Student_4a364",
+    "Group": "A1",
+    "AverageGrade": 2.01
+  },
+  {
+    "Id": "29af9068-ef4e-43c0-9c11-a79b025e588c",
+    "Name": "Student_85231",
+    "Group": "C3",
+    "AverageGrade": 3.71
+  },
+  {
+    "Id": "c9bba493-b325-4edb-9f65-7a7b3a82c831",
+    "Name": "Student_c1689",
+    "Group": "C3",
+    "AverageGrade": 1.62
+  },
+  {
+    "Id": "8d504cc9-aa09-48a7-bfa6-b2d9f909741a",
+    "Name": "Student_85903",
+    "Group": "A1",
+    "AverageGrade": 4.23
+  },
+  {
+    "Id": "75be91c8-00d9-41d4-b022-4aae1363caae",
+    "Name": "Student_c5e1c",
+    "Group": "A1",
+    "AverageGrade": 2.37
+  },
+  {
+    "Id": "735dc145-bc65-4538-92a8-3dde5acd1bdf",
+    "Name": "Student_31d52",
+    "Group": "A1",
+    "AverageGrade": 3.5
+  },
+  {
+    "Id": "91a0f851-a9c4-4b1c-8830-216355e2b6d1",
+    "Name": "Student_a9aa2",
+    "Group": "A1",
+    "AverageGrade": 3.43
+  },
+  {
+    "Id": "c0c64c21-7fdc-4b3a-b447-900b6b62eaf3",
+    "Name": "Student_929bd",
+    "Group": "B2",
+    "AverageGrade": 1.78
+  },
+  {
+    "Id": "879a0334-055d-49c2-999a-b3835f92ac67",
+    "Name": "Student_d2a8d",
+    "Group": "B2",
+    "AverageGrade": 1.48
+  },
+  {
+    "Id": "3a1118df-5205-44a6-bf87-821767ec31dd",
+    "Name": "Student_4cc59",
+    "Group": "C3",
+    "AverageGrade": 0.77
+  },
+  {
+    "Id": "a2406fc4-cb19-47ba-866e-aa92b9c831d6",
+    "Name": "Student_3e906",
+    "Group": "B2",
+    "AverageGrade": 2.47
+  },
+  {
+    "Id": "defda475-898a-47e7-92ea-a0e4837f5854",
+    "Name": "Student_68710",
+    "Group": "B2",
+    "AverageGrade": 2.01
+  },
+  {
+    "Id": "ff8103e5-a0f9-4922-a3ec-d6b412c26584",
+    "Name": "Student_288f3",
+    "Group": "B2",
+    "AverageGrade": 4.18
+  },
+  {
+    "Id": "9f3460de-2318-4ea4-9f1f-47339bf78206",
+    "Name": "Student_80a55",
+    "Group": "B2",
+    "AverageGrade": 0.7
+  },
+  {
+    "Id": "07199dba-8ecf-401a-b2b0-4befcca59c95",
+    "Name": "Student_59f8f",
+    "Group": "C3",
+    "AverageGrade": 4.28
+  },
+  {
+    "Id": "ec2473a4-a11b-4e74-9c75-00b8a1eccbb5",
+    "Name": "Student_05c53",
+    "Group": "A1",
+    "AverageGrade": 1.55
+  },
+  {
+    "Id": "8f556f30-61a2-43ec-9ee1-4100be003e5d",
+    "Name": "Student_46109",
+    "Group": "B2",
+    "AverageGrade": 0.38
+  },
+  {
+    "Id": "4e95880c-4183-4145-b63d-b5e026fad5e5",
+    "Name": "Student_cc6e7",
+    "Group": "C3",
+    "AverageGrade": 4.74
+  },
+  {
+    "Id": "5ecdd655-b863-4d81-9638-fe4f1fbbed54",
+    "Name": "Student_4e996",
+    "Group": "B2",
+    "AverageGrade": 3.55
+  },
+  {
+    "Id": "541dad5b-26a1-4afd-b3ce-286b6dce525a",
+    "Name": "Student_0a206",
+    "Group": "C3",
+    "AverageGrade": 0.72
+  },
+  {
+    "Id": "42db02ae-7c64-4a88-b14e-d90f5f7c5149",
+    "Name": "Student_16adc",
+    "Group": "B2",
+    "AverageGrade": 0.89
+  },
+  {
+    "Id": "87e5b43c-0437-49d4-a3ed-5b568e6e8ed4",
+    "Name": "Student_87e27",
+    "Group": "A1",
+    "AverageGrade": 3.31
+  },
+  {
+    "Id": "2739adf5-f788-46de-9a07-c99b559f36e6",
+    "Name": "Student_5a680",
+    "Group": "D4",
+    "AverageGrade": 3.49
+  },
+  {
+    "Id": "fd5141b3-589f-4fcd-874d-9de0ccfbc441",
+    "Name": "Student_ce362",
+    "Group": "D4",
+    "AverageGrade": 4.27
+  },
+  {
+    "Id": "81a76b7c-2482-4b12-a0a5-58fcf483225a",
+    "Name": "Student_3904f",
+    "Group": "C3",
+    "AverageGrade": 3.35
+  },
+  {
+    "Id": "fca84158-6833-4edc-9818-3e0a5bab744f",
+    "Name": "Student_15477",
+    "Group": "B2",
+    "AverageGrade": 2.68
+  },
+  {
+    "Id": "ce1cb18c-e1f1-4d7a-9260-282d4c1cbfc3",
+    "Name": "Student_d3c63",
+    "Group": "D4",
+    "AverageGrade": 3.22
+  },
+  {
+    "Id": "223dc3c0-bffc-48bb-af4e-53e6a352bfc4",
+    "Name": "Student_92b43",
+    "Group": "C3",
+    "AverageGrade": 0.11
+  },
+  {
+    "Id": "837059d2-1d17-481a-b726-5f2b46c914ce",
+    "Name": "Student_70dab",
+    "Group": "D4",
+    "AverageGrade": 2.72
+  },
+  {
+    "Id": "24ccc1e7-091a-4de8-8f55-8af8943eb128",
+    "Name": "Student_b3953",
+    "Group": "C3",
+    "AverageGrade": 4.12
+  },
+  {
+    "Id": "9e8fd3c1-1c0c-43b4-bb5e-75562840ca5c",
+    "Name": "Student_9d357",
+    "Group": "A1",
+    "AverageGrade": 1.46
+  },
+  {
+    "Id": "065fc3e9-35e0-4eca-b04f-504521677598",
+    "Name": "Student_d721a",
+    "Group": "A1",
+    "AverageGrade": 2.15
+  },
+  {
+    "Id": "01fc2940-1c5e-4482-8130-f2c764648be6",
+    "Name": "Student_4f79d",
+    "Group": "B2",
+    "AverageGrade": 0
+  },
+  {
+    "Id": "dda256e6-bac8-4cef-8926-1490f0bdd93d",
+    "Name": "Student_f9429",
+    "Group": "C3",
+    "AverageGrade": 3.61
+  },
+  {
+    "Id": "566c3502-6541-42ad-910d-73ed597af4c1",
+    "Name": "Student_366a6",
+    "Group": "A1",
+    "AverageGrade": 1.15
+  },
+  {
+    "Id": "4988244b-7ab1-4519-ad29-18d3e8acb26b",
+    "Name": "Student_1b187",
+    "Group": "A1",
+    "AverageGrade": 0.91
+  },
+  {
+    "Id": "37b711d7-e750-4a95-9d7d-1439429dc83c",
+    "Name": "Student_12fc9",
+    "Group": "D4",
+    "AverageGrade": 3.83
+  },
+  {
+    "Id": "a4e305fb-f33b-4dba-84ef-ff990029b789",
+    "Name": "Student_3fa38",
+    "Group": "A1",
+    "AverageGrade": 1.35
+  },
+  {
+    "Id": "166ce2a9-7148-45f3-a866-3d9b7c7aa2c3",
+    "Name": "Student_7acf8",
+    "Group": "C3",
+    "AverageGrade": 4.44
+  },
+  {
+    "Id": "ae2ea4ea-4a45-4f1b-8aa6-d40119a52307",
+    "Name": "Student_42109",
+    "Group": "B2",
+    "AverageGrade": 4.24
+  },
+  {
+    "Id": "ac9c82bd-1555-4a15-a1c2-da44eb63880c",
+    "Name": "Student_c60cf",
+    "Group": "B2",
+    "AverageGrade": 2.19
+  },
+  {
+    "Id": "0fde11a6-2002-451f-a379-aa541607c6bd",
+    "Name": "Student_4b9bc",
+    "Group": "D4",
+    "AverageGrade": 0.06
+  },
+  {
+    "Id": "f6518183-2532-43dd-847b-a93dc3b7f8e3",
+    "Name": "Student_202f3",
+    "Group": "A1",
+    "AverageGrade": 1.25
+  },
+  {
+    "Id": "85a558c6-38a3-47a9-b4a8-7a7cef520ce5",
+    "Name": "Student_9595d",
+    "Group": "C3",
+    "AverageGrade": 2.67
+  },
+  {
+    "Id": "c79f22bc-9592-4dca-b0a1-790f03ff0211",
+    "Name": "Student_ff54c",
+    "Group": "B2",
+    "AverageGrade": 3.38
+  },
+  {
+    "Id": "cdbf0c46-fc23-4b4b-b968-0dab85fa8c8a",
+    "Name": "Student_eff2b",
+    "Group": "D4",
+    "AverageGrade": 4.36
+  },
+  {
+    "Id": "b65c0cbc-6269-4335-9ac5-92454066d59d",
+    "Name": "Student_9462d",
+    "Group": "B2",
+    "AverageGrade": 3.29
+  },
+  {
+    "Id": "71b85941-5dd0-4963-8163-dccc5ae69113",
+    "Name": "Student_009cd",
+    "Group": "A1",
+    "AverageGrade": 3.65
+  },
+  {
+    "Id": "6e6a2de3-ab19-4aae-9d95-ddbbcdd3ea2a",
+    "Name": "Student_943a3",
+    "Group": "A1",
+    "AverageGrade": 1.43
+  },
+  {
+    "Id": "2a7da7b4-e896-4c0f-b225-b49dd43fcef4",
+    "Name": "Student_3326c",
+    "Group": "B2",
+    "AverageGrade": 0.82
+  },
+  {
+    "Id": "97d7072e-246f-4e3e-b150-85dd37a602d7",
+    "Name": "Student_15594",
+    "Group": "C3",
+    "AverageGrade": 4.58
+  },
+  {
+    "Id": "e07f3d83-273f-4d1b-89a5-5d9401a8185b",
+    "Name": "Student_11064",
+    "Group": "A1",
+    "AverageGrade": 0.61
+  },
+  {
+    "Id": "1ce9f851-9fb0-4a20-9da6-391004023689",
+    "Name": "Student_b9d4f",
+    "Group": "D4",
+    "AverageGrade": 1.85
+  },
+  {
+    "Id": "ecb1d842-bca3-4728-a29e-05f977d9e411",
+    "Name": "Student_3afe9",
+    "Group": "A1",
+    "AverageGrade": 1.3
+  },
+  {
+    "Id": "d5111cb5-9c4c-49ee-aeea-4a39b3fdc094",
+    "Name": "Student_075e6",
+    "Group": "C3",
+    "AverageGrade": 2.36
+  },
+  {
+    "Id": "7b82232b-306f-47d1-89a2-0e34e78f654f",
+    "Name": "Student_2ea9e",
+    "Group": "B2",
+    "AverageGrade": 2.52
+  },
+  {
+    "Id": "f1055d06-1299-40de-a9f7-09111a273739",
+    "Name": "Student_9b5b6",
+    "Group": "A1",
+    "AverageGrade": 1.42
+  },
+  {
+    "Id": "821c5429-2fbe-493b-8178-f890e1f67298",
+    "Name": "Student_6bb26",
+    "Group": "A1",
+    "AverageGrade": 3.83
+  },
+  {
+    "Id": "55cd265a-be31-462b-8313-a829b7bfe8a2",
+    "Name": "Student_9a4ef",
+    "Group": "C3",
+    "AverageGrade": 4.11
+  },
+  {
+    "Id": "90f60a90-4b63-405a-9f4f-8a790373a6a1",
+    "Name": "Student_d33ca",
+    "Group": "C3",
+    "AverageGrade": 1.19
+  },
+  {
+    "Id": "4d369fb8-5ed5-4287-9e60-2f0bd8d914c9",
+    "Name": "Student_9ea3f",
+    "Group": "D4",
+    "AverageGrade": 0.16
+  },
+  {
+    "Id": "8705527a-df9f-40d7-b449-cf148324b1da",
+    "Name": "Student_483f9",
+    "Group": "A1",
+    "AverageGrade": 0.4
+  },
+  {
+    "Id": "c90e77db-d679-4c9f-885d-4a19dd565942",
+    "Name": "Student_ef3dd",
+    "Group": "D4",
+    "AverageGrade": 0.76
+  },
+  {
+    "Id": "ac54c20b-8897-4498-9bf6-6f96664593a7",
+    "Name": "Student_e8b4e",
+    "Group": "C3",
+    "AverageGrade": 2.68
+  },
+  {
+    "Id": "1a23134e-a8bd-451b-9f35-d43dedb98d63",
+    "Name": "Student_b1b67",
+    "Group": "D4",
+    "AverageGrade": 0.63
+  },
+  {
+    "Id": "c6b4d1c5-fe5f-4acc-bc72-a42e2c1d6380",
+    "Name": "Student_6d18b",
+    "Group": "B2",
+    "AverageGrade": 2.01
+  },
+  {
+    "Id": "511a225a-47aa-46ef-8d9b-c49722ced762",
+    "Name": "Student_3b43f",
+    "Group": "B2",
+    "AverageGrade": 1.56
+  },
+  {
+    "Id": "0be957ee-a914-4061-9cad-337b55240fa1",
+    "Name": "Student_a7f40",
+    "Group": "C3",
+    "AverageGrade": 3.55
+  },
+  {
+    "Id": "3b8b94fc-068d-4cfd-af88-c868ade8be80",
+    "Name": "Student_22818",
+    "Group": "D4",
+    "AverageGrade": 2.24
+  },
+  {
+    "Id": "cf5ec08a-b6a5-4857-9f33-e53493d5a16c",
+    "Name": "Student_79b42",
+    "Group": "A1",
+    "AverageGrade": 4.58
+  },
+  {
+    "Id": "0ffceb04-0ca5-440b-a999-af82b3392bcd",
+    "Name": "Student_208df",
+    "Group": "A1",
+    "AverageGrade": 0.43
+  },
+  {
+    "Id": "b6a66dcb-d75c-4dc5-86f9-343ffd38a2b7",
+    "Name": "Student_c09b1",
+    "Group": "C3",
+    "AverageGrade": 1.18
+  },
+  {
+    "Id": "a1febe94-6238-4691-93c8-e04e5c80de3b",
+    "Name": "Student_2e793",
+    "Group": "B2",
+    "AverageGrade": 3.31
+  },
+  {
+    "Id": "08efbec8-3cdf-4a31-a9ea-9eaade887d73",
+    "Name": "Student_b3bb5",
+    "Group": "A1",
+    "AverageGrade": 3.77
+  },
+  {
+    "Id": "b02fb0ad-c0e6-4740-b95c-20d115d87ac7",
+    "Name": "Student_1e348",
+    "Group": "D4",
+    "AverageGrade": 1.96
+  },
+  {
+    "Id": "0a4ad5f3-94ef-438e-979e-dff824588eee",
+    "Name": "Student_0a883",
+    "Group": "B2",
+    "AverageGrade": 2.09
+  },
+  {
+    "Id": "748f4ab0-7af9-4ef8-8c38-51297d3e28a8",
+    "Name": "Student_40acb",
+    "Group": "A1",
+    "AverageGrade": 4.54
+  },
+  {
+    "Id": "d6b82dbe-aa0f-4e6c-8fa5-bae1aed26352",
+    "Name": "Student_ea091",
+    "Group": "C3",
+    "AverageGrade": 1.57
+  },
+  {
+    "Id": "0437b60e-6e56-45c1-afd9-1a2f99f9c308",
+    "Name": "Student_b34ec",
+    "Group": "D4",
+    "AverageGrade": 2.08
+  },
+  {
+    "Id": "1c8320fe-0712-4710-8227-fd2466a8959c",
+    "Name": "Student_317e4",
+    "Group": "C3",
+    "AverageGrade": 0.23
+  },
+  {
+    "Id": "dc4a1043-762f-4513-b8a8-a049d185f469",
+    "Name": "Student_7b9d2",
+    "Group": "C3",
+    "AverageGrade": 2.7
+  },
+  {
+    "Id": "270c64f7-e221-4a2e-a87f-be7f5d34af49",
+    "Name": "Student_bf142",
+    "Group": "B2",
+    "AverageGrade": 2.6
+  },
+  {
+    "Id": "1291eef8-efd8-4ef1-8b7f-98ff10fb10a2",
+    "Name": "Student_a85bd",
+    "Group": "D4",
+    "AverageGrade": 4.27
+  },
+  {
+    "Id": "ffaf201d-936f-4eb2-a8f8-42c2e70c3ce0",
+    "Name": "Student_50dba",
+    "Group": "C3",
+    "AverageGrade": 0.4
+  },
+  {
+    "Id": "32571526-9c95-4ded-b703-5b62b6035e14",
+    "Name": "Student_77c46",
+    "Group": "A1",
+    "AverageGrade": 3.54
+  },
+  {
+    "Id": "ff00934c-eab0-42c6-9a5b-ee5c3ad02f8c",
+    "Name": "Student_4fab0",
+    "Group": "A1",
+    "AverageGrade": 2.47
+  },
+  {
+    "Id": "e1aad91d-17fe-41fb-a1ed-a010137424c9",
+    "Name": "Student_59bee",
+    "Group": "D4",
+    "AverageGrade": 3.69
+  },
+  {
+    "Id": "27b9a3c1-72f8-439d-8427-1fc57bcafe54",
+    "Name": "Student_a1e0d",
+    "Group": "B2",
+    "AverageGrade": 0.89
+  },
+  {
+    "Id": "031cca11-3135-4fa2-be30-310f3d40d604",
+    "Name": "Student_55d4b",
+    "Group": "A1",
+    "AverageGrade": 4.06
+  },
+  {
+    "Id": "8c4cf7ed-4106-4e15-9eca-77f4fd1ae881",
+    "Name": "Student_eb6aa",
+    "Group": "A1",
+    "AverageGrade": 2.34
+  },
+  {
+    "Id": "1aa4a0ae-4e12-4ee6-be73-4037729f60ea",
+    "Name": "Student_bfc06",
+    "Group": "D4",
+    "AverageGrade": 4.75
+  },
+  {
+    "Id": "d7508300-607d-40b2-bfea-fbdd9c840b4d",
+    "Name": "Student_116d5",
+    "Group": "C3",
+    "AverageGrade": 2.71
+  },
+  {
+    "Id": "6223805c-50a0-4c54-a299-e2b9cdd94d74",
+    "Name": "Student_f8a19",
+    "Group": "C3",
+    "AverageGrade": 3.14
+  },
+  {
+    "Id": "e5d13ce3-c546-4dc9-863e-4baf99637022",
+    "Name": "Student_bc28e",
+    "Group": "D4",
+    "AverageGrade": 0.3
+  },
+  {
+    "Id": "4b29d9e3-6ea0-4fc6-865e-13c4058ad4d3",
+    "Name": "Student_063e2",
+    "Group": "A1",
+    "AverageGrade": 4.77
+  },
+  {
+    "Id": "86de0dc0-6297-4020-898b-b206525b158c",
+    "Name": "Student_e154b",
+    "Group": "A1",
+    "AverageGrade": 0.02
+  },
+  {
+    "Id": "167eaedd-d23f-45a2-9044-d8d207dcb815",
+    "Name": "Student_3e682",
+    "Group": "B2",
+    "AverageGrade": 2.71
+  },
+  {
+    "Id": "641c2afd-7a22-4128-9ddb-c3b6359e277a",
+    "Name": "Student_4f7ec",
+    "Group": "C3",
+    "AverageGrade": 1.62
+  },
+  {
+    "Id": "82d53bbc-cae5-4896-9709-3305990046b9",
+    "Name": "Student_c6731",
+    "Group": "A1",
+    "AverageGrade": 1.76
+  },
+  {
+    "Id": "ed5375d5-dfa9-4ab2-8620-3acad9f0ef68",
+    "Name": "Student_e5500",
+    "Group": "A1",
+    "AverageGrade": 3.92
+  },
+  {
+    "Id": "570b3b45-38c6-48b9-ab9f-63fe51f363ea",
+    "Name": "Student_10420",
+    "Group": "C3",
+    "AverageGrade": 0.79
+  },
+  {
+    "Id": "368435c4-232d-4679-9624-b6d7193b22de",
+    "Name": "Student_e3e91",
+    "Group": "A1",
+    "AverageGrade": 0.11
+  },
+  {
+    "Id": "141e837d-f112-4f30-99f1-e7bd6365a305",
+    "Name": "Student_cfff9",
+    "Group": "B2",
+    "AverageGrade": 1.72
+  },
+  {
+    "Id": "b03b1746-5743-4394-8bd5-9cffa3b56a0d",
+    "Name": "Student_88f1a",
+    "Group": "D4",
+    "AverageGrade": 1
+  },
+  {
+    "Id": "21ff162c-5da6-439b-a26e-af009c838ccf",
+    "Name": "Student_9330d",
+    "Group": "D4",
+    "AverageGrade": 2.85
+  },
+  {
+    "Id": "d00d9a48-a18f-4137-acab-0c88595dd9d2",
+    "Name": "Student_cbde8",
+    "Group": "D4",
+    "AverageGrade": 2.78
+  },
+  {
+    "Id": "491287d8-5c56-41ac-bf8e-298cbb5445fd",
+    "Name": "Student_ca4ed",
+    "Group": "D4",
+    "AverageGrade": 2.93
+  },
+  {
+    "Id": "c864b441-0111-42bf-bd46-6a310337ab17",
+    "Name": "Student_367a0",
+    "Group": "B2",
+    "AverageGrade": 2.37
+  },
+  {
+    "Id": "e1b65927-567c-4ed6-a184-8cca42a412c6",
+    "Name": "Student_83a57",
+    "Group": "D4",
+    "AverageGrade": 3.87
+  },
+  {
+    "Id": "7ff4aa75-87a8-4e0f-8c2b-f703ac112872",
+    "Name": "Student_866f5",
+    "Group": "A1",
+    "AverageGrade": 0.21
+  },
+  {
+    "Id": "9cee54fe-cd5e-4baa-a81c-dedf424ce299",
+    "Name": "Student_aae51",
+    "Group": "C3",
+    "AverageGrade": 2.12
+  },
+  {
+    "Id": "36c25123-b15e-47fc-9d16-9da7801dc8c8",
+    "Name": "Student_309ef",
+    "Group": "D4",
+    "AverageGrade": 2.51
+  },
+  {
+    "Id": "2b77c3f3-b771-453d-9083-c6e43707b8d9",
+    "Name": "Student_29af1",
+    "Group": "D4",
+    "AverageGrade": 4.16
+  },
+  {
+    "Id": "56dc7e58-6d8b-49d4-98a9-13d1b4c7496d",
+    "Name": "Student_42c55",
+    "Group": "D4",
+    "AverageGrade": 1.53
+  },
+  {
+    "Id": "b28d8c9b-c76f-4cbe-ae1b-1258b7489623",
+    "Name": "Student_d229b",
+    "Group": "D4",
+    "AverageGrade": 4.2
+  },
+  {
+    "Id": "d73cd6dd-eecf-47a5-8c4f-62cd7d0e51b3",
+    "Name": "Student_71a2f",
+    "Group": "C3",
+    "AverageGrade": 1.34
+  },
+  {
+    "Id": "a5f57c58-da3d-41bf-84a6-e4c2783dcb89",
+    "Name": "Student_5a95f",
+    "Group": "D4",
+    "AverageGrade": 3.1
+  },
+  {
+    "Id": "dc123aa8-4f39-4ea4-8ab4-31a6ae7bee29",
+    "Name": "Student_f8688",
+    "Group": "C3",
+    "AverageGrade": 2.7
+  },
+  {
+    "Id": "333d8c15-673c-4249-b194-37f053eb6f96",
+    "Name": "Student_2afbc",
+    "Group": "C3",
+    "AverageGrade": 0.82
+  },
+  {
+    "Id": "ce7343d1-21f8-4e16-a462-b490897f71b2",
+    "Name": "Student_b267d",
+    "Group": "A1",
+    "AverageGrade": 1.08
+  },
+  {
+    "Id": "a9ad5bf9-8073-4609-be41-18dece935396",
+    "Name": "Student_a6a3e",
+    "Group": "C3",
+    "AverageGrade": 2.19
+  },
+  {
+    "Id": "3eb3ac88-cfcf-4674-a5c9-a3c880671a39",
+    "Name": "Student_79181",
+    "Group": "D4",
+    "AverageGrade": 0.86
+  },
+  {
+    "Id": "12446e53-f02b-433f-a062-3b2447b8882e",
+    "Name": "Student_79e99",
+    "Group": "A1",
+    "AverageGrade": 4.03
+  },
+  {
+    "Id": "96a44e1b-4bdc-45ad-a9dd-ad7d0519d4f4",
+    "Name": "Student_b8e41",
+    "Group": "A1",
+    "AverageGrade": 3.48
+  },
+  {
+    "Id": "4b424243-9e00-4d85-8487-31bda73d21be",
+    "Name": "Student_5f868",
+    "Group": "B2",
+    "AverageGrade": 4.74
+  },
+  {
+    "Id": "98914f60-50e2-4ec4-b61f-098d9e503edb",
+    "Name": "Student_7c39c",
+    "Group": "C3",
+    "AverageGrade": 3.56
+  },
+  {
+    "Id": "2b43389f-23cf-41c9-a8f5-75f5dda7f2bc",
+    "Name": "Student_4f7e4",
+    "Group": "D4",
+    "AverageGrade": 4.68
+  },
+  {
+    "Id": "ad0e57fc-5254-46b3-88e3-00209086a6fc",
+    "Name": "Student_6c491",
+    "Group": "B2",
+    "AverageGrade": 1.49
+  },
+  {
+    "Id": "86514541-8fc1-4716-9106-fc0dd5b5d690",
+    "Name": "Student_9ef2d",
+    "Group": "D4",
+    "AverageGrade": 1.04
+  },
+  {
+    "Id": "0dee190a-e671-4759-9776-458e25fcfb5e",
+    "Name": "Student_18a6a",
+    "Group": "D4",
+    "AverageGrade": 3.85
+  },
+  {
+    "Id": "a16e1a6d-59da-4a86-ac66-5bb9098d7625",
+    "Name": "Student_23778",
+    "Group": "D4",
+    "AverageGrade": 0.48
+  },
+  {
+    "Id": "ebd54c35-63c8-495b-8ce8-214d54b2ebb5",
+    "Name": "Student_2f397",
+    "Group": "C3",
+    "AverageGrade": 4.5
+  },
+  {
+    "Id": "7b150527-16b8-4dc3-92e5-5d44a7bc5549",
+    "Name": "Student_8021c",
+    "Group": "A1",
+    "AverageGrade": 1.38
+  },
+  {
+    "Id": "c8223695-849d-4a1d-89dc-2f0e4a1913d4",
+    "Name": "Student_68490",
+    "Group": "C3",
+    "AverageGrade": 4.41
+  },
+  {
+    "Id": "0aaad845-04df-4e72-838c-31ee39eccfec",
+    "Name": "Student_a04f0",
+    "Group": "B2",
+    "AverageGrade": 0.57
+  },
+  {
+    "Id": "76f4300c-fe9a-4628-ad59-8893becb2dbe",
+    "Name": "Student_553af",
+    "Group": "C3",
+    "AverageGrade": 1.49
+  },
+  {
+    "Id": "ec8c7156-663f-420e-9c79-245e11221dc8",
+    "Name": "Student_18d4d",
+    "Group": "B2",
+    "AverageGrade": 2.41
+  },
+  {
+    "Id": "480daa5e-b66e-4d84-82b3-c4fcc0fdc06d",
+    "Name": "Student_22992",
+    "Group": "D4",
+    "AverageGrade": 4.02
+  },
+  {
+    "Id": "50c41817-a278-4d71-bee2-e6ccf219dd43",
+    "Name": "Student_499c2",
+    "Group": "B2",
+    "AverageGrade": 3.66
+  },
+  {
+    "Id": "b1e98417-d8b2-4089-9146-3177c982b818",
+    "Name": "Student_66d70",
+    "Group": "A1",
+    "AverageGrade": 0.4
+  },
+  {
+    "Id": "cfe4ffdd-fad9-4353-b76d-5cf82b3166b8",
+    "Name": "Student_5ef4d",
+    "Group": "B2",
+    "AverageGrade": 0.68
+  },
+  {
+    "Id": "caa305f5-7370-4301-bfff-f002f03a3ae6",
+    "Name": "Student_d2469",
+    "Group": "C3",
+    "AverageGrade": 2.06
+  },
+  {
+    "Id": "383d04c3-b9be-4696-a8a4-8785047c4736",
+    "Name": "Student_66e1d",
+    "Group": "D4",
+    "AverageGrade": 1.5
+  },
+  {
+    "Id": "26e71e38-151b-4368-a839-9c9e27a6a82a",
+    "Name": "Student_f23fc",
+    "Group": "D4",
+    "AverageGrade": 0.06
+  },
+  {
+    "Id": "cc383bd6-94ce-402b-be1b-82dc737b9129",
+    "Name": "Student_e35cc",
+    "Group": "B2",
+    "AverageGrade": 0.88
+  },
+  {
+    "Id": "5bf9f510-e7e9-4199-854f-982441b7c2c0",
+    "Name": "Student_b9823",
+    "Group": "A1",
+    "AverageGrade": 4.46
+  },
+  {
+    "Id": "8706f6b7-7c15-467f-9778-74af37d7be86",
+    "Name": "Student_232bf",
+    "Group": "C3",
+    "AverageGrade": 2.97
+  },
+  {
+    "Id": "663971e2-7393-4eca-9287-fef52d22f664",
+    "Name": "Student_eff48",
+    "Group": "C3",
+    "AverageGrade": 3.28
+  },
+  {
+    "Id": "51c2dcb9-4829-4942-b390-84f54abe41b4",
+    "Name": "Student_91f09",
+    "Group": "C3",
+    "AverageGrade": 2.96
+  },
+  {
+    "Id": "558a84c6-5a74-4dc1-91c8-8799d56b9010",
+    "Name": "Student_ae2dc",
+    "Group": "C3",
+    "AverageGrade": 1.44
+  },
+  {
+    "Id": "c7e2208c-a046-445d-ab09-333904c7ca13",
+    "Name": "Student_ed464",
+    "Group": "D4",
+    "AverageGrade": 0.29
+  },
+  {
+    "Id": "8e3d3474-1048-40e0-89b6-8df2726b44ae",
+    "Name": "Student_f937f",
+    "Group": "B2",
+    "AverageGrade": 1.69
+  },
+  {
+    "Id": "c4b7a76e-842f-48be-9be7-aa47ff8d15f7",
+    "Name": "Student_7dc3f",
+    "Group": "B2",
+    "AverageGrade": 0.96
+  },
+  {
+    "Id": "356fd181-e020-473f-b0bb-4b6fd042f035",
+    "Name": "Student_d4e4c",
+    "Group": "D4",
+    "AverageGrade": 2.25
+  },
+  {
+    "Id": "012df355-7208-49fa-9ea2-704147080eee",
+    "Name": "Student_a629b",
+    "Group": "C3",
+    "AverageGrade": 0.25
+  },
+  {
+    "Id": "5f327256-d7a2-413f-8842-51cb3e99bab7",
+    "Name": "Student_caace",
+    "Group": "D4",
+    "AverageGrade": 4.89
+  },
+  {
+    "Id": "a303fd45-9ab5-425a-890e-417b93220f82",
+    "Name": "Student_fc361",
+    "Group": "C3",
+    "AverageGrade": 3.99
+  },
+  {
+    "Id": "be8d5471-47e9-489b-bf6e-acbaa8ec3b6d",
+    "Name": "Student_bf491",
+    "Group": "A1",
+    "AverageGrade": 2.71
+  },
+  {
+    "Id": "dbf39bb0-181e-4f3e-b8a4-e53e0e3a0bf5",
+    "Name": "Student_7341e",
+    "Group": "A1",
+    "AverageGrade": 4.63
+  },
+  {
+    "Id": "a18dd078-aebf-476b-954c-0b971d82b3d7",
+    "Name": "Student_c84f0",
+    "Group": "B2",
+    "AverageGrade": 1.8
+  },
+  {
+    "Id": "9c8bd41c-1726-4987-97fe-96b56176d9ba",
+    "Name": "Student_b90c1",
+    "Group": "B2",
+    "AverageGrade": 0.5
+  },
+  {
+    "Id": "0019e424-cee7-4df4-98af-109c2f891510",
+    "Name": "Student_4fb47",
+    "Group": "C3",
+    "AverageGrade": 1.65
+  },
+  {
+    "Id": "a3e716ea-9b7f-424d-96f4-abb90d539584",
+    "Name": "Student_42bfe",
+    "Group": "D4",
+    "AverageGrade": 4.11
+  },
+  {
+    "Id": "1c61f61e-4ef6-4255-8690-3600ddd50b75",
+    "Name": "Student_ae120",
+    "Group": "C3",
+    "AverageGrade": 2.03
+  },
+  {
+    "Id": "676802af-d2bf-43bd-83ad-efe3f6114168",
+    "Name": "Student_03c10",
+    "Group": "A1",
+    "AverageGrade": 1.75
+  },
+  {
+    "Id": "2a65331b-8112-47c8-9a21-a399f97c1414",
+    "Name": "Student_752d1",
+    "Group": "A1",
+    "AverageGrade": 2.48
+  },
+  {
+    "Id": "6e68c8df-5f7c-453a-92f5-ac253b52c89f",
+    "Name": "Student_52c65",
+    "Group": "B2",
+    "AverageGrade": 2.75
+  },
+  {
+    "Id": "bd2734b4-9e69-4db7-9ec4-cb3f95c772d2",
+    "Name": "Student_e9740",
+    "Group": "C3",
+    "AverageGrade": 0.76
+  },
+  {
+    "Id": "9da7a56c-3d09-4c3e-8cb8-afacc28af317",
+    "Name": "Student_8a927",
+    "Group": "C3",
+    "AverageGrade": 4.93
+  },
+  {
+    "Id": "c1cbf7e7-b8ed-45de-ae4f-63d8eefa79e0",
+    "Name": "Student_43b5b",
+    "Group": "C3",
+    "AverageGrade": 4.88
+  },
+  {
+    "Id": "5d108130-a831-415e-94d0-dc4d7b05c8f5",
+    "Name": "Student_6f486",
+    "Group": "B2",
+    "AverageGrade": 3.63
+  },
+  {
+    "Id": "60a3c64b-26db-4462-a0d4-d38deba85085",
+    "Name": "Student_29179",
+    "Group": "D4",
+    "AverageGrade": 1.08
+  },
+  {
+    "Id": "8cfdbcc3-751e-45c4-8f82-ce2a8ddc93d4",
+    "Name": "Student_23696",
+    "Group": "C3",
+    "AverageGrade": 0.19
+  },
+  {
+    "Id": "f55f8ca0-94a8-4770-a0a2-5e41351942fb",
+    "Name": "Student_a94f1",
+    "Group": "C3",
+    "AverageGrade": 1.57
+  },
+  {
+    "Id": "6e4658b5-b840-4a90-a359-2360448ea100",
+    "Name": "Student_e377a",
+    "Group": "B2",
+    "AverageGrade": 2.76
+  },
+  {
+    "Id": "043bfea6-9c91-4e77-8f26-306e85f62100",
+    "Name": "Student_86034",
+    "Group": "C3",
+    "AverageGrade": 4.58
+  },
+  {
+    "Id": "5936afb1-32f8-456e-9c70-c62ef82bc17f",
+    "Name": "Student_60a1e",
+    "Group": "C3",
+    "AverageGrade": 0.56
+  },
+  {
+    "Id": "6252d869-48e3-43b2-9748-b69c98895765",
+    "Name": "Student_81ae6",
+    "Group": "A1",
+    "AverageGrade": 4.71
+  },
+  {
+    "Id": "9bd27d74-4f12-4157-b24c-58102f6d36db",
+    "Name": "Student_bc9b6",
+    "Group": "C3",
+    "AverageGrade": 0.81
+  },
+  {
+    "Id": "b7531aa7-6df6-4db1-87e9-bb4100e1b03b",
+    "Name": "Student_b8a0f",
+    "Group": "C3",
+    "AverageGrade": 3
+  },
+  {
+    "Id": "9928fbf6-78ef-4021-b37f-5babac15db1c",
+    "Name": "Student_c8763",
+    "Group": "A1",
+    "AverageGrade": 2.4
+  },
+  {
+    "Id": "5ef692d1-50a5-4ed9-8e25-38bf0c4eda90",
+    "Name": "Student_9d809",
+    "Group": "C3",
+    "AverageGrade": 0.61
+  },
+  {
+    "Id": "0c75c9c8-28c4-4a21-84be-b936bda62726",
+    "Name": "Student_6aca1",
+    "Group": "B2",
+    "AverageGrade": 1.25
+  },
+  {
+    "Id": "8320efb8-b75e-4ca9-99dd-e45c933542b4",
+    "Name": "Student_6a702",
+    "Group": "C3",
+    "AverageGrade": 1
+  },
+  {
+    "Id": "2e50b1fc-06ba-496d-bf5b-90ad3a0d873e",
+    "Name": "Student_fd450",
+    "Group": "D4",
+    "AverageGrade": 4.21
+  },
+  {
+    "Id": "69c1fe31-9027-44bd-8b4d-c16e729233ab",
+    "Name": "Student_cc575",
+    "Group": "A1",
+    "AverageGrade": 3.06
+  },
+  {
+    "Id": "727d8586-194c-4be0-92ec-315cc901bacb",
+    "Name": "Student_1648c",
+    "Group": "B2",
+    "AverageGrade": 4.76
+  },
+  {
+    "Id": "73c6611b-13d9-438a-b709-6cb1b0b32ac4",
+    "Name": "Student_bf24c",
+    "Group": "D4",
+    "AverageGrade": 4.97
+  },
+  {
+    "Id": "2e8d9ce7-ed77-42c9-8eed-dbaf8a441fd3",
+    "Name": "Student_b7c30",
+    "Group": "D4",
+    "AverageGrade": 2.79
+  },
+  {
+    "Id": "dc7a21eb-b615-4c3a-a89a-b184400750a7",
+    "Name": "Student_e8a9e",
+    "Group": "C3",
+    "AverageGrade": 0.02
+  },
+  {
+    "Id": "b0c309ea-330f-403b-be5e-f3b95c8c91ea",
+    "Name": "Student_ebc69",
+    "Group": "D4",
+    "AverageGrade": 3.54
+  },
+  {
+    "Id": "1d19178d-92aa-40af-8870-002ee6130c50",
+    "Name": "Student_a9053",
+    "Group": "D4",
+    "AverageGrade": 3.6
+  },
+  {
+    "Id": "1d2bec36-4ef3-4f2a-b4a3-efcc9b8352a9",
+    "Name": "Student_82ddf",
+    "Group": "B2",
+    "AverageGrade": 0.85
+  },
+  {
+    "Id": "37df397b-c114-4d7b-9310-a97fa4d69215",
+    "Name": "Student_f04c5",
+    "Group": "A1",
+    "AverageGrade": 3.12
+  },
+  {
+    "Id": "dcce357b-6674-403e-bb11-50a6f1ce845c",
+    "Name": "Student_7175a",
+    "Group": "D4",
+    "AverageGrade": 2.73
+  },
+  {
+    "Id": "755454ea-fb29-4a9b-8b36-7e8364ca4183",
+    "Name": "Student_6ac99",
+    "Group": "C3",
+    "AverageGrade": 1
+  },
+  {
+    "Id": "e941941a-252d-429d-94b6-2bca8e37fba5",
+    "Name": "Student_23410",
+    "Group": "B2",
+    "AverageGrade": 3.22
+  },
+  {
+    "Id": "f32975e2-869e-48ef-867e-9c096758bbad",
+    "Name": "Student_aeb0b",
+    "Group": "D4",
+    "AverageGrade": 0.5
+  },
+  {
+    "Id": "89598fd6-7ee0-473e-a30c-906ffe5a017b",
+    "Name": "Student_2cc06",
+    "Group": "A1",
+    "AverageGrade": 2.22
+  },
+  {
+    "Id": "b370d792-eaca-4c28-8aac-ac94dfe4845c",
+    "Name": "Student_4e9a2",
+    "Group": "C3",
+    "AverageGrade": 4.95
+  },
+  {
+    "Id": "f04e86ca-806d-4404-9a42-3f579a8ec905",
+    "Name": "Student_39712",
+    "Group": "B2",
+    "AverageGrade": 2.55
+  },
+  {
+    "Id": "b3315387-65de-4272-b4e4-0dbb8bf127d3",
+    "Name": "Student_e0360",
+    "Group": "B2",
+    "AverageGrade": 0.98
+  },
+  {
+    "Id": "a37c248c-810c-4fa0-8a5a-b8f60cf22918",
+    "Name": "Student_595e6",
+    "Group": "C3",
+    "AverageGrade": 4.36
+  },
+  {
+    "Id": "29661f11-e7e3-460e-83d6-9bbb2c6ea182",
+    "Name": "Student_885b4",
+    "Group": "B2",
+    "AverageGrade": 0.1
+  },
+  {
+    "Id": "3608d732-78c8-4805-8313-c97a8b175dcb",
+    "Name": "Student_c7700",
+    "Group": "A1",
+    "AverageGrade": 2.04
+  },
+  {
+    "Id": "279d0d99-3c07-4bc1-85a9-bb48a4ae9b34",
+    "Name": "Student_acdab",
+    "Group": "A1",
+    "AverageGrade": 1.98
+  },
+  {
+    "Id": "a3e1e38a-431a-4bd2-8598-f0c87e201a40",
+    "Name": "Student_3d3e0",
+    "Group": "A1",
+    "AverageGrade": 0.14
+  },
+  {
+    "Id": "3313c0ed-8596-4b5e-9d1b-deaa1393ce6b",
+    "Name": "Student_8e0f6",
+    "Group": "B2",
+    "AverageGrade": 2.68
+  },
+  {
+    "Id": "67039594-9836-4af5-b1ef-94314139e485",
+    "Name": "Student_d2cc7",
+    "Group": "C3",
+    "AverageGrade": 3.44
+  },
+  {
+    "Id": "f1b6b5f5-b960-4c45-b43c-66a6181e2b94",
+    "Name": "Student_e6690",
+    "Group": "D4",
+    "AverageGrade": 3.27
+  },
+  {
+    "Id": "cbd62b51-1fb4-47a9-87c5-60dd7ee554a3",
+    "Name": "Student_6c802",
+    "Group": "C3",
+    "AverageGrade": 1.1
+  },
+  {
+    "Id": "f1809747-d8d3-4c9c-a0bc-6c728a30a7a3",
+    "Name": "Student_2635b",
+    "Group": "A1",
+    "AverageGrade": 4.57
+  },
+  {
+    "Id": "a1d2df60-cf90-4e6f-9047-f63a6b62e641",
+    "Name": "Student_d26a5",
+    "Group": "C3",
+    "AverageGrade": 1.07
+  },
+  {
+    "Id": "84764d2a-eeca-4698-9489-4676df1e2a58",
+    "Name": "Student_0509a",
+    "Group": "D4",
+    "AverageGrade": 1.62
+  },
+  {
+    "Id": "9acae4ee-2818-4bfc-a955-fa18ee49bb06",
+    "Name": "Student_fbbcb",
+    "Group": "D4",
+    "AverageGrade": 1.79
+  },
+  {
+    "Id": "194a6640-0761-40a0-a8a4-b56f98b5c872",
+    "Name": "Student_f88b8",
+    "Group": "B2",
+    "AverageGrade": 1.99
+  },
+  {
+    "Id": "9d322589-b7b4-4a87-828e-602fac141ae9",
+    "Name": "Student_176b9",
+    "Group": "C3",
+    "AverageGrade": 1.06
+  },
+  {
+    "Id": "040eea86-d3ba-46d7-9709-557bd843a38d",
+    "Name": "Student_951b8",
+    "Group": "B2",
+    "AverageGrade": 0.4
+  },
+  {
+    "Id": "75479a19-a5eb-4add-85b8-d8a388546f1f",
+    "Name": "Student_1fdfb",
+    "Group": "C3",
+    "AverageGrade": 4.02
+  },
+  {
+    "Id": "a961ed3d-d4fa-429b-b0eb-066358aa5d93",
+    "Name": "Student_ef7c7",
+    "Group": "D4",
+    "AverageGrade": 3.1
+  },
+  {
+    "Id": "6ee53e1d-fa31-4948-b5bd-7b8f16f21733",
+    "Name": "Student_24298",
+    "Group": "C3",
+    "AverageGrade": 4.31
+  },
+  {
+    "Id": "74181990-5172-4894-882c-c0eaa728087c",
+    "Name": "Student_b6ae6",
+    "Group": "D4",
+    "AverageGrade": 0.76
+  },
+  {
+    "Id": "8f39e7b3-d174-4d56-a8bb-e0ed572ff0d5",
+    "Name": "Student_9ea19",
+    "Group": "C3",
+    "AverageGrade": 2.09
+  },
+  {
+    "Id": "8511e0d8-167a-4ac1-9f56-543b6e1d4e3f",
+    "Name": "Student_2ebca",
+    "Group": "A1",
+    "AverageGrade": 3.89
+  },
+  {
+    "Id": "bd34c1c8-aa6f-4d84-9ffc-93b996e81d38",
+    "Name": "Student_6505d",
+    "Group": "A1",
+    "AverageGrade": 4.37
+  },
+  {
+    "Id": "3ce85a8b-0a50-4df9-8875-27953d660b82",
+    "Name": "Student_11f15",
+    "Group": "D4",
+    "AverageGrade": 0.1
+  },
+  {
+    "Id": "a9e3ae24-6fab-4b88-9989-2fae227d624b",
+    "Name": "Student_09b39",
+    "Group": "D4",
+    "AverageGrade": 3.33
+  },
+  {
+    "Id": "496c7bcb-3e9b-4529-b87e-32e1911481d5",
+    "Name": "Student_125e2",
+    "Group": "D4",
+    "AverageGrade": 4.78
+  },
+  {
+    "Id": "be72adc2-a86c-47ad-b328-f45ae567bd99",
+    "Name": "Student_548cb",
+    "Group": "A1",
+    "AverageGrade": 3.61
+  },
+  {
+    "Id": "3d471a79-d668-46c8-b5c3-f02bf6aa47aa",
+    "Name": "Student_fad3a",
+    "Group": "C3",
+    "AverageGrade": 3.8
+  },
+  {
+    "Id": "9fbe2f8f-4909-4cb9-bbcd-817a7a3786a1",
+    "Name": "Student_a5413",
+    "Group": "A1",
+    "AverageGrade": 2.56
+  },
+  {
+    "Id": "ab6e4489-3cbb-432d-84b8-56e7b5168990",
+    "Name": "Student_75d61",
+    "Group": "C3",
+    "AverageGrade": 4.13
+  },
+  {
+    "Id": "e1b5a358-580e-4340-a3f9-b07aef506747",
+    "Name": "Student_4b124",
+    "Group": "A1",
+    "AverageGrade": 4.21
+  },
+  {
+    "Id": "97147af6-4093-4de1-9319-71571390d51b",
+    "Name": "Student_fafc8",
+    "Group": "D4",
+    "AverageGrade": 0.95
+  },
+  {
+    "Id": "e298c3e9-bef0-4092-920e-f4ddf2893afb",
+    "Name": "Student_ed175",
+    "Group": "B2",
+    "AverageGrade": 1.98
+  },
+  {
+    "Id": "c0bc953a-c5d0-42f0-b66e-d2ac3e0aaa5a",
+    "Name": "Student_b4ff2",
+    "Group": "C3",
+    "AverageGrade": 2.51
+  },
+  {
+    "Id": "0bdbf660-a921-4ab2-a209-ad7cb102b781",
+    "Name": "Student_39300",
+    "Group": "D4",
+    "AverageGrade": 4.91
+  },
+  {
+    "Id": "f7c346ec-eef5-4624-9618-99034aeb1105",
+    "Name": "Student_7bcbb",
+    "Group": "A1",
+    "AverageGrade": 0.68
+  },
+  {
+    "Id": "80bdb21b-0c5c-43de-b845-802f4954ad19",
+    "Name": "Student_17ff9",
+    "Group": "A1",
+    "AverageGrade": 0.7
+  },
+  {
+    "Id": "2ff77bf7-bc93-48e7-bb3f-b9f49d1d7c46",
+    "Name": "Student_592f8",
+    "Group": "B2",
+    "AverageGrade": 3.18
+  },
+  {
+    "Id": "86eab843-1690-4d67-9e3b-0300b4e6fb58",
+    "Name": "Student_5562f",
+    "Group": "A1",
+    "AverageGrade": 1
+  },
+  {
+    "Id": "ad6afb05-539c-476a-9f34-4094544529ce",
+    "Name": "Student_aa759",
+    "Group": "B2",
+    "AverageGrade": 2.29
+  },
+  {
+    "Id": "332aedcc-d2ad-481c-a194-cebfde7e0939",
+    "Name": "Student_da6da",
+    "Group": "C3",
+    "AverageGrade": 2.6
+  },
+  {
+    "Id": "0d38521b-c4a1-418d-bfcb-8e4a9aae5f8c",
+    "Name": "Student_68e42",
+    "Group": "D4",
+    "AverageGrade": 2.18
+  },
+  {
+    "Id": "b8ae4ed1-3e5d-4431-a18b-68741f0ec657",
+    "Name": "Student_7b2d3",
+    "Group": "B2",
+    "AverageGrade": 3.4
+  },
+  {
+    "Id": "55b39235-67d9-4df2-8d44-5375ece9fefb",
+    "Name": "Student_d420b",
+    "Group": "D4",
+    "AverageGrade": 4.08
+  },
+  {
+    "Id": "df3198ba-d795-424e-b395-3e4a3fd695da",
+    "Name": "Student_f7631",
+    "Group": "B2",
+    "AverageGrade": 0.65
+  },
+  {
+    "Id": "60b7b714-1384-4f66-803c-857bffc7bedd",
+    "Name": "Student_d6e4e",
+    "Group": "C3",
+    "AverageGrade": 1.7
+  },
+  {
+    "Id": "c3c410a3-06d6-4264-bb4a-3137eee51b6c",
+    "Name": "Student_bf42d",
+    "Group": "B2",
+    "AverageGrade": 0.05
+  },
+  {
+    "Id": "3128bb36-2b5e-4a15-ab67-147b5e7ef8d6",
+    "Name": "Student_4d694",
+    "Group": "A1",
+    "AverageGrade": 4.71
+  },
+  {
+    "Id": "788b2617-28dc-4c85-9128-11ecee15492a",
+    "Name": "Student_1104d",
+    "Group": "D4",
+    "AverageGrade": 0.79
+  },
+  {
+    "Id": "4a36797b-8106-4cbb-9f61-327942d81c86",
+    "Name": "Student_2dd22",
+    "Group": "D4",
+    "AverageGrade": 2.9
+  },
+  {
+    "Id": "e8b89388-dce0-4471-abae-00e824c1daae",
+    "Name": "Student_0dd40",
+    "Group": "D4",
+    "AverageGrade": 0.78
+  },
+  {
+    "Id": "a8846184-a2fd-413e-9bd0-a168d4513332",
+    "Name": "Student_2c349",
+    "Group": "B2",
+    "AverageGrade": 3.78
+  },
+  {
+    "Id": "969355fc-c890-4c5e-bb43-e84c74eaf055",
+    "Name": "Student_aa39e",
+    "Group": "B2",
+    "AverageGrade": 1.98
+  },
+  {
+    "Id": "94b2b8d4-e0a8-4b21-8431-dab6851da17b",
+    "Name": "Student_0f0e2",
+    "Group": "A1",
+    "AverageGrade": 2.43
+  },
+  {
+    "Id": "087d41c2-f6d1-4d78-a740-84dc6ae9cd72",
+    "Name": "Student_20594",
+    "Group": "C3",
+    "AverageGrade": 0.13
+  },
+  {
+    "Id": "6dc0151c-4a1e-4ab3-95c4-c06dee37f734",
+    "Name": "Student_b94e0",
+    "Group": "B2",
+    "AverageGrade": 4.86
+  },
+  {
+    "Id": "73f61489-a668-4517-954b-bb1af8846774",
+    "Name": "Student_1e52a",
+    "Group": "C3",
+    "AverageGrade": 0.48
+  },
+  {
+    "Id": "b1ee86d7-bd42-4d50-88d1-314c5501c65e",
+    "Name": "Student_f7318",
+    "Group": "C3",
+    "AverageGrade": 3.71
+  },
+  {
+    "Id": "41598631-8fc5-401f-9fcc-86b06f5d8a3c",
+    "Name": "Student_56645",
+    "Group": "C3",
+    "AverageGrade": 4.15
+  },
+  {
+    "Id": "2db30d9c-dd1f-4896-ae60-b890f8815edf",
+    "Name": "Student_d24ff",
+    "Group": "B2",
+    "AverageGrade": 3.68
+  },
+  {
+    "Id": "51bccadb-7eac-476c-b5e4-a573f8ea5739",
+    "Name": "Student_58a42",
+    "Group": "C3",
+    "AverageGrade": 4.45
+  },
+  {
+    "Id": "dfb24844-c302-49ae-ad2e-452431dd5996",
+    "Name": "Student_73e44",
+    "Group": "A1",
+    "AverageGrade": 0.01
+  },
+  {
+    "Id": "cf5a0095-2d25-4e47-9785-24267e038b43",
+    "Name": "Student_b1369",
+    "Group": "D4",
+    "AverageGrade": 4.29
+  },
+  {
+    "Id": "4bc6ff04-2145-42fd-ab1b-339d22ea4ab5",
+    "Name": "Student_4c620",
+    "Group": "C3",
+    "AverageGrade": 3.08
+  },
+  {
+    "Id": "c403bc67-f46b-4cbb-bc4c-283016000efd",
+    "Name": "Student_8511b",
+    "Group": "B2",
+    "AverageGrade": 4.81
+  },
+  {
+    "Id": "fac6a8c5-6496-4e0d-8e91-e1c1e407a483",
+    "Name": "Student_b78f0",
+    "Group": "A1",
+    "AverageGrade": 4.7
+  },
+  {
+    "Id": "0bb55dd0-8199-476e-ba4f-fb2ccf0cae99",
+    "Name": "Student_8ef47",
+    "Group": "A1",
+    "AverageGrade": 1.05
+  },
+  {
+    "Id": "5a15170b-4a53-4e06-917f-4ea83ff19a24",
+    "Name": "Student_28569",
+    "Group": "C3",
+    "AverageGrade": 0.03
+  },
+  {
+    "Id": "2460d9e8-3c62-497e-a6db-c70ecd9f72d5",
+    "Name": "Student_a78c9",
+    "Group": "C3",
+    "AverageGrade": 2.6
+  },
+  {
+    "Id": "5d0d1ac5-bc04-4b61-b4b9-4af5d719fbcb",
+    "Name": "Student_1212e",
+    "Group": "D4",
+    "AverageGrade": 2.82
+  },
+  {
+    "Id": "8f7e2eb6-9d87-4c59-8749-51c5303d17b8",
+    "Name": "Student_88af9",
+    "Group": "D4",
+    "AverageGrade": 0.46
+  },
+  {
+    "Id": "edb190d0-c389-429b-8ad7-dbe0fce4b7af",
+    "Name": "Student_5ce89",
+    "Group": "C3",
+    "AverageGrade": 2.09
+  },
+  {
+    "Id": "2878a9ad-0ffa-4eb7-882d-c287635964b6",
+    "Name": "Student_d1e64",
+    "Group": "C3",
+    "AverageGrade": 3.23
+  },
+  {
+    "Id": "7582943d-5577-4ced-9aac-25923decd7eb",
+    "Name": "Student_deb92",
+    "Group": "C3",
+    "AverageGrade": 4.92
+  },
+  {
+    "Id": "0ec80e65-5f7d-43ae-97e2-236a24ec9b49",
+    "Name": "Student_0b7d7",
+    "Group": "A1",
+    "AverageGrade": 2.17
+  },
+  {
+    "Id": "b11ccce8-335c-498a-9663-3da978a3843e",
+    "Name": "Student_be4a4",
+    "Group": "C3",
+    "AverageGrade": 4.38
+  },
+  {
+    "Id": "64f12cea-e94b-4f40-81af-6c122f59b7ae",
+    "Name": "Student_df37d",
+    "Group": "C3",
+    "AverageGrade": 3.2
+  },
+  {
+    "Id": "a35048d9-2f49-4eea-9e9b-ba6f8614f3ce",
+    "Name": "Student_38a78",
+    "Group": "A1",
+    "AverageGrade": 1.38
+  },
+  {
+    "Id": "fdbc8fa4-a9db-4769-a50d-c8ea8dd57d89",
+    "Name": "Student_78be8",
+    "Group": "B2",
+    "AverageGrade": 1.7
+  },
+  {
+    "Id": "cd2e4ba8-3cec-47d7-8606-9d7f054c62c8",
+    "Name": "Student_3ef6c",
+    "Group": "A1",
+    "AverageGrade": 3.55
+  },
+  {
+    "Id": "8449f836-2256-49aa-a970-ed7d556ae45a",
+    "Name": "Student_89f1f",
+    "Group": "A1",
+    "AverageGrade": 3.74
+  },
+  {
+    "Id": "fc0e1357-65d5-4a7c-8aee-e88fb38e4052",
+    "Name": "Student_7dceb",
+    "Group": "A1",
+    "AverageGrade": 3.75
+  },
+  {
+    "Id": "8b257a03-c971-49df-896c-45bce4185c3d",
+    "Name": "Student_b077e",
+    "Group": "A1",
+    "AverageGrade": 2.97
+  },
+  {
+    "Id": "1bed79f8-502e-4f9e-ac53-b16f2f5602f9",
+    "Name": "Student_5a01f",
+    "Group": "B2",
+    "AverageGrade": 0.47
+  },
+  {
+    "Id": "5d63b442-d67e-4b82-a0d8-9182bf9ff090",
+    "Name": "Student_a1135",
+    "Group": "B2",
+    "AverageGrade": 0.02
+  },
+  {
+    "Id": "2196918c-3ce1-407d-b34a-9c78247e723d",
+    "Name": "Student_06179",
+    "Group": "D4",
+    "AverageGrade": 1.48
+  },
+  {
+    "Id": "eaf675b8-9ff3-44d6-bd16-46f4b6ff8c43",
+    "Name": "Student_15522",
+    "Group": "B2",
+    "AverageGrade": 4.92
+  },
+  {
+    "Id": "802b0e25-7f94-4847-81a9-9cd6716bfd7a",
+    "Name": "Student_1a0af",
+    "Group": "A1",
+    "AverageGrade": 2.13
+  },
+  {
+    "Id": "4929825a-d524-4555-b3bf-19b36eb4846b",
+    "Name": "Student_eb0ec",
+    "Group": "A1",
+    "AverageGrade": 2.02
+  },
+  {
+    "Id": "383ec138-9f00-4ed1-95f4-4865a47b98f7",
+    "Name": "Student_1202f",
+    "Group": "B2",
+    "AverageGrade": 4.28
+  },
+  {
+    "Id": "c2081376-90d8-4a79-9b01-a092a1ce1fcf",
+    "Name": "Student_0be0b",
+    "Group": "A1",
+    "AverageGrade": 0.75
+  },
+  {
+    "Id": "c43230a8-4975-41f0-b6fd-fa4131937f81",
+    "Name": "Student_85766",
+    "Group": "A1",
+    "AverageGrade": 4.49
+  },
+  {
+    "Id": "43e3183b-91fe-4d6b-acdd-e1162f9c1f08",
+    "Name": "Student_3a963",
+    "Group": "D4",
+    "AverageGrade": 1.28
+  },
+  {
+    "Id": "b1741253-c33a-40ed-b8ee-98648e25fd39",
+    "Name": "Student_db824",
+    "Group": "A1",
+    "AverageGrade": 1.48
+  },
+  {
+    "Id": "2a2e2675-0019-47d4-95da-e97be7148d9c",
+    "Name": "Student_e9e47",
+    "Group": "D4",
+    "AverageGrade": 3.5
+  },
+  {
+    "Id": "a5d76818-c16d-4c50-a69d-99647d7831ab",
+    "Name": "Student_728ba",
+    "Group": "C3",
+    "AverageGrade": 3.28
+  },
+  {
+    "Id": "7419f72f-2afd-4001-95d9-43b7d5e70722",
+    "Name": "Student_4d466",
+    "Group": "D4",
+    "AverageGrade": 4.9
+  },
+  {
+    "Id": "47f7b272-d5a0-4457-9a1f-7c1b331cc1eb",
+    "Name": "Student_dfd37",
+    "Group": "B2",
+    "AverageGrade": 4.64
+  },
+  {
+    "Id": "b3759ecf-1369-4154-9408-0e6b242d2944",
+    "Name": "Student_4cfea",
+    "Group": "B2",
+    "AverageGrade": 1.9
+  },
+  {
+    "Id": "85d0b99a-4ec7-47dc-812a-e93b3ffcd91e",
+    "Name": "Student_33515",
+    "Group": "B2",
+    "AverageGrade": 4.7
+  },
+  {
+    "Id": "91c4dfcb-f433-43cc-8987-ae0cbcd8bac5",
+    "Name": "Student_9b4d1",
+    "Group": "D4",
+    "AverageGrade": 0.14
+  },
+  {
+    "Id": "bcac9072-ebd2-4ea4-83c2-1591bb61aff8",
+    "Name": "Student_63a32",
+    "Group": "D4",
+    "AverageGrade": 4.16
+  },
+  {
+    "Id": "60eb92e0-2034-4e54-a788-a2aae4643a89",
+    "Name": "Student_db3d5",
+    "Group": "D4",
+    "AverageGrade": 4.9
+  },
+  {
+    "Id": "9cdb664b-574d-4f3c-a8e2-6a81a92a369f",
+    "Name": "Student_7cef7",
+    "Group": "B2",
+    "AverageGrade": 0.73
+  },
+  {
+    "Id": "cf706731-1021-491c-89d2-72499d08a605",
+    "Name": "Student_7b5ec",
+    "Group": "A1",
+    "AverageGrade": 4.99
+  },
+  {
+    "Id": "c7806b92-88c2-4991-b091-b2f58308094c",
+    "Name": "Student_4155f",
+    "Group": "A1",
+    "AverageGrade": 2.91
+  },
+  {
+    "Id": "aa34d552-15a1-450d-bb55-0c6e1dec73d1",
+    "Name": "Student_9d6b9",
+    "Group": "B2",
+    "AverageGrade": 4.43
+  },
+  {
+    "Id": "b07be158-92c8-45e4-a7f8-d05095c7c57d",
+    "Name": "Student_8ed65",
+    "Group": "C3",
+    "AverageGrade": 1.36
+  },
+  {
+    "Id": "b4845d95-5e6e-4b06-9e39-15588fec0a4f",
+    "Name": "Student_8429f",
+    "Group": "C3",
+    "AverageGrade": 0.25
+  },
+  {
+    "Id": "bda2a2df-8b3a-4ffe-a91e-1a36198b7cdd",
+    "Name": "Student_f9ee7",
+    "Group": "D4",
+    "AverageGrade": 1.15
+  },
+  {
+    "Id": "135c634c-9a33-4959-a5d8-6af2a476f7c7",
+    "Name": "Student_5e434",
+    "Group": "B2",
+    "AverageGrade": 0.99
+  },
+  {
+    "Id": "f172b1c3-ae00-4ed9-b347-230436c16df4",
+    "Name": "Student_6d6a3",
+    "Group": "D4",
+    "AverageGrade": 2.27
+  },
+  {
+    "Id": "4a9c36a2-9023-4d6b-9511-26dd9fc30917",
+    "Name": "Student_7911c",
+    "Group": "C3",
+    "AverageGrade": 3.53
+  },
+  {
+    "Id": "082eea98-2021-4929-ae36-8893895a0ad0",
+    "Name": "Student_c2698",
+    "Group": "B2",
+    "AverageGrade": 0.66
+  },
+  {
+    "Id": "cd9b0dd3-653c-4400-9dfd-b3078233bb17",
+    "Name": "Student_71118",
+    "Group": "A1",
+    "AverageGrade": 3.04
+  },
+  {
+    "Id": "a788fed1-d615-4299-a4ca-a76acced7ed3",
+    "Name": "Student_0bd81",
+    "Group": "B2",
+    "AverageGrade": 0.31
+  },
+  {
+    "Id": "ab390e9d-b406-455e-939e-b20c5ee6b3db",
+    "Name": "Student_d5feb",
+    "Group": "B2",
+    "AverageGrade": 4.91
+  },
+  {
+    "Id": "473f7ff4-ab42-42be-b96e-133912d6eb87",
+    "Name": "Student_78408",
+    "Group": "C3",
+    "AverageGrade": 2.28
+  },
+  {
+    "Id": "46458395-4437-488c-97d6-f24df57488c4",
+    "Name": "Student_49c90",
+    "Group": "C3",
+    "AverageGrade": 2.2
+  },
+  {
+    "Id": "8ae89d3f-3720-48d3-87bc-cc36069650f0",
+    "Name": "Student_de45d",
+    "Group": "D4",
+    "AverageGrade": 4.89
+  },
+  {
+    "Id": "392b7902-e891-4111-a7ec-b3b044655034",
+    "Name": "Student_73602",
+    "Group": "D4",
+    "AverageGrade": 1.57
+  },
+  {
+    "Id": "6e5027d4-fddc-448c-8c7c-e5bd41512161",
+    "Name": "Student_3b05b",
+    "Group": "B2",
+    "AverageGrade": 3.74
+  },
+  {
+    "Id": "b6283d42-8678-4ce8-8c33-952587e7c495",
+    "Name": "Student_ed6e0",
+    "Group": "C3",
+    "AverageGrade": 4.86
+  },
+  {
+    "Id": "50037803-29b2-476c-859a-e322657ee63a",
+    "Name": "Student_f5cfb",
+    "Group": "B2",
+    "AverageGrade": 1.54
+  },
+  {
+    "Id": "2e4bbf3c-a188-43a0-9109-c0e648fe327b",
+    "Name": "Student_96f7a",
+    "Group": "D4",
+    "AverageGrade": 0.07
+  },
+  {
+    "Id": "c6c15784-9afb-470e-a2d9-2c670e7588ae",
+    "Name": "Student_0126a",
+    "Group": "C3",
+    "AverageGrade": 0.73
+  },
+  {
+    "Id": "fb786768-95bb-495c-845b-7cd0c0f7ddd1",
+    "Name": "Student_71b64",
+    "Group": "D4",
+    "AverageGrade": 3.61
+  },
+  {
+    "Id": "d0a7bd6c-ad44-4b94-9228-fb1740427146",
+    "Name": "Student_db19d",
+    "Group": "D4",
+    "AverageGrade": 3.14
+  },
+  {
+    "Id": "c15d7bb0-ff5b-4fe0-baf4-ffb9f04962d6",
+    "Name": "Student_9ad79",
+    "Group": "C3",
+    "AverageGrade": 2.53
+  },
+  {
+    "Id": "68659684-8351-49ef-9442-df736d465a2a",
+    "Name": "Student_d1f19",
+    "Group": "C3",
+    "AverageGrade": 3.29
+  },
+  {
+    "Id": "14dfd048-fdbb-4ace-8227-cc6fe3700bc8",
+    "Name": "Student_c9ca3",
+    "Group": "A1",
+    "AverageGrade": 0.36
+  },
+  {
+    "Id": "2797ef5d-e005-4fd2-b296-e3cf613f6f41",
+    "Name": "Student_1f3ed",
+    "Group": "B2",
+    "AverageGrade": 3.54
+  },
+  {
+    "Id": "23950cfd-7de7-42c7-a077-bfe8ca2fd073",
+    "Name": "Student_36a63",
+    "Group": "C3",
+    "AverageGrade": 3.01
+  },
+  {
+    "Id": "28b24811-e5e6-4b37-ad4c-b41a910370b6",
+    "Name": "Student_a7907",
+    "Group": "D4",
+    "AverageGrade": 3.52
+  },
+  {
+    "Id": "d12767c3-0f9f-4835-b1d7-62573504d7c4",
+    "Name": "Student_1318f",
+    "Group": "B2",
+    "AverageGrade": 4.93
+  },
+  {
+    "Id": "45500ed4-d7d8-4cc5-bda9-d93b6291d76c",
+    "Name": "Student_8b4dc",
+    "Group": "B2",
+    "AverageGrade": 2.24
+  },
+  {
+    "Id": "7a3eb63b-951a-4b3f-8a94-2a5005ddaa31",
+    "Name": "Student_ed3d3",
+    "Group": "A1",
+    "AverageGrade": 2.3
+  },
+  {
+    "Id": "9834a727-3501-408f-8090-4c2b27ad6f35",
+    "Name": "Student_36da6",
+    "Group": "B2",
+    "AverageGrade": 4.87
+  },
+  {
+    "Id": "3dda30ac-88a8-44d1-b7aa-0a241b57c012",
+    "Name": "Student_a038f",
+    "Group": "C3",
+    "AverageGrade": 0.57
+  },
+  {
+    "Id": "9d43731c-5972-42a4-80ed-ac05c9cac8e1",
+    "Name": "Student_ed63c",
+    "Group": "A1",
+    "AverageGrade": 4.27
+  },
+  {
+    "Id": "e0942ed8-6498-42c4-8ba5-1a2d22d94049",
+    "Name": "Student_7ca9e",
+    "Group": "D4",
+    "AverageGrade": 3.04
+  },
+  {
+    "Id": "96e79c0f-5fc0-41a7-b62f-a031a4371b6d",
+    "Name": "Student_d4b64",
+    "Group": "B2",
+    "AverageGrade": 3.03
+  },
+  {
+    "Id": "cf0e8a78-681c-4b97-b29b-c8657d582a6d",
+    "Name": "Student_23a47",
+    "Group": "B2",
+    "AverageGrade": 4.55
+  },
+  {
+    "Id": "05521450-cf63-46ae-86c2-f0d11977c625",
+    "Name": "Student_258a8",
+    "Group": "A1",
+    "AverageGrade": 2.43
+  },
+  {
+    "Id": "0e5604dd-bd52-4c83-9e3c-c0205e5c912d",
+    "Name": "Student_0188f",
+    "Group": "B2",
+    "AverageGrade": 2.15
+  },
+  {
+    "Id": "524ef23f-b641-48d0-bad1-ddc028187289",
+    "Name": "Student_39799",
+    "Group": "C3",
+    "AverageGrade": 1.2
+  },
+  {
+    "Id": "fb3962c9-7601-49d8-91d8-10e5ae151a8d",
+    "Name": "Student_8566d",
+    "Group": "A1",
+    "AverageGrade": 0.93
+  },
+  {
+    "Id": "653d685d-edf9-4f16-a572-5326eb7e3d58",
+    "Name": "Student_e1b8e",
+    "Group": "A1",
+    "AverageGrade": 4.58
+  },
+  {
+    "Id": "745cff8f-b4b0-43cb-adfd-83439916d09a",
+    "Name": "Student_09523",
+    "Group": "B2",
+    "AverageGrade": 1.6
+  },
+  {
+    "Id": "d4cdb003-d67a-407d-8f21-b1f285235ddf",
+    "Name": "Student_9f367",
+    "Group": "A1",
+    "AverageGrade": 0.5
+  },
+  {
+    "Id": "4c1fefdc-056b-4e4f-bf6a-ecdc1edd51a6",
+    "Name": "Student_2265b",
+    "Group": "C3",
+    "AverageGrade": 2.54
+  },
+  {
+    "Id": "2b473f15-ceeb-4759-87c7-9d48284928bf",
+    "Name": "Student_f3cfb",
+    "Group": "D4",
+    "AverageGrade": 4.59
+  },
+  {
+    "Id": "db07be9a-469e-4a2d-a6b6-35070da0fb66",
+    "Name": "Student_414e4",
+    "Group": "A1",
+    "AverageGrade": 0.59
+  },
+  {
+    "Id": "f294f1f8-82de-4c41-a62e-adddf59a3412",
+    "Name": "Student_63f14",
+    "Group": "D4",
+    "AverageGrade": 4.41
+  },
+  {
+    "Id": "20473c1b-e42e-4f96-97e1-9f993cc68fc2",
+    "Name": "Student_f8642",
+    "Group": "B2",
+    "AverageGrade": 4.99
+  },
+  {
+    "Id": "59b888b0-5223-4bfa-9ff7-d15b5c37582a",
+    "Name": "Student_72a61",
+    "Group": "D4",
+    "AverageGrade": 2.49
+  },
+  {
+    "Id": "a4a7d389-a7df-4302-98ea-da975226fde0",
+    "Name": "Student_7ac79",
+    "Group": "D4",
+    "AverageGrade": 0.15
+  },
+  {
+    "Id": "8e6620ea-ee4d-4c97-a715-f0501b21e942",
+    "Name": "Student_d95bd",
+    "Group": "B2",
+    "AverageGrade": 0.94
+  },
+  {
+    "Id": "bb1dbdde-25ac-489b-b8d3-593eb20b92db",
+    "Name": "Student_d0b0b",
+    "Group": "A1",
+    "AverageGrade": 1.23
+  },
+  {
+    "Id": "f97a5c5d-26ab-4a97-8392-6cbf7b28d211",
+    "Name": "Student_414aa",
+    "Group": "D4",
+    "AverageGrade": 0.31
+  },
+  {
+    "Id": "b5ba8f8b-453b-4451-96f2-a4ef993c6799",
+    "Name": "Student_2a38a",
+    "Group": "B2",
+    "AverageGrade": 2.19
+  },
+  {
+    "Id": "6ff5dbd5-a16d-4c90-9ed7-07faadf6f484",
+    "Name": "Student_77d55",
+    "Group": "A1",
+    "AverageGrade": 0.72
+  },
+  {
+    "Id": "33fe45eb-554d-4ccb-a7b2-c3033342c521",
+    "Name": "Student_3d432",
+    "Group": "D4",
+    "AverageGrade": 4.82
+  },
+  {
+    "Id": "abfc0f5a-c09c-41c6-8acb-511908512a71",
+    "Name": "Student_060c5",
+    "Group": "C3",
+    "AverageGrade": 1.53
+  },
+  {
+    "Id": "c9d984c7-25dd-4ae5-8b6f-88b0bb1d4472",
+    "Name": "Student_4c42a",
+    "Group": "A1",
+    "AverageGrade": 3.88
+  },
+  {
+    "Id": "84b4c6d9-f8b7-4387-805b-14b93dfbba38",
+    "Name": "Student_17644",
+    "Group": "A1",
+    "AverageGrade": 0.37
+  },
+  {
+    "Id": "3b962618-9231-43f8-ae4c-3ebc123d6d16",
+    "Name": "Student_79a8e",
+    "Group": "D4",
+    "AverageGrade": 0.13
+  },
+  {
+    "Id": "1314d531-6e4a-443e-8767-140fa3e32242",
+    "Name": "Student_8e0cf",
+    "Group": "C3",
+    "AverageGrade": 1.59
+  },
+  {
+    "Id": "6b8ead3e-a11d-4611-8c6d-dfc1f911a735",
+    "Name": "Student_162d0",
+    "Group": "C3",
+    "AverageGrade": 2.11
+  },
+  {
+    "Id": "dadda2f1-ddb7-4ff7-8892-ff3c683a15f3",
+    "Name": "Student_7e682",
+    "Group": "D4",
+    "AverageGrade": 0.37
+  },
+  {
+    "Id": "6116e83d-7702-4c50-ad56-4c8311c9974e",
+    "Name": "Student_8abea",
+    "Group": "C3",
+    "AverageGrade": 4.2
+  },
+  {
+    "Id": "264af2e8-8793-4239-aac3-5997f851e2d7",
+    "Name": "Student_009e4",
+    "Group": "B2",
+    "AverageGrade": 2.66
+  },
+  {
+    "Id": "1794e00e-93ee-4bb9-97c0-f2a63d2a175c",
+    "Name": "Student_0823b",
+    "Group": "B2",
+    "AverageGrade": 2.73
+  },
+  {
+    "Id": "a4a75545-79a3-4fbd-b0be-245a95d0a25a",
+    "Name": "Student_a1f65",
+    "Group": "D4",
+    "AverageGrade": 2.8
+  },
+  {
+    "Id": "8fb8d1fa-0e80-4dd3-b05e-0f2944142add",
+    "Name": "Student_6428a",
+    "Group": "A1",
+    "AverageGrade": 3.25
+  },
+  {
+    "Id": "28666a61-4b39-4136-9b89-b414dac571fd",
+    "Name": "Student_498ce",
+    "Group": "A1",
+    "AverageGrade": 1.66
+  },
+  {
+    "Id": "af96ad2d-6826-4363-8b48-dcc7da674f6e",
+    "Name": "Student_38f36",
+    "Group": "B2",
+    "AverageGrade": 1.7
+  },
+  {
+    "Id": "23b9cc42-1c04-45e2-b4a4-ae02530f8c90",
+    "Name": "Student_dac21",
+    "Group": "C3",
+    "AverageGrade": 0.68
+  },
+  {
+    "Id": "56314b7d-d4b7-4491-a94f-d23babff6846",
+    "Name": "Student_198a7",
+    "Group": "D4",
+    "AverageGrade": 4.46
+  },
+  {
+    "Id": "73438fa2-bf4d-48cb-a175-dfedf9d2e089",
+    "Name": "Student_0c8ba",
+    "Group": "B2",
+    "AverageGrade": 2.12
+  },
+  {
+    "Id": "a4972177-b9d8-438a-b5cb-f12bd5f4be11",
+    "Name": "Student_57926",
+    "Group": "D4",
+    "AverageGrade": 1.49
+  },
+  {
+    "Id": "4b1db60b-0b87-4578-930f-df8c91975727",
+    "Name": "Student_dca27",
+    "Group": "A1",
+    "AverageGrade": 3.37
+  },
+  {
+    "Id": "5e1b8f60-9922-41ae-8ff7-de4163d7b767",
+    "Name": "Student_96412",
+    "Group": "B2",
+    "AverageGrade": 3.7
+  },
+  {
+    "Id": "f8c59760-1606-4852-aa32-0e399a5e9e2e",
+    "Name": "Student_87f59",
+    "Group": "D4",
+    "AverageGrade": 3.76
+  },
+  {
+    "Id": "58db99df-6365-4d0b-872b-1c033552f501",
+    "Name": "Student_f2fea",
+    "Group": "C3",
+    "AverageGrade": 4.88
+  },
+  {
+    "Id": "c0d44e23-5ab8-42d6-b939-0543a30775bb",
+    "Name": "Student_5c455",
+    "Group": "A1",
+    "AverageGrade": 0.74
+  },
+  {
+    "Id": "bece8cca-00ee-4071-a344-f3a97dac3730",
+    "Name": "Student_8b341",
+    "Group": "A1",
+    "AverageGrade": 0.45
+  },
+  {
+    "Id": "9a37841c-e6f3-4081-9588-a952557b5060",
+    "Name": "Student_7a7c0",
+    "Group": "B2",
+    "AverageGrade": 3.54
+  },
+  {
+    "Id": "61d80fc8-a3d8-4418-8819-536c4576c34d",
+    "Name": "Student_b1048",
+    "Group": "A1",
+    "AverageGrade": 2.21
+  },
+  {
+    "Id": "beda5702-6831-4ab3-a86f-e841440f923e",
+    "Name": "Student_6d647",
+    "Group": "B2",
+    "AverageGrade": 1.44
+  },
+  {
+    "Id": "86f278d8-4b0d-4418-aedd-48ee94eb63e6",
+    "Name": "Student_303c6",
+    "Group": "A1",
+    "AverageGrade": 2.86
+  },
+  {
+    "Id": "bf9830d8-867c-4faf-aece-e12eac0b00f7",
+    "Name": "Student_deeae",
+    "Group": "B2",
+    "AverageGrade": 0.56
+  },
+  {
+    "Id": "0c3957ce-094f-43be-98d1-9271e554e34b",
+    "Name": "Student_f4cf6",
+    "Group": "A1",
+    "AverageGrade": 4.35
+  },
+  {
+    "Id": "cda4f908-fe70-4246-a614-b69fca7c8c85",
+    "Name": "Student_6c507",
+    "Group": "A1",
+    "AverageGrade": 2.82
+  },
+  {
+    "Id": "67ac125b-5d7a-4ac5-a3f4-2108712da87b",
+    "Name": "Student_e63d9",
+    "Group": "B2",
+    "AverageGrade": 0.25
+  },
+  {
+    "Id": "6d629914-20fb-4d71-af80-27c49dd0e7ee",
+    "Name": "Student_e3d66",
+    "Group": "C3",
+    "AverageGrade": 3.47
+  },
+  {
+    "Id": "3a0878b2-286a-401d-8a06-ed4585738358",
+    "Name": "Student_3d849",
+    "Group": "B2",
+    "AverageGrade": 4.33
+  },
+  {
+    "Id": "aa4a6131-2497-4bc2-9e01-0019f84c7ea9",
+    "Name": "Student_81b7c",
+    "Group": "B2",
+    "AverageGrade": 1.56
+  },
+  {
+    "Id": "84cfd399-b2dc-4dec-951b-a5b98419ea53",
+    "Name": "Student_35958",
+    "Group": "D4",
+    "AverageGrade": 3.7
+  },
+  {
+    "Id": "843a0bd0-208b-4264-ae03-43c3a210dead",
+    "Name": "Student_bbcc7",
+    "Group": "B2",
+    "AverageGrade": 0.9
+  },
+  {
+    "Id": "5491f1b2-47c2-4dad-9958-bf618ac7c743",
+    "Name": "Student_a3870",
+    "Group": "C3",
+    "AverageGrade": 3.91
+  },
+  {
+    "Id": "eedb6042-3c86-4589-86f4-5e3193d033b4",
+    "Name": "Student_19b93",
+    "Group": "D4",
+    "AverageGrade": 4.47
+  },
+  {
+    "Id": "1c91a28e-ffe7-4fc8-9914-99dd0b0c486f",
+    "Name": "Student_730b7",
+    "Group": "A1",
+    "AverageGrade": 2.49
+  },
+  {
+    "Id": "50fc47ec-7d74-46a8-9085-13880fc39f4e",
+    "Name": "Student_81043",
+    "Group": "D4",
+    "AverageGrade": 0.57
+  },
+  {
+    "Id": "253022cb-130c-459b-8c1a-60ac12081848",
+    "Name": "Student_dec6e",
+    "Group": "C3",
+    "AverageGrade": 2.93
+  },
+  {
+    "Id": "4cff52d1-6c19-4658-9318-f4fd19b14c03",
+    "Name": "Student_e84b8",
+    "Group": "D4",
+    "AverageGrade": 0.93
+  },
+  {
+    "Id": "0e5dddc0-eb4e-445d-a72d-fef1debf16cc",
+    "Name": "Student_16b4d",
+    "Group": "A1",
+    "AverageGrade": 0.52
+  },
+  {
+    "Id": "978dd263-9a5a-4830-b530-ea72738cb80b",
+    "Name": "Student_20caa",
+    "Group": "C3",
+    "AverageGrade": 4.12
+  },
+  {
+    "Id": "de284622-910b-4cf5-bae5-e64a6780937b",
+    "Name": "Student_7a535",
+    "Group": "C3",
+    "AverageGrade": 3.72
+  },
+  {
+    "Id": "b2b4242b-5252-4780-a9ab-0ec687046897",
+    "Name": "Student_376d5",
+    "Group": "A1",
+    "AverageGrade": 4.59
+  },
+  {
+    "Id": "97b6eb98-d00e-43bd-ac81-fa13782ed22f",
+    "Name": "Student_ddd6a",
+    "Group": "C3",
+    "AverageGrade": 1.88
+  },
+  {
+    "Id": "1ae736f9-d4b8-4bad-b67d-d19d358a79e2",
+    "Name": "Student_0ce5d",
+    "Group": "B2",
+    "AverageGrade": 4.81
+  },
+  {
+    "Id": "2e29e92e-f309-4c69-9716-52f6c8aafbf2",
+    "Name": "Student_9ce2f",
+    "Group": "B2",
+    "AverageGrade": 2.62
+  },
+  {
+    "Id": "3bd046f3-f778-49cd-8c91-618e09f10725",
+    "Name": "Student_ff792",
+    "Group": "D4",
+    "AverageGrade": 3.53
+  },
+  {
+    "Id": "2e560b09-3cee-4c31-a599-6bb09f1fd8a7",
+    "Name": "Student_aaae3",
+    "Group": "C3",
+    "AverageGrade": 4.73
+  },
+  {
+    "Id": "23b84e89-66b7-402d-b5cc-0f0e59a38ee5",
+    "Name": "Student_eb686",
+    "Group": "C3",
+    "AverageGrade": 0.8
+  },
+  {
+    "Id": "4e0fe5aa-0ba5-46e4-bf0f-761ddf140c39",
+    "Name": "Student_36d78",
+    "Group": "C3",
+    "AverageGrade": 0.98
+  },
+  {
+    "Id": "fcc8ed93-4d58-46f7-8c6d-0774c76a47d2",
+    "Name": "Student_3f79d",
+    "Group": "A1",
+    "AverageGrade": 0.88
+  },
+  {
+    "Id": "877536e4-1c25-47c5-a99b-7fd8fd3b64c2",
+    "Name": "Student_691b3",
+    "Group": "D4",
+    "AverageGrade": 0.95
+  },
+  {
+    "Id": "ec62bf45-1040-4b19-85cb-5c52b9b01362",
+    "Name": "Student_1517f",
+    "Group": "A1",
+    "AverageGrade": 1.49
+  },
+  {
+    "Id": "3198a493-ebe9-4d8e-95a0-79a3c76b9262",
+    "Name": "Student_9c927",
+    "Group": "B2",
+    "AverageGrade": 0.28
+  },
+  {
+    "Id": "3d77880f-f518-4d37-873e-ff90ed0f840a",
+    "Name": "Student_3a253",
+    "Group": "A1",
+    "AverageGrade": 4.28
+  },
+  {
+    "Id": "18d357dd-8788-4422-92a8-9e7e38ff224d",
+    "Name": "Student_88996",
+    "Group": "C3",
+    "AverageGrade": 4.47
+  },
+  {
+    "Id": "521e508a-e468-4df5-bd15-e5b693767e26",
+    "Name": "Student_8a9e8",
+    "Group": "D4",
+    "AverageGrade": 1.68
+  },
+  {
+    "Id": "10e3c5f0-94cf-4443-9725-8b59c0369d4c",
+    "Name": "Student_b9d64",
+    "Group": "B2",
+    "AverageGrade": 3.65
+  },
+  {
+    "Id": "7ab7e685-9fa2-4120-a0ff-deeddc76b136",
+    "Name": "Student_ee7a6",
+    "Group": "D4",
+    "AverageGrade": 4.19
+  },
+  {
+    "Id": "f3945f62-069d-4ff5-a8e1-e02f9e422d66",
+    "Name": "Student_b61f6",
+    "Group": "C3",
+    "AverageGrade": 3.94
+  },
+  {
+    "Id": "b4fb11fc-2fc1-4023-853b-c76a59223f95",
+    "Name": "Student_2ff02",
+    "Group": "A1",
+    "AverageGrade": 2.76
+  },
+  {
+    "Id": "c2bdc144-3a93-4627-8d54-038ed407b19d",
+    "Name": "Student_15c14",
+    "Group": "B2",
+    "AverageGrade": 2.63
+  },
+  {
+    "Id": "c324e3ff-7870-406e-a120-9df55351b891",
+    "Name": "Student_00b9e",
+    "Group": "D4",
+    "AverageGrade": 4.04
+  },
+  {
+    "Id": "bdd5fa35-ef3c-40b5-bc44-6e1932db3255",
+    "Name": "Student_095f3",
+    "Group": "B2",
+    "AverageGrade": 4.43
+  },
+  {
+    "Id": "5e0b40b8-37d5-47e9-865b-c2500038e849",
+    "Name": "Student_36e85",
+    "Group": "B2",
+    "AverageGrade": 0.72
+  },
+  {
+    "Id": "c8c8dec6-f7d9-4587-b11e-f99db7ecd835",
+    "Name": "Student_af79f",
+    "Group": "A1",
+    "AverageGrade": 2.86
+  },
+  {
+    "Id": "d7286705-309f-49ce-ac93-0d79d8f748f8",
+    "Name": "Student_804fa",
+    "Group": "B2",
+    "AverageGrade": 0.91
+  },
+  {
+    "Id": "ae6beae5-b09e-412a-8081-42879c354d61",
+    "Name": "Student_19308",
+    "Group": "A1",
+    "AverageGrade": 0.89
+  },
+  {
+    "Id": "054f7ab9-46f8-4e32-a45e-50b9e2b18481",
+    "Name": "Student_035b9",
+    "Group": "C3",
+    "AverageGrade": 0.75
+  },
+  {
+    "Id": "17fa262b-7927-4017-a7bb-ddc91c054436",
+    "Name": "Student_b2977",
+    "Group": "B2",
+    "AverageGrade": 4.73
+  },
+  {
+    "Id": "e4b4a664-80d0-49d4-a9b5-16bfaff99375",
+    "Name": "Student_a28a4",
+    "Group": "D4",
+    "AverageGrade": 1.45
+  },
+  {
+    "Id": "361e3049-b3bb-41d4-91ce-209142bc966e",
+    "Name": "Student_0afc5",
+    "Group": "C3",
+    "AverageGrade": 2.28
+  },
+  {
+    "Id": "690551ae-10b9-40b1-96ba-adb98d6aa70a",
+    "Name": "Student_38c02",
+    "Group": "A1",
+    "AverageGrade": 2.82
+  },
+  {
+    "Id": "de15b035-b23a-4d96-982d-e93c97905db5",
+    "Name": "Student_22c98",
+    "Group": "B2",
+    "AverageGrade": 2.21
+  },
+  {
+    "Id": "6f6fb1aa-9da3-4ed8-9935-2be4ccf600f1",
+    "Name": "Student_6bda8",
+    "Group": "D4",
+    "AverageGrade": 2.13
+  },
+  {
+    "Id": "fc4722c2-2903-41d2-a132-1a57da967421",
+    "Name": "Student_e1084",
+    "Group": "C3",
+    "AverageGrade": 0.15
+  },
+  {
+    "Id": "992b59e4-25de-4f9b-9764-b22b7c090c2b",
+    "Name": "Student_221c6",
+    "Group": "D4",
+    "AverageGrade": 2.39
+  },
+  {
+    "Id": "aaa88567-584c-4b00-b1e1-8b6f99b9e668",
+    "Name": "Student_547c6",
+    "Group": "A1",
+    "AverageGrade": 3.12
+  },
+  {
+    "Id": "2e65ad28-16ac-4a8a-8c78-f6499eda065d",
+    "Name": "Student_93264",
+    "Group": "C3",
+    "AverageGrade": 0.4
+  },
+  {
+    "Id": "bfccc127-62ab-4338-956d-12e4eeba617b",
+    "Name": "Student_f286e",
+    "Group": "D4",
+    "AverageGrade": 3.71
+  },
+  {
+    "Id": "973ce9c7-8199-4940-928a-6ecd725f1509",
+    "Name": "Student_56f17",
+    "Group": "A1",
+    "AverageGrade": 2.25
+  },
+  {
+    "Id": "3d139e3a-37d5-412f-a6f9-6c02864a0204",
+    "Name": "Student_10a36",
+    "Group": "C3",
+    "AverageGrade": 1.6
+  },
+  {
+    "Id": "ec7b6d83-bbed-4bcb-aefe-97895bb6b9e6",
+    "Name": "Student_eb8bd",
+    "Group": "C3",
+    "AverageGrade": 0.23
+  },
+  {
+    "Id": "918545bd-d686-426f-a384-9d3ad6012fd5",
+    "Name": "Student_24c65",
+    "Group": "A1",
+    "AverageGrade": 4.57
+  },
+  {
+    "Id": "44725d9a-4f2f-4624-b152-223d4239c0c5",
+    "Name": "Student_ab414",
+    "Group": "B2",
+    "AverageGrade": 0.92
+  },
+  {
+    "Id": "3299d2af-aaa6-4537-8796-adc6f896642e",
+    "Name": "Student_d65b4",
+    "Group": "B2",
+    "AverageGrade": 3.05
+  },
+  {
+    "Id": "3e2945bc-2199-4501-bea2-b948941bb56c",
+    "Name": "Student_aefb0",
+    "Group": "A1",
+    "AverageGrade": 2.48
+  },
+  {
+    "Id": "0e0d6d81-b632-4364-9df6-72eb805c1c8a",
+    "Name": "Student_f6f4d",
+    "Group": "B2",
+    "AverageGrade": 0.04
+  },
+  {
+    "Id": "6220f1b6-41f7-496a-9ac9-3c0453bf0f57",
+    "Name": "Student_b137a",
+    "Group": "C3",
+    "AverageGrade": 4.65
+  },
+  {
+    "Id": "e3127711-1e78-4e51-a718-16916dacbeaa",
+    "Name": "Student_db2fd",
+    "Group": "C3",
+    "AverageGrade": 0.73
+  },
+  {
+    "Id": "566a48f4-939c-4be0-8d4f-e3ce414bee9b",
+    "Name": "Student_a3e64",
+    "Group": "D4",
+    "AverageGrade": 0.61
+  },
+  {
+    "Id": "35670f33-2bed-4c79-8c18-1e931946919f",
+    "Name": "Student_91a77",
+    "Group": "A1",
+    "AverageGrade": 0.33
+  },
+  {
+    "Id": "6525576a-54de-4b73-b5c9-249beff7132e",
+    "Name": "Student_cce4e",
+    "Group": "C3",
+    "AverageGrade": 1.67
+  },
+  {
+    "Id": "6cf75740-1c14-4e73-9795-f57caf31f4f6",
+    "Name": "Student_7cf9b",
+    "Group": "C3",
+    "AverageGrade": 0.72
+  },
+  {
+    "Id": "dd5f3e33-291d-4e22-bf4d-3b87a0449e97",
+    "Name": "Student_66910",
+    "Group": "C3",
+    "AverageGrade": 4.4
+  },
+  {
+    "Id": "26875e3b-7207-43cd-864d-49636a17840f",
+    "Name": "Student_76c27",
+    "Group": "B2",
+    "AverageGrade": 1.61
+  },
+  {
+    "Id": "7348a188-5f3f-4f40-bcd7-7c2b1bac6113",
+    "Name": "Student_79196",
+    "Group": "C3",
+    "AverageGrade": 4.72
+  },
+  {
+    "Id": "f717e974-f99e-49d4-b3d6-f161b2973706",
+    "Name": "Student_e9919",
+    "Group": "B2",
+    "AverageGrade": 4.93
+  },
+  {
+    "Id": "4af5bebc-8e8d-41ad-8893-72640a2b1e12",
+    "Name": "Student_8a887",
+    "Group": "A1",
+    "AverageGrade": 2.82
+  },
+  {
+    "Id": "c6f3a9a4-0cc6-4de9-8e69-443a86e9cdc4",
+    "Name": "Student_5d9ab",
+    "Group": "D4",
+    "AverageGrade": 4.97
+  },
+  {
+    "Id": "857af324-861e-4ed4-ab6f-a8073d455dee",
+    "Name": "Student_af7f3",
+    "Group": "B2",
+    "AverageGrade": 0.34
+  },
+  {
+    "Id": "ce87c8a5-cb4d-40c2-80fa-b154b90aa026",
+    "Name": "Student_f14da",
+    "Group": "C3",
+    "AverageGrade": 5
+  },
+  {
+    "Id": "5aa21439-41fb-412e-b02b-20ac06ef6cf2",
+    "Name": "Student_7c1d8",
+    "Group": "C3",
+    "AverageGrade": 4.04
+  },
+  {
+    "Id": "7ae79c86-b3e4-47cb-83cd-2e9469b01421",
+    "Name": "Student_2ceb1",
+    "Group": "B2",
+    "AverageGrade": 2.53
+  },
+  {
+    "Id": "d0b1152a-ac15-41f4-a25d-4c6cf3d43695",
+    "Name": "Student_2451a",
+    "Group": "B2",
+    "AverageGrade": 3.02
+  },
+  {
+    "Id": "e4906f68-5f27-4614-bf43-db0a3489e85d",
+    "Name": "Student_85563",
+    "Group": "B2",
+    "AverageGrade": 3.55
+  },
+  {
+    "Id": "e1b258cb-ecdd-4413-b231-6cb821dc40c9",
+    "Name": "Student_2e7fa",
+    "Group": "B2",
+    "AverageGrade": 3.51
+  },
+  {
+    "Id": "db33760e-0164-461c-842e-a490d2527feb",
+    "Name": "Student_deb5b",
+    "Group": "B2",
+    "AverageGrade": 4.49
+  },
+  {
+    "Id": "212c80cd-962b-4417-8b5c-4a4362d0a7e0",
+    "Name": "Student_109fc",
+    "Group": "A1",
+    "AverageGrade": 0.18
+  },
+  {
+    "Id": "c74e5b84-4821-4e32-a68e-b88ff58a0dec",
+    "Name": "Student_ef291",
+    "Group": "D4",
+    "AverageGrade": 0.55
+  },
+  {
+    "Id": "7ea71fb7-2f31-41d1-8594-0b5b51a5436d",
+    "Name": "Student_47a35",
+    "Group": "D4",
+    "AverageGrade": 4.27
+  },
+  {
+    "Id": "61253d40-92ac-49a3-b431-9aa1ddbc795b",
+    "Name": "Student_cebb4",
+    "Group": "D4",
+    "AverageGrade": 4.98
+  },
+  {
+    "Id": "465bde95-f710-4bf9-889f-52136859e92f",
+    "Name": "Student_fa096",
+    "Group": "D4",
+    "AverageGrade": 0.66
+  },
+  {
+    "Id": "1a805ea8-625a-431f-99a7-ce88ae961126",
+    "Name": "Student_2ff50",
+    "Group": "B2",
+    "AverageGrade": 2.56
+  },
+  {
+    "Id": "057dcc2d-2f12-4e36-b7c1-40882f21f718",
+    "Name": "Student_414dc",
+    "Group": "B2",
+    "AverageGrade": 3.52
+  },
+  {
+    "Id": "070453a1-880a-4795-b2eb-f3cbf26c8409",
+    "Name": "Student_24157",
+    "Group": "C3",
+    "AverageGrade": 1.56
+  },
+  {
+    "Id": "0b9a7cb3-74bd-4584-ac82-3adf5a8dd867",
+    "Name": "Student_9374d",
+    "Group": "A1",
+    "AverageGrade": 1.42
+  },
+  {
+    "Id": "13e04356-efc8-40f4-b697-39ed31f53543",
+    "Name": "Student_0d8a1",
+    "Group": "B2",
+    "AverageGrade": 3.91
+  },
+  {
+    "Id": "e45d4897-6158-44af-8f28-37c43729ad5e",
+    "Name": "Student_8421d",
+    "Group": "D4",
+    "AverageGrade": 1.72
+  },
+  {
+    "Id": "cb585b3f-eaf2-4e20-a842-35a8f98e8c0b",
+    "Name": "Student_8562a",
+    "Group": "A1",
+    "AverageGrade": 3.82
+  },
+  {
+    "Id": "9043c39a-4718-4275-bc24-58580d77f04d",
+    "Name": "Student_876da",
+    "Group": "D4",
+    "AverageGrade": 0.23
+  },
+  {
+    "Id": "1ebc5c2d-d16e-4701-886b-e7115bed60c7",
+    "Name": "Student_8f7e9",
+    "Group": "A1",
+    "AverageGrade": 1
+  },
+  {
+    "Id": "29275f38-49b2-42a1-a03f-4d6b3d11792a",
+    "Name": "Student_a37fc",
+    "Group": "B2",
+    "AverageGrade": 3.44
+  },
+  {
+    "Id": "6bf5a1d3-83a4-4f6e-9677-a5c44b9a72fc",
+    "Name": "Student_076b1",
+    "Group": "A1",
+    "AverageGrade": 2.93
+  },
+  {
+    "Id": "668fb34d-5181-41b0-9faa-473a92426fc0",
+    "Name": "Student_c0cd7",
+    "Group": "A1",
+    "AverageGrade": 3.25
+  },
+  {
+    "Id": "09e061f6-113d-40ec-8e55-0522e3b2af10",
+    "Name": "Student_8cf8a",
+    "Group": "D4",
+    "AverageGrade": 2.71
+  },
+  {
+    "Id": "b8463bcd-52e9-47d6-937e-e83b4bf00257",
+    "Name": "Student_96cee",
+    "Group": "D4",
+    "AverageGrade": 2.07
+  },
+  {
+    "Id": "126035c5-fd71-4384-bf10-dbb85cee9dff",
+    "Name": "Student_022f2",
+    "Group": "A1",
+    "AverageGrade": 3.92
+  },
+  {
+    "Id": "86d52bb2-dc8e-4c6f-8557-5e5a1298eca6",
+    "Name": "Student_3e281",
+    "Group": "D4",
+    "AverageGrade": 4.52
+  },
+  {
+    "Id": "76bfc1db-c1d7-42a3-b575-47a20ed760e2",
+    "Name": "Student_b2a21",
+    "Group": "C3",
+    "AverageGrade": 3.17
+  },
+  {
+    "Id": "f63d0624-e15d-4a69-b9c3-5c5242634e80",
+    "Name": "Student_3fc2d",
+    "Group": "C3",
+    "AverageGrade": 2.16
+  },
+  {
+    "Id": "13ab7716-187b-4ae7-853c-77a054b0c8ce",
+    "Name": "Student_b2091",
+    "Group": "C3",
+    "AverageGrade": 1.79
+  },
+  {
+    "Id": "45bd99f7-84ea-463c-a90e-645fc824418e",
+    "Name": "Student_390a7",
+    "Group": "A1",
+    "AverageGrade": 3.94
+  },
+  {
+    "Id": "27ba5983-984b-41a4-83cf-57344f4b24fc",
+    "Name": "Student_1419d",
+    "Group": "A1",
+    "AverageGrade": 3.77
+  },
+  {
+    "Id": "28102059-0610-4db8-ab10-8da901ef3c38",
+    "Name": "Student_3f403",
+    "Group": "A1",
+    "AverageGrade": 0.26
+  },
+  {
+    "Id": "ca05b671-53a1-4a66-a3b4-e6551fb475f5",
+    "Name": "Student_d1d4f",
+    "Group": "B2",
+    "AverageGrade": 4.4
+  },
+  {
+    "Id": "2581928d-7459-476e-867c-0530cfc425e0",
+    "Name": "Student_624fb",
+    "Group": "C3",
+    "AverageGrade": 3.69
+  },
+  {
+    "Id": "3f241b7e-baf0-44fc-91b3-b513232a0499",
+    "Name": "Student_dcfcb",
+    "Group": "D4",
+    "AverageGrade": 2.39
+  },
+  {
+    "Id": "1f2afdc0-270a-4039-9d4c-95e00ac67c58",
+    "Name": "Student_41f91",
+    "Group": "A1",
+    "AverageGrade": 0.47
+  },
+  {
+    "Id": "779de39a-8ef0-4e35-9745-139d73b85606",
+    "Name": "Student_c2a8a",
+    "Group": "D4",
+    "AverageGrade": 0.71
+  },
+  {
+    "Id": "ade83ad3-eacc-4f52-ac0a-ebed57d5a9a0",
+    "Name": "Student_a4602",
+    "Group": "A1",
+    "AverageGrade": 2.38
+  },
+  {
+    "Id": "6e247c36-348d-4a37-b22a-a811163868a7",
+    "Name": "Student_2b1d9",
+    "Group": "D4",
+    "AverageGrade": 3.24
+  },
+  {
+    "Id": "80ff8863-e404-42a4-80b4-b4cbe085eb3c",
+    "Name": "Student_2d0ab",
+    "Group": "D4",
+    "AverageGrade": 4.08
+  },
+  {
+    "Id": "394df2b7-de87-45ae-b402-4a953e246873",
+    "Name": "Student_543aa",
+    "Group": "D4",
+    "AverageGrade": 4.7
+  },
+  {
+    "Id": "68616a47-5dd5-438d-8a8f-7531a305069e",
+    "Name": "Student_d3583",
+    "Group": "C3",
+    "AverageGrade": 1.69
+  },
+  {
+    "Id": "27a31afa-875b-4567-8878-51ada41275b0",
+    "Name": "Student_5b52a",
+    "Group": "D4",
+    "AverageGrade": 2.59
+  },
+  {
+    "Id": "0e3fbc33-b8b5-4332-92d6-3932e8ec46b1",
+    "Name": "Student_8b757",
+    "Group": "C3",
+    "AverageGrade": 3.09
+  },
+  {
+    "Id": "9cfe2a04-3b2b-46aa-bfab-3d5d4d6b33fd",
+    "Name": "Student_f2c6b",
+    "Group": "C3",
+    "AverageGrade": 1.34
+  },
+  {
+    "Id": "a2fd2a4d-e5bf-463e-99f3-806dc6c0731b",
+    "Name": "Student_0192d",
+    "Group": "C3",
+    "AverageGrade": 2.53
+  },
+  {
+    "Id": "26a45253-6710-4e18-ae22-0cd75bd7a100",
+    "Name": "Student_5336e",
+    "Group": "D4",
+    "AverageGrade": 2.78
+  },
+  {
+    "Id": "60d3176c-90ae-4166-9e4f-f32eb59beac3",
+    "Name": "Student_d5239",
+    "Group": "A1",
+    "AverageGrade": 1.3
+  },
+  {
+    "Id": "1a1479f0-5398-4ef8-be1c-9cd590eec181",
+    "Name": "Student_19dcf",
+    "Group": "A1",
+    "AverageGrade": 4.83
+  },
+  {
+    "Id": "dd0d1c98-58b9-4a2c-9c35-b2e686faeb51",
+    "Name": "Student_64dfb",
+    "Group": "C3",
+    "AverageGrade": 1.06
+  },
+  {
+    "Id": "61a2afcf-b00a-46bd-bfd7-c55c6a4cad42",
+    "Name": "Student_12508",
+    "Group": "A1",
+    "AverageGrade": 0.78
+  },
+  {
+    "Id": "757624a4-80dd-42e5-8116-61f089d10eec",
+    "Name": "Student_5b4c9",
+    "Group": "D4",
+    "AverageGrade": 0.5
+  },
+  {
+    "Id": "d13a5030-992b-4ace-814e-481eef9d9a97",
+    "Name": "Student_05f88",
+    "Group": "B2",
+    "AverageGrade": 1.76
+  },
+  {
+    "Id": "ffb2d9aa-62c1-4bf5-9f39-cbc91d86e515",
+    "Name": "Student_63737",
+    "Group": "C3",
+    "AverageGrade": 4.16
+  },
+  {
+    "Id": "9016d275-ff77-4633-9c2a-fca02ca0bf5a",
+    "Name": "Student_9ef11",
+    "Group": "D4",
+    "AverageGrade": 4.48
+  },
+  {
+    "Id": "21369278-01c0-41a9-9888-51e9431d11af",
+    "Name": "Student_e6aa5",
+    "Group": "A1",
+    "AverageGrade": 3.31
+  },
+  {
+    "Id": "062e2df4-432c-4e4f-a975-24759a9d5920",
+    "Name": "Student_1e88c",
+    "Group": "B2",
+    "AverageGrade": 1.91
+  },
+  {
+    "Id": "80d2e615-13c9-48cf-adef-156cb1a8b802",
+    "Name": "Student_524a4",
+    "Group": "D4",
+    "AverageGrade": 2.95
+  },
+  {
+    "Id": "cc2edf77-c40b-4b5e-9b2e-4225d4e0b136",
+    "Name": "Student_8de5e",
+    "Group": "C3",
+    "AverageGrade": 4.79
+  },
+  {
+    "Id": "b9bdc342-4003-43e4-87d1-2d1a3cf4f011",
+    "Name": "Student_e8000",
+    "Group": "C3",
+    "AverageGrade": 3.36
+  },
+  {
+    "Id": "8be44442-2e13-4ee5-bd33-4654db0a1907",
+    "Name": "Student_e5ec0",
+    "Group": "B2",
+    "AverageGrade": 3.24
+  },
+  {
+    "Id": "6583efa1-ff2b-41c2-b5f9-97aba1023de1",
+    "Name": "Student_975a3",
+    "Group": "D4",
+    "AverageGrade": 1
+  },
+  {
+    "Id": "f9a13f93-9cf3-4c90-b4e5-1c7e52f7dc23",
+    "Name": "Student_5b0da",
+    "Group": "B2",
+    "AverageGrade": 0.94
+  },
+  {
+    "Id": "fcb57df2-a3e9-4037-b04d-dd95ffb3ab5b",
+    "Name": "Student_6dfbb",
+    "Group": "D4",
+    "AverageGrade": 0.59
+  },
+  {
+    "Id": "7f4fcd31-0b47-45c5-8499-a002b054c1ab",
+    "Name": "Student_da1d7",
+    "Group": "C3",
+    "AverageGrade": 1.71
+  },
+  {
+    "Id": "d6d6ddfe-d622-4657-81d9-0c86f86e7032",
+    "Name": "Student_881f0",
+    "Group": "C3",
+    "AverageGrade": 3.65
+  },
+  {
+    "Id": "075add1e-d26d-4692-af12-21abe441fca3",
+    "Name": "Student_8e528",
+    "Group": "C3",
+    "AverageGrade": 2.08
+  },
+  {
+    "Id": "8845b746-9c29-4730-a687-886479503ea3",
+    "Name": "Student_416fd",
+    "Group": "D4",
+    "AverageGrade": 0.28
+  },
+  {
+    "Id": "a0397371-9c8f-4f69-b872-9e15570f3f61",
+    "Name": "Student_540cd",
+    "Group": "B2",
+    "AverageGrade": 3.51
+  },
+  {
+    "Id": "a62c0cfc-e825-4279-beb3-9248b5af8088",
+    "Name": "Student_21df4",
+    "Group": "A1",
+    "AverageGrade": 1.61
+  },
+  {
+    "Id": "f1dd640d-a06d-4715-a9b1-688ad8bf7b9b",
+    "Name": "Student_823d2",
+    "Group": "C3",
+    "AverageGrade": 3.43
+  },
+  {
+    "Id": "92b073d6-c7d4-4d61-ab5a-1148def6d8ce",
+    "Name": "Student_5739b",
+    "Group": "B2",
+    "AverageGrade": 4.88
+  },
+  {
+    "Id": "12f04293-62e9-4711-88e9-1a65763b2073",
+    "Name": "Student_1487e",
+    "Group": "D4",
+    "AverageGrade": 1.4
+  },
+  {
+    "Id": "1fa3da67-12aa-400b-ac04-fa7c50943bdf",
+    "Name": "Student_8b2ce",
+    "Group": "A1",
+    "AverageGrade": 0.62
+  },
+  {
+    "Id": "43895900-bc41-4118-89ba-b176b0f2fd59",
+    "Name": "Student_f9c77",
+    "Group": "D4",
+    "AverageGrade": 2.33
+  },
+  {
+    "Id": "6cea63b9-6d51-457a-b8d4-992c686c72ac",
+    "Name": "Student_9aafd",
+    "Group": "A1",
+    "AverageGrade": 4.45
+  },
+  {
+    "Id": "c8b5751f-c265-4d61-ac02-b30062424dfe",
+    "Name": "Student_b6f56",
+    "Group": "C3",
+    "AverageGrade": 4.9
+  },
+  {
+    "Id": "5efa5698-5377-40f6-9072-6094bb6f8495",
+    "Name": "Student_94f1a",
+    "Group": "B2",
+    "AverageGrade": 4.42
+  },
+  {
+    "Id": "33f7d7b9-309c-483e-bf09-651ceb1b7146",
+    "Name": "Student_574b7",
+    "Group": "B2",
+    "AverageGrade": 3.63
+  },
+  {
+    "Id": "006cf31b-4eb1-4614-9ba7-18bc3765e8c7",
+    "Name": "Student_4e078",
+    "Group": "B2",
+    "AverageGrade": 4.9
+  },
+  {
+    "Id": "504d056e-f986-4d87-a54f-5047ab7ec2b1",
+    "Name": "Student_8e666",
+    "Group": "D4",
+    "AverageGrade": 2.17
+  },
+  {
+    "Id": "16659c8c-2711-4b41-a955-287dd0762ad9",
+    "Name": "Student_a50cb",
+    "Group": "D4",
+    "AverageGrade": 4.57
+  },
+  {
+    "Id": "cbe032f2-2745-483d-ac6a-b5ec57429e22",
+    "Name": "Student_12e5e",
+    "Group": "D4",
+    "AverageGrade": 3.58
+  },
+  {
+    "Id": "6efc03f6-78f9-4d0a-a265-3450ebe137b7",
+    "Name": "Student_21708",
+    "Group": "C3",
+    "AverageGrade": 0.22
+  },
+  {
+    "Id": "8165dcef-4d9d-458d-9709-04650ea58de4",
+    "Name": "Student_ee480",
+    "Group": "C3",
+    "AverageGrade": 0.86
+  },
+  {
+    "Id": "4d7bb426-2364-4bb9-91a2-847cec6cff84",
+    "Name": "Student_daa7f",
+    "Group": "D4",
+    "AverageGrade": 0.83
+  },
+  {
+    "Id": "af24ea96-220f-491b-861c-3d11c413f3f3",
+    "Name": "Student_67815",
+    "Group": "D4",
+    "AverageGrade": 1.45
+  },
+  {
+    "Id": "61287f24-14e5-4ce1-a4c7-43039b69e638",
+    "Name": "Student_f478c",
+    "Group": "A1",
+    "AverageGrade": 1.47
+  },
+  {
+    "Id": "994be3f0-a018-4009-a76d-1c4bcddc3656",
+    "Name": "Student_81e57",
+    "Group": "A1",
+    "AverageGrade": 2.67
+  },
+  {
+    "Id": "2b28d209-2381-476b-af96-fc63402f5a81",
+    "Name": "Student_4dc20",
+    "Group": "B2",
+    "AverageGrade": 2.87
+  },
+  {
+    "Id": "2823bc14-30ea-456c-ad87-34483745f32d",
+    "Name": "Student_e8219",
+    "Group": "B2",
+    "AverageGrade": 0.96
+  },
+  {
+    "Id": "4b668930-d03a-494f-b0cd-1c05c2f28dc8",
+    "Name": "Student_d2b8a",
+    "Group": "B2",
+    "AverageGrade": 4.11
+  },
+  {
+    "Id": "f051f271-15b0-4f37-8b25-779a63ee8853",
+    "Name": "Student_a8a27",
+    "Group": "D4",
+    "AverageGrade": 4.05
+  },
+  {
+    "Id": "47dabaf1-076b-4588-aa87-6db2041713e9",
+    "Name": "Student_cde16",
+    "Group": "B2",
+    "AverageGrade": 1.24
+  },
+  {
+    "Id": "31a764b9-63ac-4f6a-a823-3089585a7738",
+    "Name": "Student_b616f",
+    "Group": "C3",
+    "AverageGrade": 4.89
+  },
+  {
+    "Id": "27d03e94-91df-4530-b447-d05b206fd604",
+    "Name": "Student_fdcc2",
+    "Group": "C3",
+    "AverageGrade": 4.71
+  },
+  {
+    "Id": "b57fc011-8e55-469b-9f77-4c541ffbfe5f",
+    "Name": "Student_a17df",
+    "Group": "C3",
+    "AverageGrade": 4.95
+  },
+  {
+    "Id": "2de149e2-38a0-44a5-8a70-3665b66d8d38",
+    "Name": "Student_075ca",
+    "Group": "D4",
+    "AverageGrade": 0.97
+  },
+  {
+    "Id": "8ea871f7-78d2-4474-8b8b-887778ffbcb1",
+    "Name": "Student_60922",
+    "Group": "C3",
+    "AverageGrade": 0.7
+  },
+  {
+    "Id": "a45dafd2-a872-435d-b490-59fb6d66619e",
+    "Name": "Student_dac4f",
+    "Group": "B2",
+    "AverageGrade": 2.11
+  },
+  {
+    "Id": "b4d3648f-875f-41ae-a91f-ba739bfc2633",
+    "Name": "Student_d685d",
+    "Group": "C3",
+    "AverageGrade": 4.44
+  },
+  {
+    "Id": "ea4bc9e9-f6af-4027-be6d-a1065bd8d911",
+    "Name": "Student_e1edd",
+    "Group": "D4",
+    "AverageGrade": 1.37
+  },
+  {
+    "Id": "59b51e4a-bfff-4bff-8454-288e37dfdd1f",
+    "Name": "Student_a8840",
+    "Group": "B2",
+    "AverageGrade": 3.72
+  },
+  {
+    "Id": "a7acd30d-0521-48fb-bf28-66b1d7ac9b0a",
+    "Name": "Student_d50d1",
+    "Group": "D4",
+    "AverageGrade": 1.38
+  },
+  {
+    "Id": "97177177-b020-4e1c-b191-ffa807f1acad",
+    "Name": "Student_5242a",
+    "Group": "D4",
+    "AverageGrade": 1.31
+  },
+  {
+    "Id": "6d40a0d4-370c-4c38-ab35-7de11f88bf4c",
+    "Name": "Student_0055f",
+    "Group": "B2",
+    "AverageGrade": 3.61
+  },
+  {
+    "Id": "740274bb-2cec-4d04-a048-06565aadf6cc",
+    "Name": "Student_e6894",
+    "Group": "B2",
+    "AverageGrade": 3.22
+  },
+  {
+    "Id": "1c4c9b1c-076f-4f9b-a62b-3a4bd396c51a",
+    "Name": "Student_94016",
+    "Group": "C3",
+    "AverageGrade": 2.91
+  },
+  {
+    "Id": "54164963-6e7b-4dae-95dc-ec5958e9feb9",
+    "Name": "Student_b30c1",
+    "Group": "D4",
+    "AverageGrade": 1.29
+  },
+  {
+    "Id": "8b499952-96e3-44ed-ac8b-bd15a2df30a8",
+    "Name": "Student_b4d1d",
+    "Group": "D4",
+    "AverageGrade": 4.08
+  },
+  {
+    "Id": "426463b9-a22d-494c-8e7a-07ee16e15ad5",
+    "Name": "Student_895d5",
+    "Group": "A1",
+    "AverageGrade": 1.57
+  },
+  {
+    "Id": "7aa87179-91f4-47a0-857f-b68a6b2d8673",
+    "Name": "Student_9dfb0",
+    "Group": "D4",
+    "AverageGrade": 3.03
+  },
+  {
+    "Id": "8a03d79a-b2f4-4089-b0e6-ddb36b8add67",
+    "Name": "Student_86757",
+    "Group": "D4",
+    "AverageGrade": 3.85
+  },
+  {
+    "Id": "067643cd-6501-4eef-8e7b-0b652a8ac7cd",
+    "Name": "Student_361b5",
+    "Group": "A1",
+    "AverageGrade": 1.74
+  },
+  {
+    "Id": "d2838a38-372e-45d1-83e5-8f0573e12de6",
+    "Name": "Student_2042b",
+    "Group": "A1",
+    "AverageGrade": 2.86
+  },
+  {
+    "Id": "2bf26e9e-5acf-4efa-8c55-09bfe8a967b9",
+    "Name": "Student_bfece",
+    "Group": "A1",
+    "AverageGrade": 3.14
+  },
+  {
+    "Id": "f360e4cf-c958-4d84-84e3-e9799338094d",
+    "Name": "Student_6a4c3",
+    "Group": "B2",
+    "AverageGrade": 3.32
+  },
+  {
+    "Id": "5f8784d7-8da3-48be-98ae-c0cd8c428d29",
+    "Name": "Student_0918b",
+    "Group": "A1",
+    "AverageGrade": 1.47
+  },
+  {
+    "Id": "8f676269-d90a-4c69-8043-f731f77d9af5",
+    "Name": "Student_9f249",
+    "Group": "B2",
+    "AverageGrade": 3.12
+  },
+  {
+    "Id": "55c57c8c-b43d-4d21-869e-f103f933ad43",
+    "Name": "Student_7ee76",
+    "Group": "D4",
+    "AverageGrade": 3.77
+  },
+  {
+    "Id": "7f4306ab-59b8-4860-998d-f174f73afcc2",
+    "Name": "Student_06dbc",
+    "Group": "C3",
+    "AverageGrade": 3.37
+  },
+  {
+    "Id": "2086c617-afa8-49d8-bd6f-68d35dec76db",
+    "Name": "Student_db38e",
+    "Group": "D4",
+    "AverageGrade": 2.77
+  },
+  {
+    "Id": "7e72b3ea-3ff7-4c4a-ab22-a90b3472f2d4",
+    "Name": "Student_108cc",
+    "Group": "C3",
+    "AverageGrade": 4.9
+  },
+  {
+    "Id": "5c368833-458b-4af8-96aa-a0a317a801a1",
+    "Name": "Student_e8b72",
+    "Group": "A1",
+    "AverageGrade": 4.1
+  },
+  {
+    "Id": "7a93abd2-994c-452e-abc8-825ee09f7856",
+    "Name": "Student_66efc",
+    "Group": "A1",
+    "AverageGrade": 1.49
+  },
+  {
+    "Id": "cecc1526-2356-4ac6-9945-bc6eb20cd466",
+    "Name": "Student_3315d",
+    "Group": "B2",
+    "AverageGrade": 2.62
+  },
+  {
+    "Id": "fdf66de0-fd80-4bbc-a72d-795fea8af4f3",
+    "Name": "Student_f13c3",
+    "Group": "B2",
+    "AverageGrade": 4.8
+  },
+  {
+    "Id": "5786a0bf-d127-4fd5-983f-fee90118ba73",
+    "Name": "Student_0f1c2",
+    "Group": "A1",
+    "AverageGrade": 1.82
+  },
+  {
+    "Id": "a9589b96-7df7-45f0-852f-845d3de24e65",
+    "Name": "Student_15025",
+    "Group": "B2",
+    "AverageGrade": 4.31
+  },
+  {
+    "Id": "6d915990-7397-4bd6-9f0e-35f7f27369ff",
+    "Name": "Student_48360",
+    "Group": "A1",
+    "AverageGrade": 3.52
+  },
+  {
+    "Id": "49acc889-6766-431a-b949-a9eed5a2f271",
+    "Name": "Student_0a5ad",
+    "Group": "A1",
+    "AverageGrade": 3.4
+  },
+  {
+    "Id": "a4690a34-18e4-4969-a895-acb8a4d48b4d",
+    "Name": "Student_59b8d",
+    "Group": "C3",
+    "AverageGrade": 4.51
+  },
+  {
+    "Id": "fc885954-bd11-4bb9-80ed-0b58fcf382bf",
+    "Name": "Student_d0f58",
+    "Group": "C3",
+    "AverageGrade": 3.95
+  },
+  {
+    "Id": "c87ad80a-2179-4081-be83-a8eb4acfcd64",
+    "Name": "Student_d4d14",
+    "Group": "B2",
+    "AverageGrade": 4.47
+  },
+  {
+    "Id": "15e501ac-9b79-4cf5-afdd-58fe60d833fa",
+    "Name": "Student_7d34c",
+    "Group": "C3",
+    "AverageGrade": 0.44
+  },
+  {
+    "Id": "d221a22b-822e-40db-9d1e-5cf352f4b4a4",
+    "Name": "Student_2b38a",
+    "Group": "D4",
+    "AverageGrade": 4.51
+  },
+  {
+    "Id": "81a2561c-ed45-4d4a-9ffe-68daddab1459",
+    "Name": "Student_2fcba",
+    "Group": "C3",
+    "AverageGrade": 1.36
+  },
+  {
+    "Id": "42fa41b2-8844-4311-8da5-634305709221",
+    "Name": "Student_61f86",
+    "Group": "C3",
+    "AverageGrade": 3.22
+  },
+  {
+    "Id": "d4967893-50e8-4c68-89a7-0f59babfa0c0",
+    "Name": "Student_7777c",
+    "Group": "D4",
+    "AverageGrade": 1.38
+  },
+  {
+    "Id": "c9dcd4cc-fb54-4b2a-8b34-0c9c7e98020f",
+    "Name": "Student_31ca3",
+    "Group": "B2",
+    "AverageGrade": 1.4
+  },
+  {
+    "Id": "f34ab37c-6c1b-445f-9067-e87bbcfee1da",
+    "Name": "Student_c230c",
+    "Group": "B2",
+    "AverageGrade": 4.12
+  },
+  {
+    "Id": "0778e1a2-39e5-43e1-b840-49734d0c4942",
+    "Name": "Student_af8b9",
+    "Group": "B2",
+    "AverageGrade": 2.44
+  },
+  {
+    "Id": "c87bd205-454b-43fa-b39e-afc33123349b",
+    "Name": "Student_33b53",
+    "Group": "C3",
+    "AverageGrade": 2.6
+  },
+  {
+    "Id": "9b21935f-797e-4d72-8430-9da5b8a731ff",
+    "Name": "Student_59fce",
+    "Group": "A1",
+    "AverageGrade": 0.11
+  },
+  {
+    "Id": "fefbdf9f-1b29-4aa4-9a93-5a2a1c8dd16f",
+    "Name": "Student_a5e9c",
+    "Group": "C3",
+    "AverageGrade": 4.23
+  },
+  {
+    "Id": "95503f01-6031-45fc-8f6d-0a3fff48777e",
+    "Name": "Student_cd7dd",
+    "Group": "A1",
+    "AverageGrade": 4.17
+  },
+  {
+    "Id": "aeda8518-1972-4dff-b22a-50862878a7b7",
+    "Name": "Student_91729",
+    "Group": "D4",
+    "AverageGrade": 0.1
+  },
+  {
+    "Id": "6492800f-f4d8-4c7c-8072-cb2f315d1f7c",
+    "Name": "Student_05acf",
+    "Group": "A1",
+    "AverageGrade": 0.5
+  },
+  {
+    "Id": "3cbf7fc2-dffe-4609-aba7-3ef9ff27d855",
+    "Name": "Student_827b0",
+    "Group": "A1",
+    "AverageGrade": 1.14
+  },
+  {
+    "Id": "a36dccc5-b99f-4507-98ed-caadee485355",
+    "Name": "Student_b755d",
+    "Group": "A1",
+    "AverageGrade": 0.55
+  },
+  {
+    "Id": "9835eabb-1c29-4ff7-91e7-a25230c00871",
+    "Name": "Student_95694",
+    "Group": "A1",
+    "AverageGrade": 2.5
+  },
+  {
+    "Id": "ed08e63f-76a6-4f41-ba79-a9a4d5e4da44",
+    "Name": "Student_b948c",
+    "Group": "D4",
+    "AverageGrade": 3.82
+  },
+  {
+    "Id": "0c77ed8c-3525-431b-9610-0be1ec3d2151",
+    "Name": "Student_58608",
+    "Group": "A1",
+    "AverageGrade": 4.45
+  },
+  {
+    "Id": "fde9a1b7-d908-4c66-800f-4f78f0098446",
+    "Name": "Student_674fe",
+    "Group": "B2",
+    "AverageGrade": 3.68
+  },
+  {
+    "Id": "b200b3c9-982b-4fa5-afbc-8e50a85c3745",
+    "Name": "Student_78f74",
+    "Group": "B2",
+    "AverageGrade": 2.1
+  },
+  {
+    "Id": "06398527-4a86-4054-8290-17b5cdefa958",
+    "Name": "Student_abcfb",
+    "Group": "C3",
+    "AverageGrade": 1.85
+  },
+  {
+    "Id": "a157806f-89e2-479d-b71d-6e281cc933ea",
+    "Name": "Student_4e9e0",
+    "Group": "A1",
+    "AverageGrade": 4.02
+  },
+  {
+    "Id": "5309a3be-265b-41c8-ae1f-2fb6bd1c93f2",
+    "Name": "Student_c5f11",
+    "Group": "C3",
+    "AverageGrade": 0.35
+  },
+  {
+    "Id": "3c5a7be1-b8f6-414c-97db-45145d206efd",
+    "Name": "Student_b2db5",
+    "Group": "C3",
+    "AverageGrade": 1.4
+  },
+  {
+    "Id": "53a14214-c9dd-4fd2-8313-fd1c0d74737e",
+    "Name": "Student_a20d6",
+    "Group": "A1",
+    "AverageGrade": 0.56
+  },
+  {
+    "Id": "33363314-a123-48cb-84c6-080c27a8a372",
+    "Name": "Student_c0912",
+    "Group": "C3",
+    "AverageGrade": 1.03
+  },
+  {
+    "Id": "4740046a-059a-4d1c-ab74-1d5e4632e174",
+    "Name": "Student_664d2",
+    "Group": "D4",
+    "AverageGrade": 1.2
+  },
+  {
+    "Id": "baaee3c4-315b-4e30-9a15-43cac483000c",
+    "Name": "Student_3b082",
+    "Group": "A1",
+    "AverageGrade": 0.68
+  },
+  {
+    "Id": "ab93e631-f92f-4f35-bce4-f75ddcb694b6",
+    "Name": "Student_104b3",
+    "Group": "A1",
+    "AverageGrade": 1.37
+  },
+  {
+    "Id": "2791625a-078a-469c-ac12-37d0e41ab6cf",
+    "Name": "Student_0d675",
+    "Group": "D4",
+    "AverageGrade": 0.32
+  },
+  {
+    "Id": "16b4b677-c8fc-4905-8450-4915e82c13a9",
+    "Name": "Student_b1e4f",
+    "Group": "C3",
+    "AverageGrade": 1.12
+  },
+  {
+    "Id": "134ace66-005b-4424-8197-ae5184e470c0",
+    "Name": "Student_f7869",
+    "Group": "A1",
+    "AverageGrade": 4.33
+  },
+  {
+    "Id": "689aee2a-64a3-4734-8855-be02d383e7e9",
+    "Name": "Student_ac5c8",
+    "Group": "D4",
+    "AverageGrade": 2.92
+  },
+  {
+    "Id": "850b7de2-4d1b-4859-a942-c92d8c8741da",
+    "Name": "Student_86e09",
+    "Group": "C3",
+    "AverageGrade": 0.74
+  },
+  {
+    "Id": "0474859d-4edb-4cea-acbd-edee393c44bd",
+    "Name": "Student_6ed30",
+    "Group": "B2",
+    "AverageGrade": 2.74
+  },
+  {
+    "Id": "c2dc05ef-3d3e-44fb-b4a9-4a8f10dcc078",
+    "Name": "Student_2b3d9",
+    "Group": "C3",
+    "AverageGrade": 1.28
+  },
+  {
+    "Id": "27e18d1e-aff4-4718-8e68-666dbf30c8fa",
+    "Name": "Student_b5775",
+    "Group": "B2",
+    "AverageGrade": 0.65
+  },
+  {
+    "Id": "e0fc497c-b1eb-435d-8107-383ff07086a2",
+    "Name": "Student_e32f5",
+    "Group": "C3",
+    "AverageGrade": 3.35
+  },
+  {
+    "Id": "5cf173e7-368e-4f85-95b6-7e63d7bf6fec",
+    "Name": "Student_5a081",
+    "Group": "C3",
+    "AverageGrade": 2.02
+  },
+  {
+    "Id": "59362d62-e07c-4699-b079-5683e92ff110",
+    "Name": "Student_9efd3",
+    "Group": "B2",
+    "AverageGrade": 3.49
+  },
+  {
+    "Id": "28b707de-874e-4d06-ab09-55b0ea35bb8f",
+    "Name": "Student_421ba",
+    "Group": "A1",
+    "AverageGrade": 0.67
+  },
+  {
+    "Id": "b4c22fe8-6127-4971-a056-3493f757c039",
+    "Name": "Student_28290",
+    "Group": "A1",
+    "AverageGrade": 0.39
+  },
+  {
+    "Id": "606f1552-d8a0-4239-9fd9-cc38844b45a5",
+    "Name": "Student_1ddb0",
+    "Group": "A1",
+    "AverageGrade": 0.01
+  },
+  {
+    "Id": "f0eda39e-4412-466b-b413-c006a5e84ad6",
+    "Name": "Student_e9d3f",
+    "Group": "B2",
+    "AverageGrade": 2.48
+  },
+  {
+    "Id": "19b92e7b-864c-47f8-8e00-c9cf3744fcaa",
+    "Name": "Student_c48cd",
+    "Group": "C3",
+    "AverageGrade": 4.84
+  },
+  {
+    "Id": "ac899463-b641-47bc-b08e-d89c607f3b7b",
+    "Name": "Student_8ded9",
+    "Group": "B2",
+    "AverageGrade": 4.38
+  },
+  {
+    "Id": "a505e050-3fec-4601-b89d-1d9d321a28f1",
+    "Name": "Student_aaba3",
+    "Group": "A1",
+    "AverageGrade": 3.04
+  },
+  {
+    "Id": "20d51d07-3665-44a1-bac5-e0ee51fc3970",
+    "Name": "Student_e7aba",
+    "Group": "D4",
+    "AverageGrade": 3.77
+  },
+  {
+    "Id": "8afd54a6-9282-4802-b641-acf47089504b",
+    "Name": "Student_021ad",
+    "Group": "D4",
+    "AverageGrade": 2.82
+  },
+  {
+    "Id": "daee8a07-8883-4953-9a04-522f1d3f0d55",
+    "Name": "Student_7165d",
+    "Group": "A1",
+    "AverageGrade": 1.92
+  },
+  {
+    "Id": "6f51baf7-7e40-43c4-a10d-c623b690dc81",
+    "Name": "Student_c1d26",
+    "Group": "C3",
+    "AverageGrade": 2.2
+  },
+  {
+    "Id": "46f3e390-8bab-434c-ae5e-c447dce58d33",
+    "Name": "Student_9e41b",
+    "Group": "D4",
+    "AverageGrade": 4.49
+  },
+  {
+    "Id": "b21aa37f-2d6e-4697-9ae6-be9521848a01",
+    "Name": "Student_03c72",
+    "Group": "B2",
+    "AverageGrade": 2.17
+  },
+  {
+    "Id": "e44c6791-a444-4ebc-87f2-8d9154e8e11a",
+    "Name": "Student_c2f9c",
+    "Group": "C3",
+    "AverageGrade": 2.43
+  },
+  {
+    "Id": "18bd9dc6-2994-4b7e-bdd9-7e7ba9cb94c0",
+    "Name": "Student_01b08",
+    "Group": "D4",
+    "AverageGrade": 2.96
+  },
+  {
+    "Id": "c4437142-1cf9-4de2-bb03-a064e67386b0",
+    "Name": "Student_14fcd",
+    "Group": "A1",
+    "AverageGrade": 2.75
+  },
+  {
+    "Id": "98a49277-31a0-4879-9102-42c47b2ab9d6",
+    "Name": "Student_c37f3",
+    "Group": "B2",
+    "AverageGrade": 3.24
+  },
+  {
+    "Id": "ebfbdde7-3adf-4884-8f74-3404b3456082",
+    "Name": "Student_e2963",
+    "Group": "A1",
+    "AverageGrade": 3.15
+  },
+  {
+    "Id": "c93c27f3-adac-440b-b052-1353ed50abc9",
+    "Name": "Student_58123",
+    "Group": "B2",
+    "AverageGrade": 0.71
+  },
+  {
+    "Id": "d0d6c638-b532-4748-b723-f98532c40158",
+    "Name": "Student_570a9",
+    "Group": "A1",
+    "AverageGrade": 1.25
+  },
+  {
+    "Id": "4c162cd6-ec3b-4434-baf2-1ee856f8fcd2",
+    "Name": "Student_95242",
+    "Group": "B2",
+    "AverageGrade": 4.42
+  },
+  {
+    "Id": "725af233-2570-4c26-b6d1-a2b25f1c3500",
+    "Name": "Student_c3d04",
+    "Group": "B2",
+    "AverageGrade": 4.43
+  },
+  {
+    "Id": "b1446cd1-35a9-445f-aa04-6962351e7b3d",
+    "Name": "Student_1efb3",
+    "Group": "D4",
+    "AverageGrade": 1.15
+  },
+  {
+    "Id": "ef90f53d-80b1-4426-a458-f2004d944b61",
+    "Name": "Student_d5eb8",
+    "Group": "D4",
+    "AverageGrade": 1.01
+  },
+  {
+    "Id": "2e0db918-7b33-41be-8016-067654fe4cd9",
+    "Name": "Student_0d1c9",
+    "Group": "D4",
+    "AverageGrade": 3.04
+  },
+  {
+    "Id": "4150a0fb-6fe2-44da-9293-aa7962bc6d20",
+    "Name": "Student_bcc5e",
+    "Group": "D4",
+    "AverageGrade": 4.71
+  },
+  {
+    "Id": "12d149ae-397f-4ad2-a6f6-d801f3e333b2",
+    "Name": "Student_1ad65",
+    "Group": "A1",
+    "AverageGrade": 4.93
+  },
+  {
+    "Id": "282ab406-4e7f-4965-b51d-f4b67a111e4e",
+    "Name": "Student_76543",
+    "Group": "C3",
+    "AverageGrade": 0.14
+  },
+  {
+    "Id": "3b60dc0b-a551-4895-a66e-ddc3adb2718c",
+    "Name": "Student_f1b40",
+    "Group": "B2",
+    "AverageGrade": 4.43
+  },
+  {
+    "Id": "f5b0da5a-7ab1-4b2c-bdbc-9e4e80f28184",
+    "Name": "Student_e8fe6",
+    "Group": "D4",
+    "AverageGrade": 4.16
+  },
+  {
+    "Id": "a834fa8d-d5a6-428d-9a1b-8f68ec886014",
+    "Name": "Student_0ed69",
+    "Group": "C3",
+    "AverageGrade": 2.41
+  },
+  {
+    "Id": "a24adf8b-cbeb-4455-a2ec-3d431635ba01",
+    "Name": "Student_3a69d",
+    "Group": "A1",
+    "AverageGrade": 0.37
+  },
+  {
+    "Id": "00fac09a-be14-43ab-a5b4-6c32bfe28d26",
+    "Name": "Student_313fd",
+    "Group": "B2",
+    "AverageGrade": 0.68
+  },
+  {
+    "Id": "8f901c68-154c-487f-bbbb-809108690e51",
+    "Name": "Student_c65b4",
+    "Group": "D4",
+    "AverageGrade": 0.27
+  },
+  {
+    "Id": "8af84260-bb2a-42b5-a03c-3c61ecbc57c7",
+    "Name": "Student_6961c",
+    "Group": "B2",
+    "AverageGrade": 0.13
+  },
+  {
+    "Id": "44d2ab24-4c19-47b6-9faa-f9db960f029a",
+    "Name": "Student_022fa",
+    "Group": "A1",
+    "AverageGrade": 4.74
+  },
+  {
+    "Id": "835eaabc-e1d7-4595-a0ca-df58d47bdbfc",
+    "Name": "Student_bb1fb",
+    "Group": "C3",
+    "AverageGrade": 2.34
+  },
+  {
+    "Id": "fd3a417f-501b-4744-bfbb-94ed99ac19c4",
+    "Name": "Student_ad88e",
+    "Group": "B2",
+    "AverageGrade": 2.23
+  },
+  {
+    "Id": "5d5ce9fa-d2ac-48a8-a9fa-2fc8e85707ab",
+    "Name": "Student_494e4",
+    "Group": "C3",
+    "AverageGrade": 4.59
+  },
+  {
+    "Id": "858c1701-07f1-4be6-9f05-60be67ae5e88",
+    "Name": "Student_817fd",
+    "Group": "B2",
+    "AverageGrade": 4.4
+  },
+  {
+    "Id": "9d0c5115-e792-4156-ae29-cfd99608e84e",
+    "Name": "Student_f920a",
+    "Group": "A1",
+    "AverageGrade": 3.96
+  },
+  {
+    "Id": "734cc52b-2666-4a22-9906-1e72ea259e74",
+    "Name": "Student_4add6",
+    "Group": "D4",
+    "AverageGrade": 3.33
+  },
+  {
+    "Id": "0d6804ce-6e1b-4810-a77a-5e325617d93c",
+    "Name": "Student_abb1f",
+    "Group": "D4",
+    "AverageGrade": 0.49
+  },
+  {
+    "Id": "176ea39e-84c5-4a63-b149-bff8df0da5bf",
+    "Name": "Student_5eb2e",
+    "Group": "A1",
+    "AverageGrade": 0.13
+  },
+  {
+    "Id": "70b66bf9-2768-4564-8e2b-7a8507b07f2e",
+    "Name": "Student_074f4",
+    "Group": "B2",
+    "AverageGrade": 2.77
+  },
+  {
+    "Id": "9c170695-f2ea-4214-978c-e05688217f0e",
+    "Name": "Student_20065",
+    "Group": "D4",
+    "AverageGrade": 3.88
+  },
+  {
+    "Id": "8305555a-f874-4f8f-8635-cd285548ddaf",
+    "Name": "Student_aeb65",
+    "Group": "D4",
+    "AverageGrade": 2.58
+  },
+  {
+    "Id": "c1f6a242-6c39-49cd-99f1-cce4c8b57d72",
+    "Name": "Student_5a4f3",
+    "Group": "C3",
+    "AverageGrade": 3.98
+  },
+  {
+    "Id": "477b784b-b068-49d7-be68-73a9d7fc2710",
+    "Name": "Student_74b92",
+    "Group": "C3",
+    "AverageGrade": 3.69
+  },
+  {
+    "Id": "e5be066d-c08b-4901-bb72-28e59847dcb3",
+    "Name": "Student_a28da",
+    "Group": "C3",
+    "AverageGrade": 1.95
+  },
+  {
+    "Id": "c468e028-d45f-4931-b4b1-c1d2984b328c",
+    "Name": "Student_67506",
+    "Group": "D4",
+    "AverageGrade": 0.76
+  },
+  {
+    "Id": "fb230fe9-a2dc-42ac-acf4-a519d177a2e3",
+    "Name": "Student_824b2",
+    "Group": "C3",
+    "AverageGrade": 4.71
+  },
+  {
+    "Id": "293d5ecd-9a1b-441f-ba45-328539127ce0",
+    "Name": "Student_005b1",
+    "Group": "B2",
+    "AverageGrade": 1.08
+  },
+  {
+    "Id": "7347f9c9-f8f1-449c-aee8-5ee1a0a056ba",
+    "Name": "Student_14aec",
+    "Group": "A1",
+    "AverageGrade": 2.89
+  },
+  {
+    "Id": "c0868737-f1ad-4c7b-b968-0f4aa659d2c0",
+    "Name": "Student_068e0",
+    "Group": "D4",
+    "AverageGrade": 3.8
+  },
+  {
+    "Id": "5cdc1821-9563-4cc3-ae7e-61a3035b8f51",
+    "Name": "Student_36cc2",
+    "Group": "A1",
+    "AverageGrade": 0.52
+  },
+  {
+    "Id": "01799543-3212-41e6-952d-9c61bd9a94b3",
+    "Name": "Student_8d166",
+    "Group": "B2",
+    "AverageGrade": 4.75
+  },
+  {
+    "Id": "76a067d1-d70e-41eb-9bae-3413e530fb38",
+    "Name": "Student_1dbc3",
+    "Group": "B2",
+    "AverageGrade": 1.37
+  },
+  {
+    "Id": "5f472abf-6162-4861-b88c-9e366dced65f",
+    "Name": "Student_33cf4",
+    "Group": "C3",
+    "AverageGrade": 2.54
+  },
+  {
+    "Id": "10a793ec-3d2b-4c13-8ae5-8a4df8c11b74",
+    "Name": "Student_bc86a",
+    "Group": "A1",
+    "AverageGrade": 2.03
+  },
+  {
+    "Id": "0ed167d2-078d-4f1a-88e2-c035f97f26e3",
+    "Name": "Student_4525a",
+    "Group": "A1",
+    "AverageGrade": 0.8
+  },
+  {
+    "Id": "dff1717e-5776-47ea-825c-57bac9536e0a",
+    "Name": "Student_fa3a0",
+    "Group": "C3",
+    "AverageGrade": 2.73
+  },
+  {
+    "Id": "25e0e0de-c3d3-4c1a-92ca-6f7db4315945",
+    "Name": "Student_7fb9a",
+    "Group": "D4",
+    "AverageGrade": 0.83
+  },
+  {
+    "Id": "d970e813-c2cf-45f6-b89f-634f4b0610e6",
+    "Name": "Student_bfd9c",
+    "Group": "C3",
+    "AverageGrade": 3.18
+  },
+  {
+    "Id": "f5ad4a17-999d-4ae7-978b-8ad59bf42791",
+    "Name": "Student_ee896",
+    "Group": "A1",
+    "AverageGrade": 4.02
+  },
+  {
+    "Id": "17ed1a82-2c9b-4049-b19a-12f9fe415aba",
+    "Name": "Student_b03f3",
+    "Group": "B2",
+    "AverageGrade": 3.19
+  },
+  {
+    "Id": "de93e048-20cd-42d3-8302-3cde22a38e9d",
+    "Name": "Student_3c5f7",
+    "Group": "A1",
+    "AverageGrade": 2.63
+  },
+  {
+    "Id": "0bbbd3e6-b86c-4e9d-ac6f-12efa4728478",
+    "Name": "Student_9b017",
+    "Group": "D4",
+    "AverageGrade": 0.58
+  },
+  {
+    "Id": "11603746-3091-454f-b090-13ebdd2b2d60",
+    "Name": "Student_88780",
+    "Group": "B2",
+    "AverageGrade": 1.1
+  },
+  {
+    "Id": "07d05cef-a67a-4c8e-94af-3aad3fc6e048",
+    "Name": "Student_4af03",
+    "Group": "A1",
+    "AverageGrade": 0.41
+  },
+  {
+    "Id": "0ffafbca-e648-44e3-b163-60b272c6ce10",
+    "Name": "Student_29380",
+    "Group": "B2",
+    "AverageGrade": 4.62
+  },
+  {
+    "Id": "ffe4a07d-aa5c-4c37-a35d-780b48b8fa95",
+    "Name": "Student_22b40",
+    "Group": "C3",
+    "AverageGrade": 1.86
+  },
+  {
+    "Id": "317723b0-f113-44d1-adea-832a0ea0b205",
+    "Name": "Student_dfd40",
+    "Group": "A1",
+    "AverageGrade": 0.01
+  },
+  {
+    "Id": "a0b176a7-f6b5-4064-9401-9841e2969ce0",
+    "Name": "Student_e9828",
+    "Group": "D4",
+    "AverageGrade": 1.58
+  },
+  {
+    "Id": "12647c0b-66ab-4c34-9e75-9bd371a85315",
+    "Name": "Student_6042a",
+    "Group": "D4",
+    "AverageGrade": 4.06
+  },
+  {
+    "Id": "f4438f5f-ee3f-47d0-a790-e0d49a5808b2",
+    "Name": "Student_c4628",
+    "Group": "A1",
+    "AverageGrade": 4.27
+  },
+  {
+    "Id": "0e3f0db8-0578-4d2a-bed1-ea5430fcc928",
+    "Name": "Student_c4180",
+    "Group": "A1",
+    "AverageGrade": 3.24
+  },
+  {
+    "Id": "487f6456-5a10-4ec7-b1be-df2e05386815",
+    "Name": "Student_53259",
+    "Group": "C3",
+    "AverageGrade": 1.87
+  },
+  {
+    "Id": "60220695-1568-4854-a1b9-0688f17010db",
+    "Name": "Student_3e106",
+    "Group": "C3",
+    "AverageGrade": 1.46
+  },
+  {
+    "Id": "1fdf47ce-70e4-4617-b174-11a33fd6e84e",
+    "Name": "Student_e3450",
+    "Group": "B2",
+    "AverageGrade": 2.64
+  },
+  {
+    "Id": "efc93857-0bc7-483b-b92e-a73825c14abc",
+    "Name": "Student_77893",
+    "Group": "B2",
+    "AverageGrade": 4.74
+  },
+  {
+    "Id": "4e47479c-bf7e-4407-850f-a1212954c6a3",
+    "Name": "Student_0662e",
+    "Group": "B2",
+    "AverageGrade": 2.34
+  },
+  {
+    "Id": "ea93e4ba-d2ca-4696-bda7-d642f7db8050",
+    "Name": "Student_fc37e",
+    "Group": "D4",
+    "AverageGrade": 0.47
+  },
+  {
+    "Id": "6a8ddc43-a393-4488-bb35-0a04ae91651a",
+    "Name": "Student_c1cb0",
+    "Group": "B2",
+    "AverageGrade": 4.74
+  },
+  {
+    "Id": "b221007f-4e84-4780-952d-54611c7b93a9",
+    "Name": "Student_b3117",
+    "Group": "B2",
+    "AverageGrade": 4.36
+  },
+  {
+    "Id": "321ba75d-3a17-4ea7-8969-284143a2a6b9",
+    "Name": "Student_04663",
+    "Group": "B2",
+    "AverageGrade": 3.35
+  },
+  {
+    "Id": "f353c35b-e7d0-41d7-bca5-76db18ae353d",
+    "Name": "Student_b5159",
+    "Group": "B2",
+    "AverageGrade": 0.82
+  },
+  {
+    "Id": "4426505a-7632-4e20-8d5a-6b8c639d60bf",
+    "Name": "Student_df4c0",
+    "Group": "B2",
+    "AverageGrade": 2.68
+  },
+  {
+    "Id": "ce741cad-5102-4ec3-b78b-bf23298d98a5",
+    "Name": "Student_05c62",
+    "Group": "C3",
+    "AverageGrade": 0.94
+  },
+  {
+    "Id": "fc51bd1b-900f-477e-8a10-7e5300c7278b",
+    "Name": "Student_b793d",
+    "Group": "D4",
+    "AverageGrade": 4.07
+  },
+  {
+    "Id": "44cc8b50-74ba-4754-ac2f-157b9382dbc4",
+    "Name": "Student_15fb6",
+    "Group": "A1",
+    "AverageGrade": 3.69
+  },
+  {
+    "Id": "e171c1fe-20a9-482b-8f35-8623bf312009",
+    "Name": "Student_942cf",
+    "Group": "D4",
+    "AverageGrade": 4.27
+  },
+  {
+    "Id": "71275012-c3e2-4f2c-bc58-d45b5132efd7",
+    "Name": "Student_f61e2",
+    "Group": "C3",
+    "AverageGrade": 4.18
+  },
+  {
+    "Id": "c45da6d6-3888-4db7-b478-5d0912b0af92",
+    "Name": "Student_88453",
+    "Group": "D4",
+    "AverageGrade": 4.93
+  },
+  {
+    "Id": "e66f02ab-c3c1-48d5-b6cd-29cc574c737a",
+    "Name": "Student_2a64a",
+    "Group": "C3",
+    "AverageGrade": 3.87
+  },
+  {
+    "Id": "6a9c0a82-2232-4e2d-89bf-a64b79d33bcf",
+    "Name": "Student_ffde3",
+    "Group": "A1",
+    "AverageGrade": 4.04
+  },
+  {
+    "Id": "dcfec75a-6635-4e6a-aa12-ea321afb0fba",
+    "Name": "Student_a012d",
+    "Group": "D4",
+    "AverageGrade": 4.08
+  },
+  {
+    "Id": "9653dd61-d065-405f-82a7-0763083d55dd",
+    "Name": "Student_7d9ac",
+    "Group": "C3",
+    "AverageGrade": 3.69
+  },
+  {
+    "Id": "5d269086-54d1-4f91-98ff-bcea082433c7",
+    "Name": "Student_785ae",
+    "Group": "A1",
+    "AverageGrade": 2.55
+  },
+  {
+    "Id": "fc172aa0-e879-4ce0-9cf0-671874471ad6",
+    "Name": "Student_d8d8a",
+    "Group": "A1",
+    "AverageGrade": 1.93
+  },
+  {
+    "Id": "720ffc51-2545-4d6a-9118-bab5b096f4d9",
+    "Name": "Student_eebe3",
+    "Group": "A1",
+    "AverageGrade": 4.86
+  },
+  {
+    "Id": "925880f0-33bf-419a-9449-e37fca4cdf95",
+    "Name": "Student_46eb3",
+    "Group": "C3",
+    "AverageGrade": 2.06
+  },
+  {
+    "Id": "71c56024-0937-4fb7-bbd5-ba440525a549",
+    "Name": "Student_da25f",
+    "Group": "B2",
+    "AverageGrade": 2.85
+  },
+  {
+    "Id": "9ddf1e03-bd01-4db4-962c-a055d2d2f041",
+    "Name": "Student_58a7f",
+    "Group": "B2",
+    "AverageGrade": 0.16
+  },
+  {
+    "Id": "2571bd75-a403-4439-aba4-47716716b4a4",
+    "Name": "Student_4aaf4",
+    "Group": "C3",
+    "AverageGrade": 2.63
+  },
+  {
+    "Id": "8222b2a5-b9c8-48b9-9009-a156d23cec4f",
+    "Name": "Student_f5efc",
+    "Group": "D4",
+    "AverageGrade": 3.7
+  },
+  {
+    "Id": "46e7197b-b9bc-4cab-9dcf-6c55bcd52dda",
+    "Name": "Student_8e5ed",
+    "Group": "D4",
+    "AverageGrade": 3.19
+  },
+  {
+    "Id": "de63974e-bac9-4110-a64a-368180fb135e",
+    "Name": "Student_a00c7",
+    "Group": "B2",
+    "AverageGrade": 3.27
+  },
+  {
+    "Id": "beb01064-7370-41b7-9b04-d8f35da072f1",
+    "Name": "Student_a6a7c",
+    "Group": "A1",
+    "AverageGrade": 1.76
+  },
+  {
+    "Id": "951b3778-b4c9-4350-be12-3c389ec5376b",
+    "Name": "Student_95b57",
+    "Group": "B2",
+    "AverageGrade": 0.51
+  },
+  {
+    "Id": "dfc696d6-2ef4-4464-850c-769094f38ff1",
+    "Name": "Student_279d0",
+    "Group": "B2",
+    "AverageGrade": 1.8
+  },
+  {
+    "Id": "40eb5841-4dc8-40cd-b39e-f428fe2bf96d",
+    "Name": "Student_3f538",
+    "Group": "B2",
+    "AverageGrade": 3.05
+  },
+  {
+    "Id": "764d61fa-c98b-4c67-a4cf-f421abc43961",
+    "Name": "Student_6ade0",
+    "Group": "D4",
+    "AverageGrade": 3.69
+  },
+  {
+    "Id": "d111243e-0698-4cd3-bddf-b2a7ce663a85",
+    "Name": "Student_56737",
+    "Group": "B2",
+    "AverageGrade": 0.6
+  },
+  {
+    "Id": "a71c7ebc-5bd2-4536-99c7-72546e8caf6c",
+    "Name": "Student_6a5dc",
+    "Group": "A1",
+    "AverageGrade": 1.1
+  },
+  {
+    "Id": "e760ca7b-371f-43e2-829a-63b459c75786",
+    "Name": "Student_8f9a3",
+    "Group": "D4",
+    "AverageGrade": 4.27
+  },
+  {
+    "Id": "f637639a-01d7-4d4d-a187-74bd4f741190",
+    "Name": "Student_5308d",
+    "Group": "C3",
+    "AverageGrade": 3.02
+  },
+  {
+    "Id": "56b1a98c-543b-4afa-847a-c2cc4332244e",
+    "Name": "Student_ff3bd",
+    "Group": "B2",
+    "AverageGrade": 1.3
+  },
+  {
+    "Id": "52654ada-b9a3-4aa7-a99c-a18628e7f053",
+    "Name": "Student_733ce",
+    "Group": "C3",
+    "AverageGrade": 2.24
+  },
+  {
+    "Id": "f0025196-4cb7-481a-bc55-1fde775997fe",
+    "Name": "Student_c6dac",
+    "Group": "D4",
+    "AverageGrade": 0.52
+  },
+  {
+    "Id": "a94c2665-b75d-471f-8316-6a84a1ac494d",
+    "Name": "Student_3eb39",
+    "Group": "A1",
+    "AverageGrade": 4.19
+  },
+  {
+    "Id": "258cf58d-4887-4400-bd80-0134cf518b20",
+    "Name": "Student_39a24",
+    "Group": "C3",
+    "AverageGrade": 2.82
+  },
+  {
+    "Id": "47b9f621-0e9f-414d-b545-d657583e88f2",
+    "Name": "Student_91e1c",
+    "Group": "C3",
+    "AverageGrade": 3.13
+  },
+  {
+    "Id": "de34f8d5-01e0-4495-9601-cc6d4d2b5f03",
+    "Name": "Student_b9a98",
+    "Group": "A1",
+    "AverageGrade": 1.34
+  },
+  {
+    "Id": "9f0b4bbd-db92-497f-9b1a-abe9f28851aa",
+    "Name": "Student_ee3f4",
+    "Group": "B2",
+    "AverageGrade": 3.66
+  },
+  {
+    "Id": "433376da-835d-4507-86cb-99ae9a786a05",
+    "Name": "Student_d49c4",
+    "Group": "C3",
+    "AverageGrade": 4
+  },
+  {
+    "Id": "0b5530ce-14c0-44ca-b937-50107771e3a5",
+    "Name": "Student_db6fa",
+    "Group": "D4",
+    "AverageGrade": 1.3
+  },
+  {
+    "Id": "a06cbe08-9009-460c-83a8-20c19fd69528",
+    "Name": "Student_8a930",
+    "Group": "B2",
+    "AverageGrade": 3.25
+  },
+  {
+    "Id": "bebffb24-8ed6-4d4f-be41-6c6e8221cc6e",
+    "Name": "Student_40b38",
+    "Group": "D4",
+    "AverageGrade": 3.66
+  },
+  {
+    "Id": "7f56d252-0395-41d2-9376-cbd6e7f551b0",
+    "Name": "Student_dc5c0",
+    "Group": "B2",
+    "AverageGrade": 0.81
+  },
+  {
+    "Id": "c29d6758-c386-480d-819a-15f2f4725eed",
+    "Name": "Student_e26a3",
+    "Group": "B2",
+    "AverageGrade": 0.98
+  },
+  {
+    "Id": "7d5d5de0-cfc0-42b1-81a5-6bbfac471a52",
+    "Name": "Student_f4713",
+    "Group": "B2",
+    "AverageGrade": 2.83
+  },
+  {
+    "Id": "06e73073-aed1-4844-8588-56aa8eba9e35",
+    "Name": "Student_19a9a",
+    "Group": "D4",
+    "AverageGrade": 4.59
+  },
+  {
+    "Id": "092b036e-fe64-410a-81e1-448ed97f1581",
+    "Name": "Student_d5cab",
+    "Group": "B2",
+    "AverageGrade": 3.43
+  },
+  {
+    "Id": "3acc8da9-2d0e-493b-934a-2c34634d28db",
+    "Name": "Student_f6c17",
+    "Group": "C3",
+    "AverageGrade": 3.78
+  },
+  {
+    "Id": "82c9930e-b7dc-46e1-a40d-a578825d7920",
+    "Name": "Student_dd678",
+    "Group": "C3",
+    "AverageGrade": 4.23
+  },
+  {
+    "Id": "380b7f3f-5712-4515-8c2c-544baf8d1b84",
+    "Name": "Student_f7293",
+    "Group": "B2",
+    "AverageGrade": 1.32
+  },
+  {
+    "Id": "abcd2332-0989-41da-b8ae-c21c8419ac2f",
+    "Name": "Student_3a52e",
+    "Group": "A1",
+    "AverageGrade": 4.6
+  },
+  {
+    "Id": "a0d56a63-97b0-4f24-b17b-17e05689d5d6",
+    "Name": "Student_0123d",
+    "Group": "B2",
+    "AverageGrade": 0.55
+  },
+  {
+    "Id": "133b6e08-9b2a-4247-ae8e-50cedabfbc6a",
+    "Name": "Student_919e7",
+    "Group": "A1",
+    "AverageGrade": 0.05
+  },
+  {
+    "Id": "dc6520ca-e42c-4e92-85b6-c0b0ba5f1a93",
+    "Name": "Student_2c8a8",
+    "Group": "B2",
+    "AverageGrade": 1.71
+  },
+  {
+    "Id": "2e9c9bea-dfe9-4abe-a799-4641d3097f4e",
+    "Name": "Student_39b29",
+    "Group": "A1",
+    "AverageGrade": 0.69
+  },
+  {
+    "Id": "cea5671a-48b6-4f3e-b425-cb0b21ed4ae1",
+    "Name": "Student_1bb05",
+    "Group": "D4",
+    "AverageGrade": 1.07
+  },
+  {
+    "Id": "47a619b3-be54-4362-8853-f8704ab8b147",
+    "Name": "Student_aa867",
+    "Group": "B2",
+    "AverageGrade": 0.58
+  },
+  {
+    "Id": "37521679-08ba-4806-ada0-dad164c6e5a6",
+    "Name": "Student_4a97a",
+    "Group": "C3",
+    "AverageGrade": 1.54
+  },
+  {
+    "Id": "4585938f-681c-4bea-8ea5-73a272a7536f",
+    "Name": "Student_4d3ff",
+    "Group": "D4",
+    "AverageGrade": 1.94
+  },
+  {
+    "Id": "1cb2d24d-cd3d-4e79-b96c-d9ee6f5f9b2c",
+    "Name": "Student_a1a20",
+    "Group": "C3",
+    "AverageGrade": 2.91
+  },
+  {
+    "Id": "0ecf75d0-1507-46b6-8f7b-a5c3085bc1fd",
+    "Name": "Student_01420",
+    "Group": "C3",
+    "AverageGrade": 0.17
+  },
+  {
+    "Id": "0f4d3395-4f46-4628-9cbe-49acc4e6f14a",
+    "Name": "Student_36dea",
+    "Group": "D4",
+    "AverageGrade": 4.2
+  },
+  {
+    "Id": "eebf94b8-eff5-4c99-afe0-3ef535ee1b7f",
+    "Name": "Student_be795",
+    "Group": "D4",
+    "AverageGrade": 3.08
+  },
+  {
+    "Id": "a80dc69c-1660-4b24-acfb-a7294cae21d5",
+    "Name": "Student_40b4c",
+    "Group": "B2",
+    "AverageGrade": 0.73
+  },
+  {
+    "Id": "972fc2ad-140c-4177-ab3f-6172edf1bdda",
+    "Name": "Student_c399a",
+    "Group": "A1",
+    "AverageGrade": 1.38
+  },
+  {
+    "Id": "f73eea6f-061f-4454-b114-d91e1f5cc86a",
+    "Name": "Student_da1f4",
+    "Group": "A1",
+    "AverageGrade": 3.27
+  },
+  {
+    "Id": "bae190a9-5218-4b37-98b9-92283c4ca1f1",
+    "Name": "Student_210e4",
+    "Group": "D4",
+    "AverageGrade": 1.28
+  },
+  {
+    "Id": "9c9ef4ab-6cc3-47ba-b407-f81b3dfcf4cd",
+    "Name": "Student_46392",
+    "Group": "D4",
+    "AverageGrade": 3.6
+  },
+  {
+    "Id": "a22b6a82-1912-4f93-90ce-51ca939368fd",
+    "Name": "Student_5ba0e",
+    "Group": "A1",
+    "AverageGrade": 1.61
+  },
+  {
+    "Id": "170ba03d-22e3-49f9-8d2f-f7f288d118c8",
+    "Name": "Student_47912",
+    "Group": "D4",
+    "AverageGrade": 3.35
+  },
+  {
+    "Id": "bf1960d3-f0a2-4668-95f9-d03ec6e16009",
+    "Name": "Student_befa5",
+    "Group": "C3",
+    "AverageGrade": 4.91
+  },
+  {
+    "Id": "bb15461c-4f9a-4bd7-8a23-cddce49239d3",
+    "Name": "Student_6315f",
+    "Group": "D4",
+    "AverageGrade": 0.95
+  },
+  {
+    "Id": "4e0a3adb-9c7a-4626-a4d2-2b6f4eab770b",
+    "Name": "Student_79543",
+    "Group": "D4",
+    "AverageGrade": 3.28
+  },
+  {
+    "Id": "127f0205-9250-4d1f-9f50-48f51fa626c2",
+    "Name": "Student_732db",
+    "Group": "A1",
+    "AverageGrade": 4.48
+  },
+  {
+    "Id": "9426f67f-09e9-4a8b-a14a-6c0d54899f62",
+    "Name": "Student_4ff96",
+    "Group": "D4",
+    "AverageGrade": 0.36
+  },
+  {
+    "Id": "a4689bf7-26d0-414a-a6aa-af645df32d32",
+    "Name": "Student_b6e19",
+    "Group": "A1",
+    "AverageGrade": 1.69
+  },
+  {
+    "Id": "5e55a2f5-5d35-4e14-8931-8ad4aecd0cc7",
+    "Name": "Student_f7442",
+    "Group": "C3",
+    "AverageGrade": 4.75
+  },
+  {
+    "Id": "28dfdc5f-17ba-47b8-b680-67eca935d183",
+    "Name": "Student_1be14",
+    "Group": "D4",
+    "AverageGrade": 4.15
+  },
+  {
+    "Id": "c51acee9-0c45-4c39-9e6e-479f4b02d278",
+    "Name": "Student_90835",
+    "Group": "D4",
+    "AverageGrade": 0.96
+  },
+  {
+    "Id": "a6b9a730-0fb2-4145-8836-c4ed74c3b6bb",
+    "Name": "Student_a9e0a",
+    "Group": "C3",
+    "AverageGrade": 4.6
+  },
+  {
+    "Id": "edc88030-b02b-4480-92b9-61822b69e694",
+    "Name": "Student_a0e3d",
+    "Group": "D4",
+    "AverageGrade": 3.32
+  },
+  {
+    "Id": "852030a7-eca2-4de8-969c-b7878354d47c",
+    "Name": "Student_29134",
+    "Group": "D4",
+    "AverageGrade": 1.2
+  },
+  {
+    "Id": "aa80c57e-fa67-466c-81d9-cdcad8632f72",
+    "Name": "Student_8bd42",
+    "Group": "C3",
+    "AverageGrade": 2.06
+  },
+  {
+    "Id": "7645b68a-30ac-49d5-b723-afc7de2d2112",
+    "Name": "Student_d2d91",
+    "Group": "D4",
+    "AverageGrade": 0.34
+  },
+  {
+    "Id": "aa1dc4c8-3ade-4c88-abb6-c922b7db45ee",
+    "Name": "Student_2a10c",
+    "Group": "C3",
+    "AverageGrade": 3.75
+  },
+  {
+    "Id": "cf4bf6ed-3cc8-444f-9590-30e86f57ce62",
+    "Name": "Student_b645b",
+    "Group": "A1",
+    "AverageGrade": 2.53
+  },
+  {
+    "Id": "e47e1723-173a-4976-91da-0788179468c9",
+    "Name": "Student_d2b61",
+    "Group": "C3",
+    "AverageGrade": 2
+  },
+  {
+    "Id": "e4f152ca-07bf-4e0a-ab1c-d863b3eb6904",
+    "Name": "Student_16c52",
+    "Group": "C3",
+    "AverageGrade": 1.11
+  },
+  {
+    "Id": "c4ea8688-b468-4497-8eb8-be25be1cdf5a",
+    "Name": "Student_f1d39",
+    "Group": "A1",
+    "AverageGrade": 0.91
+  },
+  {
+    "Id": "3109c26a-b130-4e90-afd7-593988bb0574",
+    "Name": "Student_9b545",
+    "Group": "B2",
+    "AverageGrade": 3.23
+  },
+  {
+    "Id": "982ad671-a105-49c5-9d7e-4b342f1b3596",
+    "Name": "Student_523b7",
+    "Group": "C3",
+    "AverageGrade": 0.81
+  },
+  {
+    "Id": "652d9ffd-70bf-43f0-8c28-f5e5b15f610a",
+    "Name": "Student_6510a",
+    "Group": "A1",
+    "AverageGrade": 4.79
+  },
+  {
+    "Id": "769faedb-8584-4cd1-b18b-1eb8ce5b118b",
+    "Name": "Student_66b5b",
+    "Group": "C3",
+    "AverageGrade": 4.88
+  },
+  {
+    "Id": "40cea5dc-0647-40a1-b5ad-752496a750ea",
+    "Name": "Student_d047a",
+    "Group": "C3",
+    "AverageGrade": 0.79
+  },
+  {
+    "Id": "658cba2f-e8a7-4076-90f4-9a44d4ad6551",
+    "Name": "Student_68163",
+    "Group": "A1",
+    "AverageGrade": 4.51
+  },
+  {
+    "Id": "aca487ad-bcc8-4fed-9422-1dc402a9eb8e",
+    "Name": "Student_1eada",
+    "Group": "D4",
+    "AverageGrade": 0.18
+  },
+  {
+    "Id": "83e54892-cf7d-40bf-b65d-2a55a883c880",
+    "Name": "Student_10bf4",
+    "Group": "C3",
+    "AverageGrade": 3.62
+  },
+  {
+    "Id": "7e4b9a1e-f3b6-4d26-b8bf-e8895c31bee4",
+    "Name": "Student_c3280",
+    "Group": "D4",
+    "AverageGrade": 0.37
+  },
+  {
+    "Id": "0b0171fa-d344-443d-a87e-67d4db7e1d73",
+    "Name": "Student_a63d0",
+    "Group": "D4",
+    "AverageGrade": 0.78
+  },
+  {
+    "Id": "49f66459-49e2-4471-b7db-179bbb60c120",
+    "Name": "Student_3f971",
+    "Group": "D4",
+    "AverageGrade": 3.74
+  },
+  {
+    "Id": "fbcb454d-7fde-4806-8bcc-6bc3f74b5619",
+    "Name": "Student_a4ebc",
+    "Group": "A1",
+    "AverageGrade": 1.94
+  },
+  {
+    "Id": "220f47d1-da4b-497e-9c5d-a6209570f23e",
+    "Name": "Student_303fb",
+    "Group": "D4",
+    "AverageGrade": 0.46
+  },
+  {
+    "Id": "9fb04614-1e24-47d6-b670-292764b8727e",
+    "Name": "Student_76170",
+    "Group": "D4",
+    "AverageGrade": 2.31
+  },
+  {
+    "Id": "a8b45dac-ec06-465c-b3e9-ecb4802f738f",
+    "Name": "Student_2388d",
+    "Group": "C3",
+    "AverageGrade": 3.91
+  },
+  {
+    "Id": "ff3df530-9f60-4a4e-b326-7104d67ba4a6",
+    "Name": "Student_ceb9b",
+    "Group": "B2",
+    "AverageGrade": 4.65
+  },
+  {
+    "Id": "7b16a946-8be4-4fb9-87df-c3e58d724d6f",
+    "Name": "Student_4bd47",
+    "Group": "A1",
+    "AverageGrade": 4.84
+  },
+  {
+    "Id": "04b23c93-9e32-4204-a8a4-e3b41202902e",
+    "Name": "Student_da5fb",
+    "Group": "C3",
+    "AverageGrade": 3.82
+  },
+  {
+    "Id": "b976b2d4-8c00-4684-94a3-a53f716da3f4",
+    "Name": "Student_450ca",
+    "Group": "B2",
+    "AverageGrade": 3.21
+  },
+  {
+    "Id": "d8c67593-b7d6-43df-97b5-13bb24ba73a1",
+    "Name": "Student_90fb7",
+    "Group": "D4",
+    "AverageGrade": 1.31
+  },
+  {
+    "Id": "bab68b81-57fb-4e03-bdc4-245f0cd9fa1e",
+    "Name": "Student_f8898",
+    "Group": "B2",
+    "AverageGrade": 4.29
+  },
+  {
+    "Id": "7ebb66f5-32cd-44ba-8b9f-e91ccd2d7842",
+    "Name": "Student_5081f",
+    "Group": "B2",
+    "AverageGrade": 0.33
+  },
+  {
+    "Id": "87bdf063-f8a4-4d51-a584-5f9a106669f6",
+    "Name": "Student_91143",
+    "Group": "C3",
+    "AverageGrade": 2.01
+  },
+  {
+    "Id": "9d7f3e01-840c-4688-83aa-1403a844bfa0",
+    "Name": "Student_0d0b7",
+    "Group": "C3",
+    "AverageGrade": 1.19
+  },
+  {
+    "Id": "a8f5d1da-549f-4789-a84b-f59a182992fd",
+    "Name": "Student_18586",
+    "Group": "D4",
+    "AverageGrade": 0.03
+  },
+  {
+    "Id": "60cda94f-7e33-432a-bfe8-3673cf6a10f8",
+    "Name": "Student_c5eac",
+    "Group": "A1",
+    "AverageGrade": 1.57
+  },
+  {
+    "Id": "53a74cb9-aad7-499b-bbbe-c462bab72a25",
+    "Name": "Student_b6a41",
+    "Group": "B2",
+    "AverageGrade": 0.95
+  },
+  {
+    "Id": "8f29d9fe-4c41-4b1f-933d-6e9ee6bc4207",
+    "Name": "Student_19bec",
+    "Group": "B2",
+    "AverageGrade": 1.14
+  },
+  {
+    "Id": "09f7fe36-cc3b-4f2b-bf70-8cdec5538761",
+    "Name": "Student_87fa7",
+    "Group": "B2",
+    "AverageGrade": 1.59
+  },
+  {
+    "Id": "9a547bb2-b40b-4ea0-b8db-1a012b3b0f68",
+    "Name": "Student_f05cb",
+    "Group": "C3",
+    "AverageGrade": 0.04
+  },
+  {
+    "Id": "e181a58e-d990-4448-9dd1-c0f6770ed727",
+    "Name": "Student_accb1",
+    "Group": "A1",
+    "AverageGrade": 3.72
+  },
+  {
+    "Id": "71f27df3-98b6-4932-ac29-22f472918abd",
+    "Name": "Student_ad484",
+    "Group": "B2",
+    "AverageGrade": 2.86
+  },
+  {
+    "Id": "4c204af5-e28a-4098-bb1f-22cd55b0f87e",
+    "Name": "Student_a040b",
+    "Group": "D4",
+    "AverageGrade": 0.2
+  },
+  {
+    "Id": "9187e789-a2ae-4897-b07d-04504680610a",
+    "Name": "Student_85d92",
+    "Group": "A1",
+    "AverageGrade": 3.22
+  },
+  {
+    "Id": "865c6204-0553-42b9-b328-509026a96013",
+    "Name": "Student_c6ef0",
+    "Group": "D4",
+    "AverageGrade": 2.81
+  },
+  {
+    "Id": "85a6d3c3-f251-4a5f-a684-84325827517e",
+    "Name": "Student_5664f",
+    "Group": "C3",
+    "AverageGrade": 0.12
+  },
+  {
+    "Id": "f7d911fc-39a8-4a88-bac2-e9663e5d0da7",
+    "Name": "Student_cd441",
+    "Group": "D4",
+    "AverageGrade": 3.64
+  },
+  {
+    "Id": "6bf911c9-ccd5-45f4-ace4-dc2d622c08e8",
+    "Name": "Student_6b5cc",
+    "Group": "D4",
+    "AverageGrade": 1.39
+  },
+  {
+    "Id": "79bd4211-5ddf-42a4-a311-e57d62adb02b",
+    "Name": "Student_7ba3c",
+    "Group": "A1",
+    "AverageGrade": 3.02
+  },
+  {
+    "Id": "e1d6d569-74ac-41e7-af21-7bdc29ba3fa7",
+    "Name": "Student_8add9",
+    "Group": "C3",
+    "AverageGrade": 0.63
+  },
+  {
+    "Id": "821e0d45-9c91-4043-b95f-64f9c5443f55",
+    "Name": "Student_76279",
+    "Group": "B2",
+    "AverageGrade": 2.81
+  },
+  {
+    "Id": "fe6e541a-cc65-44d1-8255-0da81f2bd11b",
+    "Name": "Student_a047f",
+    "Group": "B2",
+    "AverageGrade": 3.73
+  },
+  {
+    "Id": "e06fc023-e608-4f9e-83f4-be559ad142c8",
+    "Name": "Student_6b477",
+    "Group": "B2",
+    "AverageGrade": 0.72
+  },
+  {
+    "Id": "6b99a543-c2b5-4a9f-a893-33e1a010c6b4",
+    "Name": "Student_7969a",
+    "Group": "D4",
+    "AverageGrade": 2.25
+  },
+  {
+    "Id": "9aa9dd13-0a5c-4a7b-b70c-387ffe05f5f5",
+    "Name": "Student_2b0b5",
+    "Group": "D4",
+    "AverageGrade": 3.49
+  },
+  {
+    "Id": "215dd5e9-6780-4730-bdff-a4ce438c4500",
+    "Name": "Student_31167",
+    "Group": "C3",
+    "AverageGrade": 4.92
+  },
+  {
+    "Id": "cdd97b87-3c96-4530-8489-c60dedd6e4e3",
+    "Name": "Student_32791",
+    "Group": "C3",
+    "AverageGrade": 4.51
+  },
+  {
+    "Id": "acbb602d-9294-43a3-b1f8-c5c1caee5942",
+    "Name": "Student_40149",
+    "Group": "C3",
+    "AverageGrade": 3.97
+  },
+  {
+    "Id": "38dd0d10-f622-455a-bdb0-3970e5ff8dcb",
+    "Name": "Student_f9e3a",
+    "Group": "A1",
+    "AverageGrade": 1.49
+  },
+  {
+    "Id": "31d46801-d012-4ac0-a767-7b21649c3b23",
+    "Name": "Student_5a0bb",
+    "Group": "C3",
+    "AverageGrade": 3.5
+  },
+  {
+    "Id": "61c1f8d2-e9f2-4e6f-bf64-6ab8feffe655",
+    "Name": "Student_d7513",
+    "Group": "A1",
+    "AverageGrade": 4.52
+  },
+  {
+    "Id": "52a0d29a-54ef-4667-af99-92fa8183b9de",
+    "Name": "Student_252e4",
+    "Group": "A1",
+    "AverageGrade": 0.54
+  },
+  {
+    "Id": "cd14998e-48c5-47d7-9da2-673707c3e093",
+    "Name": "Student_c23be",
+    "Group": "A1",
+    "AverageGrade": 3.45
+  },
+  {
+    "Id": "40e622bc-22e3-4cbf-8c85-58f7e4748c96",
+    "Name": "Student_eb994",
+    "Group": "A1",
+    "AverageGrade": 2.75
+  },
+  {
+    "Id": "7e65c9f8-4a4e-4211-b91a-a28ab2e16035",
+    "Name": "Student_7f668",
+    "Group": "D4",
+    "AverageGrade": 3.07
+  },
+  {
+    "Id": "f836f4b2-4e6e-4dd1-983d-5b73be639e0e",
+    "Name": "Student_52c3f",
+    "Group": "B2",
+    "AverageGrade": 3.1
+  },
+  {
+    "Id": "ba34a8fb-eb19-4af9-9469-90c055729a5b",
+    "Name": "Student_ca36c",
+    "Group": "A1",
+    "AverageGrade": 4
+  },
+  {
+    "Id": "b200b5cd-bae9-45c5-baaf-787009c9de69",
+    "Name": "Student_30b02",
+    "Group": "C3",
+    "AverageGrade": 2.89
+  },
+  {
+    "Id": "ebb5c504-3f6f-479e-9991-b02e51691486",
+    "Name": "Student_be99b",
+    "Group": "A1",
+    "AverageGrade": 3.93
+  },
+  {
+    "Id": "b868dc41-f248-4506-b752-de3374bed31b",
+    "Name": "Student_98e6d",
+    "Group": "D4",
+    "AverageGrade": 3.2
+  },
+  {
+    "Id": "68aec512-c297-4ed6-85a2-98ddf68014a7",
+    "Name": "Student_df747",
+    "Group": "A1",
+    "AverageGrade": 1.59
+  },
+  {
+    "Id": "4f7cdd12-054e-4d4a-8c75-34fb7abeabcb",
+    "Name": "Student_32294",
+    "Group": "D4",
+    "AverageGrade": 4.85
+  },
+  {
+    "Id": "1d9cda1d-32d5-49a2-916c-6d6ebc1f4dcb",
+    "Name": "Student_bf5d4",
+    "Group": "D4",
+    "AverageGrade": 0.14
+  },
+  {
+    "Id": "c788a4e6-2d74-4b22-a92e-6ebf7dcc61cf",
+    "Name": "Student_6a8d7",
+    "Group": "B2",
+    "AverageGrade": 1.2
+  },
+  {
+    "Id": "06bdd4ca-fc67-4303-bc4d-98ecc3cb8e01",
+    "Name": "Student_9ee8a",
+    "Group": "B2",
+    "AverageGrade": 1.91
+  },
+  {
+    "Id": "f788bf49-a418-4213-8819-bcba72ad0e49",
+    "Name": "Student_d345e",
+    "Group": "A1",
+    "AverageGrade": 4.91
+  },
+  {
+    "Id": "b65d7e2f-8d65-4079-b852-19bb8c09a7fe",
+    "Name": "Student_9ab10",
+    "Group": "D4",
+    "AverageGrade": 3.67
+  },
+  {
+    "Id": "b1564c17-253f-47b6-9b7c-cfdd4f6416df",
+    "Name": "Student_8d7e9",
+    "Group": "B2",
+    "AverageGrade": 3.21
+  },
+  {
+    "Id": "825de52e-2950-4726-a0ed-99d7c01050a7",
+    "Name": "Student_cbda7",
+    "Group": "B2",
+    "AverageGrade": 2.23
+  },
+  {
+    "Id": "a615e94d-a221-4a3c-8625-af3c1ad7bd4e",
+    "Name": "Student_9ba5e",
+    "Group": "B2",
+    "AverageGrade": 1.04
+  },
+  {
+    "Id": "90de0e2b-f63e-4ca2-9577-1f4046227551",
+    "Name": "Student_94570",
+    "Group": "A1",
+    "AverageGrade": 4.92
+  },
+  {
+    "Id": "6d35aa3a-519d-466e-b514-78abc763945c",
+    "Name": "Student_cc973",
+    "Group": "C3",
+    "AverageGrade": 1.56
+  },
+  {
+    "Id": "29512b0b-eed8-4da1-b116-609496835617",
+    "Name": "Student_a8eab",
+    "Group": "A1",
+    "AverageGrade": 3.99
+  },
+  {
+    "Id": "85b53cc0-e727-4213-b2a5-72fb7ed31c75",
+    "Name": "Student_f006b",
+    "Group": "B2",
+    "AverageGrade": 3.11
+  },
+  {
+    "Id": "25c3479d-c489-496e-bbe2-f276ac05b0ec",
+    "Name": "Student_e284e",
+    "Group": "C3",
+    "AverageGrade": 0.81
+  },
+  {
+    "Id": "6f5b5522-f7d3-4a43-9748-b8ba4e3455ff",
+    "Name": "Student_42a62",
+    "Group": "A1",
+    "AverageGrade": 1.61
+  },
+  {
+    "Id": "b1f12068-058c-418d-9949-db4c1c004585",
+    "Name": "Student_ee76b",
+    "Group": "B2",
+    "AverageGrade": 4.15
+  },
+  {
+    "Id": "2115546b-b7a8-4a31-afec-1b9f55b21f6e",
+    "Name": "Student_0a249",
+    "Group": "C3",
+    "AverageGrade": 3.39
+  },
+  {
+    "Id": "c03da52f-26cb-4ef0-ad5e-26145222ccd9",
+    "Name": "Student_ec0e1",
+    "Group": "A1",
+    "AverageGrade": 2.72
+  },
+  {
+    "Id": "779fce09-2752-46a6-acbb-fac7a2805f5e",
+    "Name": "Student_1ee2b",
+    "Group": "C3",
+    "AverageGrade": 3.85
+  },
+  {
+    "Id": "8958c648-e6ff-494f-8c4b-d9c104f4b7c2",
+    "Name": "Student_78d38",
+    "Group": "D4",
+    "AverageGrade": 1.53
+  },
+  {
+    "Id": "30b4aeef-60e4-45b8-ad63-666d5ee1a33e",
+    "Name": "Student_6f498",
+    "Group": "D4",
+    "AverageGrade": 1.5
+  },
+  {
+    "Id": "0952f7f4-d5a0-4548-9966-8b4d05f50651",
+    "Name": "Student_0289c",
+    "Group": "B2",
+    "AverageGrade": 4.71
+  },
+  {
+    "Id": "667b76ce-f9c6-4146-8e28-6f5cd5279992",
+    "Name": "Student_a922d",
+    "Group": "B2",
+    "AverageGrade": 2.95
+  },
+  {
+    "Id": "fe937369-94c5-411b-a94c-b4489f736eba",
+    "Name": "Student_b9961",
+    "Group": "D4",
+    "AverageGrade": 0.99
+  },
+  {
+    "Id": "dcb5d3b2-dc89-45aa-a103-368ac7e7f70e",
+    "Name": "Student_2ccf7",
+    "Group": "B2",
+    "AverageGrade": 2.21
+  },
+  {
+    "Id": "8927c631-4783-4e93-b0b7-ec056ad077db",
+    "Name": "Student_00d2e",
+    "Group": "C3",
+    "AverageGrade": 4.51
+  },
+  {
+    "Id": "793aa872-49da-4ed2-a90f-26aea1642893",
+    "Name": "Student_8e04e",
+    "Group": "A1",
+    "AverageGrade": 0.36
+  },
+  {
+    "Id": "73a0cbcc-4bc2-4e09-a726-fcc9a0d5653f",
+    "Name": "Student_1a869",
+    "Group": "B2",
+    "AverageGrade": 4.73
+  },
+  {
+    "Id": "8e3182a5-f086-4418-b705-ac778a768d1f",
+    "Name": "Student_e029f",
+    "Group": "A1",
+    "AverageGrade": 0.34
+  },
+  {
+    "Id": "573d6c69-9b52-4955-b9ff-29b758ed118b",
+    "Name": "Student_406f5",
+    "Group": "C3",
+    "AverageGrade": 0.34
+  },
+  {
+    "Id": "96dea6a4-6e42-4ab7-a293-c48ac8790752",
+    "Name": "Student_4fa9a",
+    "Group": "C3",
+    "AverageGrade": 1.94
+  },
+  {
+    "Id": "97a44754-708e-42fa-b826-90da51f8bb77",
+    "Name": "Student_aa01f",
+    "Group": "A1",
+    "AverageGrade": 4.55
+  },
+  {
+    "Id": "3721ff9d-af96-4f45-ac06-aa1a7fac4bc0",
+    "Name": "Student_1f20d",
+    "Group": "D4",
+    "AverageGrade": 2.44
+  },
+  {
+    "Id": "c699b92d-5c9f-4712-9672-fc6816107291",
+    "Name": "Student_81d2f",
+    "Group": "A1",
+    "AverageGrade": 4.61
+  },
+  {
+    "Id": "3908927c-1993-4ab9-b011-0722e07b1c15",
+    "Name": "Student_19439",
+    "Group": "C3",
+    "AverageGrade": 2.31
+  },
+  {
+    "Id": "e67bc197-9b10-4ab1-bc7a-6a8ccf6ad680",
+    "Name": "Student_b4d43",
+    "Group": "B2",
+    "AverageGrade": 3
+  },
+  {
+    "Id": "99a16ad4-46a2-41ac-a9b5-88fe646ed87e",
+    "Name": "Student_e3ff8",
+    "Group": "C3",
+    "AverageGrade": 0.62
+  },
+  {
+    "Id": "98dd67da-7b51-440a-bb1d-7e491f77e0a0",
+    "Name": "Student_48805",
+    "Group": "B2",
+    "AverageGrade": 0.72
+  },
+  {
+    "Id": "201cf06e-c2cd-48ae-b26e-c70ec17850cc",
+    "Name": "Student_2672b",
+    "Group": "C3",
+    "AverageGrade": 1.64
+  },
+  {
+    "Id": "b34d31ab-f703-4e47-8dda-5046f0a0c451",
+    "Name": "Student_94074",
+    "Group": "D4",
+    "AverageGrade": 2.52
+  },
+  {
+    "Id": "3646921f-d345-4206-a58f-a65b8a440c1e",
+    "Name": "Student_9f3a3",
+    "Group": "A1",
+    "AverageGrade": 1.11
+  },
+  {
+    "Id": "4999b106-f0d8-4023-9505-45cc85464009",
+    "Name": "Student_de122",
+    "Group": "A1",
+    "AverageGrade": 3.97
+  },
+  {
+    "Id": "42aa94e6-b614-4808-96e2-bca526ff8bb3",
+    "Name": "Student_0f800",
+    "Group": "A1",
+    "AverageGrade": 2.35
+  },
+  {
+    "Id": "72d9f5c1-45c1-4cbb-956e-598c9da2b49f",
+    "Name": "Student_63f26",
+    "Group": "A1",
+    "AverageGrade": 3.98
+  },
+  {
+    "Id": "b94031b1-f1de-4791-b4eb-4e33749de1cd",
+    "Name": "Student_68b27",
+    "Group": "D4",
+    "AverageGrade": 0.42
+  },
+  {
+    "Id": "71654c7f-7827-4e10-83a4-5d065e0897af",
+    "Name": "Student_7bc9a",
+    "Group": "A1",
+    "AverageGrade": 0.89
+  },
+  {
+    "Id": "d28e0021-02ba-40ab-b496-c385298eaa4b",
+    "Name": "Student_54857",
+    "Group": "A1",
+    "AverageGrade": 0.9
+  },
+  {
+    "Id": "6a30bf3c-ec47-4854-bd2a-a867e8774c1b",
+    "Name": "Student_8ab01",
+    "Group": "A1",
+    "AverageGrade": 3.52
+  },
+  {
+    "Id": "59684560-060a-4527-b9de-5a2995c9572b",
+    "Name": "Student_897fc",
+    "Group": "C3",
+    "AverageGrade": 1.1
+  },
+  {
+    "Id": "6be25def-682c-4554-957e-dc2ed49bb139",
+    "Name": "Student_0c269",
+    "Group": "A1",
+    "AverageGrade": 3.19
+  },
+  {
+    "Id": "1212edd3-2b7e-444c-a2c7-7f5065b50a96",
+    "Name": "Student_541cb",
+    "Group": "D4",
+    "AverageGrade": 2.23
+  },
+  {
+    "Id": "b35ba183-f4a1-4c38-81e4-0583202a0251",
+    "Name": "Student_1cac2",
+    "Group": "D4",
+    "AverageGrade": 3.24
+  },
+  {
+    "Id": "9918db58-5fa2-4277-9332-3948d654d74c",
+    "Name": "Student_2c769",
+    "Group": "B2",
+    "AverageGrade": 3.94
+  },
+  {
+    "Id": "e968be0f-4afe-47fa-9ff8-4e4c6fe99a27",
+    "Name": "Student_273f1",
+    "Group": "A1",
+    "AverageGrade": 2.95
+  },
+  {
+    "Id": "4531fe0e-6926-45fa-8754-4f46cfe2daa9",
+    "Name": "Student_385a9",
+    "Group": "A1",
+    "AverageGrade": 2.17
+  },
+  {
+    "Id": "0faf6146-e968-4ce6-854e-3c6613ee767a",
+    "Name": "Student_74b60",
+    "Group": "C3",
+    "AverageGrade": 4.86
+  },
+  {
+    "Id": "e41afdbf-c577-4741-ae32-3afcb213bac2",
+    "Name": "Student_ce62c",
+    "Group": "D4",
+    "AverageGrade": 0.24
+  },
+  {
+    "Id": "1ab77aeb-9d6c-4b0f-ac8e-4cc7cfaf4d64",
+    "Name": "Student_dca56",
+    "Group": "C3",
+    "AverageGrade": 3.98
+  },
+  {
+    "Id": "c2eb8e9a-0211-4b60-82a5-cba479683465",
+    "Name": "Student_41979",
+    "Group": "C3",
+    "AverageGrade": 4.81
+  },
+  {
+    "Id": "5e5c9dd6-0efc-4bed-9d2a-bc5666458d96",
+    "Name": "Student_85cf2",
+    "Group": "B2",
+    "AverageGrade": 4.4
+  },
+  {
+    "Id": "d281e21d-c997-4d76-bd5d-75d9f142a969",
+    "Name": "Student_dfb0e",
+    "Group": "C3",
+    "AverageGrade": 1.07
+  },
+  {
+    "Id": "038591a6-88d3-4413-a618-e485489481a2",
+    "Name": "Student_9694b",
+    "Group": "D4",
+    "AverageGrade": 2.44
+  },
+  {
+    "Id": "ddd1c95a-f7eb-4c11-83eb-886cc3dda79e",
+    "Name": "Student_5f516",
+    "Group": "B2",
+    "AverageGrade": 4.81
+  },
+  {
+    "Id": "4de72b25-5a1b-4c25-ac5d-2b4045a6483e",
+    "Name": "Student_0f4c3",
+    "Group": "A1",
+    "AverageGrade": 1.22
+  },
+  {
+    "Id": "357f0716-b5dd-435e-ba00-e0dd35dedb6a",
+    "Name": "Student_a024a",
+    "Group": "B2",
+    "AverageGrade": 0.33
+  },
+  {
+    "Id": "a531b8f7-ed52-4b37-b76f-df8e4f2513e3",
+    "Name": "Student_c0c91",
+    "Group": "A1",
+    "AverageGrade": 3.33
+  },
+  {
+    "Id": "fd60526e-6471-49a8-b2cc-9c26a96e9315",
+    "Name": "Student_a9728",
+    "Group": "C3",
+    "AverageGrade": 4.02
+  },
+  {
+    "Id": "6dad6fde-e14e-41b9-b2e1-59275141c3df",
+    "Name": "Student_bda1f",
+    "Group": "A1",
+    "AverageGrade": 4.69
+  },
+  {
+    "Id": "68f86dff-07dd-4e96-9e36-0f49d9e4cb11",
+    "Name": "Student_ba510",
+    "Group": "C3",
+    "AverageGrade": 0.63
+  },
+  {
+    "Id": "f83b87b8-012d-47dc-9e04-855ba5d0ec84",
+    "Name": "Student_12801",
+    "Group": "D4",
+    "AverageGrade": 1.99
+  },
+  {
+    "Id": "9a70efb0-c9b8-440f-8e27-529935df7986",
+    "Name": "Student_d9de9",
+    "Group": "A1",
+    "AverageGrade": 1.4
+  },
+  {
+    "Id": "c2492814-6120-49d7-995a-6ab6c7023c26",
+    "Name": "Student_a4c64",
+    "Group": "A1",
+    "AverageGrade": 2.77
+  },
+  {
+    "Id": "26b9b10b-d530-42d9-ba84-357c178bcfeb",
+    "Name": "Student_86b02",
+    "Group": "D4",
+    "AverageGrade": 2.49
+  },
+  {
+    "Id": "a41462c3-6415-4dc8-b5a7-801a63191ce6",
+    "Name": "Student_d7bc4",
+    "Group": "C3",
+    "AverageGrade": 1.31
+  },
+  {
+    "Id": "8484bf86-2af6-4085-848a-54ba90fc9251",
+    "Name": "Student_48f2c",
+    "Group": "C3",
+    "AverageGrade": 2.53
+  },
+  {
+    "Id": "187863fc-72c4-4673-a49a-ae140a098d8b",
+    "Name": "Student_0a74e",
+    "Group": "C3",
+    "AverageGrade": 2.26
+  },
+  {
+    "Id": "99912284-58db-43bb-857a-2972707dd612",
+    "Name": "Student_a32d6",
+    "Group": "B2",
+    "AverageGrade": 0.06
+  },
+  {
+    "Id": "771f409a-aad8-4848-a5da-f7f4e9dbdbda",
+    "Name": "Student_de168",
+    "Group": "A1",
+    "AverageGrade": 3.52
+  },
+  {
+    "Id": "2bc8a71a-2968-4e53-b148-ef33c43580b4",
+    "Name": "Student_4bd32",
+    "Group": "A1",
+    "AverageGrade": 1.03
+  },
+  {
+    "Id": "e949c117-8392-49f4-8ed0-3b97a2afdf74",
+    "Name": "Student_e8eb3",
+    "Group": "D4",
+    "AverageGrade": 2.48
+  },
+  {
+    "Id": "af6f9ec2-2fe8-46c3-811f-96c82560b640",
+    "Name": "Student_b22a1",
+    "Group": "A1",
+    "AverageGrade": 1.1
+  },
+  {
+    "Id": "6f4bb0fd-1eb2-4c01-9017-2ffd1383edf2",
+    "Name": "Student_d8262",
+    "Group": "D4",
+    "AverageGrade": 1.41
+  },
+  {
+    "Id": "52926b5a-033f-4270-ac3b-86239e93b46f",
+    "Name": "Student_756ce",
+    "Group": "D4",
+    "AverageGrade": 3.06
+  },
+  {
+    "Id": "eb5bf58e-fdc7-41c1-8899-34c15e895ad9",
+    "Name": "Student_b5bb2",
+    "Group": "C3",
+    "AverageGrade": 2.23
+  },
+  {
+    "Id": "1ebfbdbe-8678-4221-b3b9-eb01de8e2d9f",
+    "Name": "Student_31d58",
+    "Group": "D4",
+    "AverageGrade": 1.37
+  },
+  {
+    "Id": "3dc657da-3385-4f23-9656-6f405b82d2e2",
+    "Name": "Student_29970",
+    "Group": "B2",
+    "AverageGrade": 3.63
+  },
+  {
+    "Id": "44d337bd-25ee-4750-a015-bf1fc953277a",
+    "Name": "Student_9893f",
+    "Group": "A1",
+    "AverageGrade": 1.77
+  },
+  {
+    "Id": "83d2b2f5-def0-4fa8-970c-e1670fa8aa14",
+    "Name": "Student_ee235",
+    "Group": "D4",
+    "AverageGrade": 4.14
+  },
+  {
+    "Id": "697b441b-2ee6-4db2-9efe-262de8f6e959",
+    "Name": "Student_9ade9",
+    "Group": "A1",
+    "AverageGrade": 3.91
+  },
+  {
+    "Id": "e470661c-2431-4adc-b9bc-44283272255a",
+    "Name": "Student_58fd7",
+    "Group": "C3",
+    "AverageGrade": 2.6
+  },
+  {
+    "Id": "6e3833bc-2cba-48b9-9556-b8c7503daf37",
+    "Name": "Student_5ed18",
+    "Group": "D4",
+    "AverageGrade": 4.28
+  },
+  {
+    "Id": "1140ef9f-173d-474c-b9aa-f6ce996ac0e4",
+    "Name": "Student_e2e68",
+    "Group": "A1",
+    "AverageGrade": 0.44
+  },
+  {
+    "Id": "863b4766-62fb-49dc-ad3d-e84680105829",
+    "Name": "Student_19f30",
+    "Group": "B2",
+    "AverageGrade": 3.92
+  },
+  {
+    "Id": "cb3148de-eef5-4478-9d12-753c425bedd0",
+    "Name": "Student_8315e",
+    "Group": "C3",
+    "AverageGrade": 3.05
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "StudentSystem.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "StudentSystem.Common": "1.0.0"
+        },
+        "runtime": {
+          "StudentSystem.ConsoleApp.dll": {}
+        }
+      },
+      "StudentSystem.Common/1.0.0": {
+        "runtime": {
+          "StudentSystem.Common.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StudentSystem.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StudentSystem.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

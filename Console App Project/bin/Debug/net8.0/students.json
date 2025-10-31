@@ -1,0 +1,7002 @@
+[
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.48,
+    "Name": "Alice D.",
+    "FullName": "Alice D.",
+    "Age": 27
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.12,
+    "Name": "Ethan V.",
+    "FullName": "Ethan V.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.71,
+    "Name": "Diana R.",
+    "FullName": "Diana R.",
+    "Age": 20
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.77,
+    "Name": "Alice O.",
+    "FullName": "Alice O.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.19,
+    "Name": "Bob S.",
+    "FullName": "Bob S.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.54,
+    "Name": "Fiona A.",
+    "FullName": "Fiona A.",
+    "Age": 28
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.83,
+    "Name": "Ethan L.",
+    "FullName": "Ethan L.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.42,
+    "Name": "Ethan G.",
+    "FullName": "Ethan G.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.9,
+    "Name": "Bob H.",
+    "FullName": "Bob H.",
+    "Age": 24
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.06,
+    "Name": "Helen Y.",
+    "FullName": "Helen Y.",
+    "Age": 29
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.35,
+    "Name": "Helen J.",
+    "FullName": "Helen J.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.71,
+    "Name": "Ethan P.",
+    "FullName": "Ethan P.",
+    "Age": 25
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.25,
+    "Name": "Helen W.",
+    "FullName": "Helen W.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.82,
+    "Name": "Diana B.",
+    "FullName": "Diana B.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.5,
+    "Name": "George S.",
+    "FullName": "George S.",
+    "Age": 25
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.14,
+    "Name": "Alice K.",
+    "FullName": "Alice K.",
+    "Age": 25
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.46,
+    "Name": "Fiona T.",
+    "FullName": "Fiona T.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.41,
+    "Name": "Helen K.",
+    "FullName": "Helen K.",
+    "Age": 28
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.03,
+    "Name": "Bob Y.",
+    "FullName": "Bob Y.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.91,
+    "Name": "Fiona H.",
+    "FullName": "Fiona H.",
+    "Age": 21
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.51,
+    "Name": "Fiona E.",
+    "FullName": "Fiona E.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.81,
+    "Name": "Helen N.",
+    "FullName": "Helen N.",
+    "Age": 25
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.21,
+    "Name": "Ethan V.",
+    "FullName": "Ethan V.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.93,
+    "Name": "Charlie N.",
+    "FullName": "Charlie N.",
+    "Age": 25
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.11,
+    "Name": "Bob W.",
+    "FullName": "Bob W.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.35,
+    "Name": "Fiona K.",
+    "FullName": "Fiona K.",
+    "Age": 27
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.16,
+    "Name": "George N.",
+    "FullName": "George N.",
+    "Age": 28
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.71,
+    "Name": "Bob T.",
+    "FullName": "Bob T.",
+    "Age": 29
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3,
+    "Name": "Bob C.",
+    "FullName": "Bob C.",
+    "Age": 20
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.52,
+    "Name": "Charlie V.",
+    "FullName": "Charlie V.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.61,
+    "Name": "Diana Z.",
+    "FullName": "Diana Z.",
+    "Age": 20
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.49,
+    "Name": "Alice J.",
+    "FullName": "Alice J.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.03,
+    "Name": "Diana O.",
+    "FullName": "Diana O.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.76,
+    "Name": "Ethan G.",
+    "FullName": "Ethan G.",
+    "Age": 19
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.29,
+    "Name": "George A.",
+    "FullName": "George A.",
+    "Age": 21
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.68,
+    "Name": "Helen G.",
+    "FullName": "Helen G.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.58,
+    "Name": "Helen H.",
+    "FullName": "Helen H.",
+    "Age": 24
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.79,
+    "Name": "Helen W.",
+    "FullName": "Helen W.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.46,
+    "Name": "Diana A.",
+    "FullName": "Diana A.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.34,
+    "Name": "George T.",
+    "FullName": "George T.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.7,
+    "Name": "Ethan N.",
+    "FullName": "Ethan N.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.87,
+    "Name": "Bob N.",
+    "FullName": "Bob N.",
+    "Age": 26
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.68,
+    "Name": "Helen H.",
+    "FullName": "Helen H.",
+    "Age": 25
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.45,
+    "Name": "Ethan I.",
+    "FullName": "Ethan I.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.2,
+    "Name": "Ethan T.",
+    "FullName": "Ethan T.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.7,
+    "Name": "Diana X.",
+    "FullName": "Diana X.",
+    "Age": 28
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.96,
+    "Name": "Fiona E.",
+    "FullName": "Fiona E.",
+    "Age": 21
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.84,
+    "Name": "Ethan R.",
+    "FullName": "Ethan R.",
+    "Age": 25
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.87,
+    "Name": "Bob E.",
+    "FullName": "Bob E.",
+    "Age": 25
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.4,
+    "Name": "Helen G.",
+    "FullName": "Helen G.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.61,
+    "Name": "Fiona E.",
+    "FullName": "Fiona E.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.31,
+    "Name": "Bob Q.",
+    "FullName": "Bob Q.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.11,
+    "Name": "George B.",
+    "FullName": "George B.",
+    "Age": 27
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.19,
+    "Name": "Alice Z.",
+    "FullName": "Alice Z.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.26,
+    "Name": "George N.",
+    "FullName": "George N.",
+    "Age": 27
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.87,
+    "Name": "George E.",
+    "FullName": "George E.",
+    "Age": 29
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.99,
+    "Name": "Fiona U.",
+    "FullName": "Fiona U.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.4,
+    "Name": "Diana H.",
+    "FullName": "Diana H.",
+    "Age": 28
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.37,
+    "Name": "Charlie A.",
+    "FullName": "Charlie A.",
+    "Age": 29
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.28,
+    "Name": "Alice H.",
+    "FullName": "Alice H.",
+    "Age": 23
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.54,
+    "Name": "Alice H.",
+    "FullName": "Alice H.",
+    "Age": 26
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.59,
+    "Name": "Charlie N.",
+    "FullName": "Charlie N.",
+    "Age": 27
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.62,
+    "Name": "Charlie P.",
+    "FullName": "Charlie P.",
+    "Age": 27
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.59,
+    "Name": "Bob T.",
+    "FullName": "Bob T.",
+    "Age": 28
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.11,
+    "Name": "Alice L.",
+    "FullName": "Alice L.",
+    "Age": 26
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.17,
+    "Name": "Charlie T.",
+    "FullName": "Charlie T.",
+    "Age": 28
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.54,
+    "Name": "George N.",
+    "FullName": "George N.",
+    "Age": 22
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.63,
+    "Name": "Ethan A.",
+    "FullName": "Ethan A.",
+    "Age": 20
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.73,
+    "Name": "Charlie O.",
+    "FullName": "Charlie O.",
+    "Age": 17
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.48,
+    "Name": "Diana W.",
+    "FullName": "Diana W.",
+    "Age": 29
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.04,
+    "Name": "Helen M.",
+    "FullName": "Helen M.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.78,
+    "Name": "Fiona V.",
+    "FullName": "Fiona V.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.85,
+    "Name": "Fiona W.",
+    "FullName": "Fiona W.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.25,
+    "Name": "Fiona P.",
+    "FullName": "Fiona P.",
+    "Age": 20
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.15,
+    "Name": "Fiona A.",
+    "FullName": "Fiona A.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.87,
+    "Name": "Diana J.",
+    "FullName": "Diana J.",
+    "Age": 20
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.85,
+    "Name": "Fiona B.",
+    "FullName": "Fiona B.",
+    "Age": 28
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.55,
+    "Name": "Fiona R.",
+    "FullName": "Fiona R.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.96,
+    "Name": "George I.",
+    "FullName": "George I.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.82,
+    "Name": "Alice C.",
+    "FullName": "Alice C.",
+    "Age": 28
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.11,
+    "Name": "Ethan S.",
+    "FullName": "Ethan S.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.66,
+    "Name": "George E.",
+    "FullName": "George E.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.92,
+    "Name": "George P.",
+    "FullName": "George P.",
+    "Age": 25
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.56,
+    "Name": "Ethan E.",
+    "FullName": "Ethan E.",
+    "Age": 25
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.53,
+    "Name": "George L.",
+    "FullName": "George L.",
+    "Age": 27
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.07,
+    "Name": "Helen V.",
+    "FullName": "Helen V.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.01,
+    "Name": "Ethan D.",
+    "FullName": "Ethan D.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.1,
+    "Name": "Fiona T.",
+    "FullName": "Fiona T.",
+    "Age": 28
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.86,
+    "Name": "Helen O.",
+    "FullName": "Helen O.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.37,
+    "Name": "Helen Z.",
+    "FullName": "Helen Z.",
+    "Age": 27
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.79,
+    "Name": "Ethan V.",
+    "FullName": "Ethan V.",
+    "Age": 27
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.44,
+    "Name": "Fiona V.",
+    "FullName": "Fiona V.",
+    "Age": 25
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.69,
+    "Name": "Charlie A.",
+    "FullName": "Charlie A.",
+    "Age": 29
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.21,
+    "Name": "George Q.",
+    "FullName": "George Q.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.4,
+    "Name": "Fiona M.",
+    "FullName": "Fiona M.",
+    "Age": 26
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.77,
+    "Name": "Helen Q.",
+    "FullName": "Helen Q.",
+    "Age": 19
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.6,
+    "Name": "Bob K.",
+    "FullName": "Bob K.",
+    "Age": 27
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.18,
+    "Name": "Helen R.",
+    "FullName": "Helen R.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.17,
+    "Name": "Helen W.",
+    "FullName": "Helen W.",
+    "Age": 28
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.02,
+    "Name": "Bob Q.",
+    "FullName": "Bob Q.",
+    "Age": 26
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.52,
+    "Name": "Diana G.",
+    "FullName": "Diana G.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.18,
+    "Name": "Alice I.",
+    "FullName": "Alice I.",
+    "Age": 24
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.65,
+    "Name": "Fiona U.",
+    "FullName": "Fiona U.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.38,
+    "Name": "Bob E.",
+    "FullName": "Bob E.",
+    "Age": 27
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.19,
+    "Name": "Diana E.",
+    "FullName": "Diana E.",
+    "Age": 27
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.98,
+    "Name": "Bob W.",
+    "FullName": "Bob W.",
+    "Age": 27
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.18,
+    "Name": "Ethan J.",
+    "FullName": "Ethan J.",
+    "Age": 21
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.51,
+    "Name": "Helen Z.",
+    "FullName": "Helen Z.",
+    "Age": 29
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.84,
+    "Name": "George J.",
+    "FullName": "George J.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.32,
+    "Name": "Charlie I.",
+    "FullName": "Charlie I.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.18,
+    "Name": "Ethan M.",
+    "FullName": "Ethan M.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.98,
+    "Name": "Ethan G.",
+    "FullName": "Ethan G.",
+    "Age": 24
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.05,
+    "Name": "Bob T.",
+    "FullName": "Bob T.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.7,
+    "Name": "Diana B.",
+    "FullName": "Diana B.",
+    "Age": 25
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.33,
+    "Name": "Alice D.",
+    "FullName": "Alice D.",
+    "Age": 25
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.23,
+    "Name": "Ethan P.",
+    "FullName": "Ethan P.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.85,
+    "Name": "Fiona F.",
+    "FullName": "Fiona F.",
+    "Age": 25
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.84,
+    "Name": "Fiona S.",
+    "FullName": "Fiona S.",
+    "Age": 20
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.72,
+    "Name": "Bob X.",
+    "FullName": "Bob X.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.46,
+    "Name": "Charlie O.",
+    "FullName": "Charlie O.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.9,
+    "Name": "George A.",
+    "FullName": "George A.",
+    "Age": 20
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.04,
+    "Name": "Fiona M.",
+    "FullName": "Fiona M.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.79,
+    "Name": "Helen E.",
+    "FullName": "Helen E.",
+    "Age": 20
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.13,
+    "Name": "Bob J.",
+    "FullName": "Bob J.",
+    "Age": 20
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.17,
+    "Name": "Helen P.",
+    "FullName": "Helen P.",
+    "Age": 28
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.84,
+    "Name": "Fiona W.",
+    "FullName": "Fiona W.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.23,
+    "Name": "Alice L.",
+    "FullName": "Alice L.",
+    "Age": 27
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.07,
+    "Name": "Bob D.",
+    "FullName": "Bob D.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.12,
+    "Name": "Fiona P.",
+    "FullName": "Fiona P.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.97,
+    "Name": "Fiona L.",
+    "FullName": "Fiona L.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.88,
+    "Name": "Helen J.",
+    "FullName": "Helen J.",
+    "Age": 19
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.74,
+    "Name": "Fiona C.",
+    "FullName": "Fiona C.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.38,
+    "Name": "Diana S.",
+    "FullName": "Diana S.",
+    "Age": 28
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.49,
+    "Name": "Charlie V.",
+    "FullName": "Charlie V.",
+    "Age": 18
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.83,
+    "Name": "Diana E.",
+    "FullName": "Diana E.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.07,
+    "Name": "Helen W.",
+    "FullName": "Helen W.",
+    "Age": 29
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.83,
+    "Name": "Alice T.",
+    "FullName": "Alice T.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.09,
+    "Name": "Bob T.",
+    "FullName": "Bob T.",
+    "Age": 21
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.3,
+    "Name": "Fiona K.",
+    "FullName": "Fiona K.",
+    "Age": 20
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.77,
+    "Name": "George X.",
+    "FullName": "George X.",
+    "Age": 19
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.66,
+    "Name": "Charlie R.",
+    "FullName": "Charlie R.",
+    "Age": 29
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.81,
+    "Name": "Ethan M.",
+    "FullName": "Ethan M.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.45,
+    "Name": "Diana D.",
+    "FullName": "Diana D.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.49,
+    "Name": "Fiona N.",
+    "FullName": "Fiona N.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.88,
+    "Name": "George Q.",
+    "FullName": "George Q.",
+    "Age": 27
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.83,
+    "Name": "George B.",
+    "FullName": "George B.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.15,
+    "Name": "Fiona I.",
+    "FullName": "Fiona I.",
+    "Age": 27
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.42,
+    "Name": "Alice F.",
+    "FullName": "Alice F.",
+    "Age": 24
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.55,
+    "Name": "Helen N.",
+    "FullName": "Helen N.",
+    "Age": 21
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.82,
+    "Name": "Ethan T.",
+    "FullName": "Ethan T.",
+    "Age": 18
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.52,
+    "Name": "Helen T.",
+    "FullName": "Helen T.",
+    "Age": 28
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.3,
+    "Name": "Bob R.",
+    "FullName": "Bob R.",
+    "Age": 20
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.39,
+    "Name": "Alice M.",
+    "FullName": "Alice M.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.14,
+    "Name": "Fiona Z.",
+    "FullName": "Fiona Z.",
+    "Age": 18
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.13,
+    "Name": "Diana D.",
+    "FullName": "Diana D.",
+    "Age": 17
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.13,
+    "Name": "Bob H.",
+    "FullName": "Bob H.",
+    "Age": 20
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.47,
+    "Name": "George Q.",
+    "FullName": "George Q.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.45,
+    "Name": "Bob T.",
+    "FullName": "Bob T.",
+    "Age": 21
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.25,
+    "Name": "George T.",
+    "FullName": "George T.",
+    "Age": 17
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.1,
+    "Name": "Bob Z.",
+    "FullName": "Bob Z.",
+    "Age": 29
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.29,
+    "Name": "Alice Q.",
+    "FullName": "Alice Q.",
+    "Age": 25
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.42,
+    "Name": "George S.",
+    "FullName": "George S.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.27,
+    "Name": "Charlie Q.",
+    "FullName": "Charlie Q.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.78,
+    "Name": "Helen A.",
+    "FullName": "Helen A.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.27,
+    "Name": "George Y.",
+    "FullName": "George Y.",
+    "Age": 29
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.85,
+    "Name": "Helen O.",
+    "FullName": "Helen O.",
+    "Age": 20
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.99,
+    "Name": "George L.",
+    "FullName": "George L.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.91,
+    "Name": "Bob C.",
+    "FullName": "Bob C.",
+    "Age": 20
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.96,
+    "Name": "Fiona E.",
+    "FullName": "Fiona E.",
+    "Age": 25
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.59,
+    "Name": "George N.",
+    "FullName": "George N.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.38,
+    "Name": "Diana A.",
+    "FullName": "Diana A.",
+    "Age": 27
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.34,
+    "Name": "Alice Q.",
+    "FullName": "Alice Q.",
+    "Age": 20
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.06,
+    "Name": "Ethan H.",
+    "FullName": "Ethan H.",
+    "Age": 20
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.93,
+    "Name": "Fiona P.",
+    "FullName": "Fiona P.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.88,
+    "Name": "Charlie I.",
+    "FullName": "Charlie I.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.59,
+    "Name": "Fiona O.",
+    "FullName": "Fiona O.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.5,
+    "Name": "Charlie O.",
+    "FullName": "Charlie O.",
+    "Age": 29
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.22,
+    "Name": "Charlie Q.",
+    "FullName": "Charlie Q.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.67,
+    "Name": "Helen C.",
+    "FullName": "Helen C.",
+    "Age": 29
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.87,
+    "Name": "Diana V.",
+    "FullName": "Diana V.",
+    "Age": 23
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.93,
+    "Name": "Helen H.",
+    "FullName": "Helen H.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.5,
+    "Name": "Alice R.",
+    "FullName": "Alice R.",
+    "Age": 21
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.89,
+    "Name": "Diana L.",
+    "FullName": "Diana L.",
+    "Age": 21
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.29,
+    "Name": "Charlie D.",
+    "FullName": "Charlie D.",
+    "Age": 22
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.37,
+    "Name": "Bob B.",
+    "FullName": "Bob B.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.8,
+    "Name": "Helen B.",
+    "FullName": "Helen B.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.18,
+    "Name": "Alice L.",
+    "FullName": "Alice L.",
+    "Age": 27
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.03,
+    "Name": "Helen Z.",
+    "FullName": "Helen Z.",
+    "Age": 25
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.61,
+    "Name": "Fiona J.",
+    "FullName": "Fiona J.",
+    "Age": 27
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.78,
+    "Name": "Fiona V.",
+    "FullName": "Fiona V.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.44,
+    "Name": "Diana H.",
+    "FullName": "Diana H.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.48,
+    "Name": "George V.",
+    "FullName": "George V.",
+    "Age": 17
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.06,
+    "Name": "Alice B.",
+    "FullName": "Alice B.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.92,
+    "Name": "Charlie S.",
+    "FullName": "Charlie S.",
+    "Age": 20
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.26,
+    "Name": "Bob S.",
+    "FullName": "Bob S.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.91,
+    "Name": "Fiona E.",
+    "FullName": "Fiona E.",
+    "Age": 27
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.61,
+    "Name": "Fiona G.",
+    "FullName": "Fiona G.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.29,
+    "Name": "Diana R.",
+    "FullName": "Diana R.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.09,
+    "Name": "Fiona B.",
+    "FullName": "Fiona B.",
+    "Age": 29
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.94,
+    "Name": "Alice K.",
+    "FullName": "Alice K.",
+    "Age": 28
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.93,
+    "Name": "Diana L.",
+    "FullName": "Diana L.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.37,
+    "Name": "Diana B.",
+    "FullName": "Diana B.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.61,
+    "Name": "Charlie O.",
+    "FullName": "Charlie O.",
+    "Age": 29
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.75,
+    "Name": "Charlie D.",
+    "FullName": "Charlie D.",
+    "Age": 20
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.96,
+    "Name": "Ethan B.",
+    "FullName": "Ethan B.",
+    "Age": 25
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.39,
+    "Name": "Fiona O.",
+    "FullName": "Fiona O.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.95,
+    "Name": "Charlie X.",
+    "FullName": "Charlie X.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.12,
+    "Name": "Diana I.",
+    "FullName": "Diana I.",
+    "Age": 27
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.41,
+    "Name": "Bob F.",
+    "FullName": "Bob F.",
+    "Age": 25
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.76,
+    "Name": "Helen V.",
+    "FullName": "Helen V.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.82,
+    "Name": "Fiona X.",
+    "FullName": "Fiona X.",
+    "Age": 20
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.97,
+    "Name": "Bob N.",
+    "FullName": "Bob N.",
+    "Age": 25
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.6,
+    "Name": "Charlie L.",
+    "FullName": "Charlie L.",
+    "Age": 18
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.67,
+    "Name": "Bob I.",
+    "FullName": "Bob I.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.17,
+    "Name": "Ethan G.",
+    "FullName": "Ethan G.",
+    "Age": 21
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.84,
+    "Name": "Diana L.",
+    "FullName": "Diana L.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.65,
+    "Name": "Charlie W.",
+    "FullName": "Charlie W.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.57,
+    "Name": "Helen B.",
+    "FullName": "Helen B.",
+    "Age": 24
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.33,
+    "Name": "Alice F.",
+    "FullName": "Alice F.",
+    "Age": 29
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.58,
+    "Name": "Ethan X.",
+    "FullName": "Ethan X.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.19,
+    "Name": "Alice A.",
+    "FullName": "Alice A.",
+    "Age": 21
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.63,
+    "Name": "Bob V.",
+    "FullName": "Bob V.",
+    "Age": 21
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.72,
+    "Name": "Ethan P.",
+    "FullName": "Ethan P.",
+    "Age": 19
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.43,
+    "Name": "Charlie M.",
+    "FullName": "Charlie M.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.98,
+    "Name": "Bob U.",
+    "FullName": "Bob U.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.48,
+    "Name": "Diana V.",
+    "FullName": "Diana V.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.8,
+    "Name": "Diana I.",
+    "FullName": "Diana I.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.09,
+    "Name": "Helen T.",
+    "FullName": "Helen T.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.52,
+    "Name": "George N.",
+    "FullName": "George N.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.28,
+    "Name": "Bob Y.",
+    "FullName": "Bob Y.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.22,
+    "Name": "Alice L.",
+    "FullName": "Alice L.",
+    "Age": 21
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.52,
+    "Name": "Bob I.",
+    "FullName": "Bob I.",
+    "Age": 20
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.1,
+    "Name": "Alice O.",
+    "FullName": "Alice O.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.38,
+    "Name": "George P.",
+    "FullName": "George P.",
+    "Age": 24
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.4,
+    "Name": "Alice X.",
+    "FullName": "Alice X.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.12,
+    "Name": "Charlie U.",
+    "FullName": "Charlie U.",
+    "Age": 18
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.54,
+    "Name": "George S.",
+    "FullName": "George S.",
+    "Age": 21
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.78,
+    "Name": "Fiona I.",
+    "FullName": "Fiona I.",
+    "Age": 29
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.8,
+    "Name": "Bob Q.",
+    "FullName": "Bob Q.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.29,
+    "Name": "Helen N.",
+    "FullName": "Helen N.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.44,
+    "Name": "Ethan M.",
+    "FullName": "Ethan M.",
+    "Age": 25
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.64,
+    "Name": "Alice K.",
+    "FullName": "Alice K.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.82,
+    "Name": "Alice F.",
+    "FullName": "Alice F.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4,
+    "Name": "George G.",
+    "FullName": "George G.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.04,
+    "Name": "Fiona P.",
+    "FullName": "Fiona P.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.54,
+    "Name": "Diana L.",
+    "FullName": "Diana L.",
+    "Age": 25
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.07,
+    "Name": "Fiona H.",
+    "FullName": "Fiona H.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.92,
+    "Name": "Charlie H.",
+    "FullName": "Charlie H.",
+    "Age": 26
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.09,
+    "Name": "Helen D.",
+    "FullName": "Helen D.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.04,
+    "Name": "George B.",
+    "FullName": "George B.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.87,
+    "Name": "Helen X.",
+    "FullName": "Helen X.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.55,
+    "Name": "Fiona D.",
+    "FullName": "Fiona D.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.19,
+    "Name": "Helen J.",
+    "FullName": "Helen J.",
+    "Age": 26
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.5,
+    "Name": "Ethan U.",
+    "FullName": "Ethan U.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.27,
+    "Name": "Ethan Y.",
+    "FullName": "Ethan Y.",
+    "Age": 29
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.12,
+    "Name": "Charlie F.",
+    "FullName": "Charlie F.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.44,
+    "Name": "Helen C.",
+    "FullName": "Helen C.",
+    "Age": 20
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.26,
+    "Name": "Diana Q.",
+    "FullName": "Diana Q.",
+    "Age": 24
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.89,
+    "Name": "Bob H.",
+    "FullName": "Bob H.",
+    "Age": 29
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.41,
+    "Name": "Diana Q.",
+    "FullName": "Diana Q.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.75,
+    "Name": "Alice W.",
+    "FullName": "Alice W.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.53,
+    "Name": "Helen O.",
+    "FullName": "Helen O.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.09,
+    "Name": "Charlie R.",
+    "FullName": "Charlie R.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.66,
+    "Name": "Fiona A.",
+    "FullName": "Fiona A.",
+    "Age": 25
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.81,
+    "Name": "George H.",
+    "FullName": "George H.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.44,
+    "Name": "Helen P.",
+    "FullName": "Helen P.",
+    "Age": 21
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.96,
+    "Name": "Helen X.",
+    "FullName": "Helen X.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.2,
+    "Name": "George R.",
+    "FullName": "George R.",
+    "Age": 28
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.21,
+    "Name": "Alice K.",
+    "FullName": "Alice K.",
+    "Age": 22
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.66,
+    "Name": "Bob L.",
+    "FullName": "Bob L.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.31,
+    "Name": "Charlie D.",
+    "FullName": "Charlie D.",
+    "Age": 21
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.65,
+    "Name": "Helen C.",
+    "FullName": "Helen C.",
+    "Age": 27
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.44,
+    "Name": "Fiona W.",
+    "FullName": "Fiona W.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.93,
+    "Name": "Charlie R.",
+    "FullName": "Charlie R.",
+    "Age": 20
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.56,
+    "Name": "George N.",
+    "FullName": "George N.",
+    "Age": 22
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.95,
+    "Name": "George C.",
+    "FullName": "George C.",
+    "Age": 29
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.62,
+    "Name": "Fiona G.",
+    "FullName": "Fiona G.",
+    "Age": 21
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.72,
+    "Name": "Alice L.",
+    "FullName": "Alice L.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.14,
+    "Name": "Ethan R.",
+    "FullName": "Ethan R.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.55,
+    "Name": "Fiona H.",
+    "FullName": "Fiona H.",
+    "Age": 21
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.43,
+    "Name": "Bob N.",
+    "FullName": "Bob N.",
+    "Age": 29
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.34,
+    "Name": "Diana Y.",
+    "FullName": "Diana Y.",
+    "Age": 23
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.74,
+    "Name": "Ethan V.",
+    "FullName": "Ethan V.",
+    "Age": 27
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.72,
+    "Name": "Charlie G.",
+    "FullName": "Charlie G.",
+    "Age": 28
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.95,
+    "Name": "Alice S.",
+    "FullName": "Alice S.",
+    "Age": 27
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.92,
+    "Name": "Fiona K.",
+    "FullName": "Fiona K.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.91,
+    "Name": "Diana P.",
+    "FullName": "Diana P.",
+    "Age": 27
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.86,
+    "Name": "Helen X.",
+    "FullName": "Helen X.",
+    "Age": 24
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.94,
+    "Name": "Charlie O.",
+    "FullName": "Charlie O.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.23,
+    "Name": "Helen J.",
+    "FullName": "Helen J.",
+    "Age": 27
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.05,
+    "Name": "Charlie W.",
+    "FullName": "Charlie W.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.21,
+    "Name": "George T.",
+    "FullName": "George T.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.97,
+    "Name": "Alice P.",
+    "FullName": "Alice P.",
+    "Age": 22
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.05,
+    "Name": "Alice O.",
+    "FullName": "Alice O.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.39,
+    "Name": "Alice A.",
+    "FullName": "Alice A.",
+    "Age": 25
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.56,
+    "Name": "George X.",
+    "FullName": "George X.",
+    "Age": 27
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.8,
+    "Name": "Fiona B.",
+    "FullName": "Fiona B.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.47,
+    "Name": "Ethan V.",
+    "FullName": "Ethan V.",
+    "Age": 27
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.89,
+    "Name": "Diana P.",
+    "FullName": "Diana P.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.71,
+    "Name": "George Y.",
+    "FullName": "George Y.",
+    "Age": 20
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.55,
+    "Name": "Diana D.",
+    "FullName": "Diana D.",
+    "Age": 24
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.14,
+    "Name": "Fiona K.",
+    "FullName": "Fiona K.",
+    "Age": 23
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.92,
+    "Name": "Helen W.",
+    "FullName": "Helen W.",
+    "Age": 21
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.84,
+    "Name": "Helen J.",
+    "FullName": "Helen J.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.79,
+    "Name": "Fiona L.",
+    "FullName": "Fiona L.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.86,
+    "Name": "Fiona F.",
+    "FullName": "Fiona F.",
+    "Age": 20
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.98,
+    "Name": "Charlie O.",
+    "FullName": "Charlie O.",
+    "Age": 21
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.07,
+    "Name": "Helen K.",
+    "FullName": "Helen K.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.12,
+    "Name": "Bob P.",
+    "FullName": "Bob P.",
+    "Age": 29
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.89,
+    "Name": "Fiona S.",
+    "FullName": "Fiona S.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.05,
+    "Name": "Diana E.",
+    "FullName": "Diana E.",
+    "Age": 27
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.13,
+    "Name": "Ethan A.",
+    "FullName": "Ethan A.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.93,
+    "Name": "Bob W.",
+    "FullName": "Bob W.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.45,
+    "Name": "Charlie T.",
+    "FullName": "Charlie T.",
+    "Age": 21
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.03,
+    "Name": "Alice U.",
+    "FullName": "Alice U.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.28,
+    "Name": "George D.",
+    "FullName": "George D.",
+    "Age": 17
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.08,
+    "Name": "Diana Y.",
+    "FullName": "Diana Y.",
+    "Age": 29
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.9,
+    "Name": "Ethan B.",
+    "FullName": "Ethan B.",
+    "Age": 17
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.41,
+    "Name": "Bob S.",
+    "FullName": "Bob S.",
+    "Age": 26
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.52,
+    "Name": "Alice C.",
+    "FullName": "Alice C.",
+    "Age": 20
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.26,
+    "Name": "Fiona P.",
+    "FullName": "Fiona P.",
+    "Age": 21
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.51,
+    "Name": "George V.",
+    "FullName": "George V.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.83,
+    "Name": "Charlie A.",
+    "FullName": "Charlie A.",
+    "Age": 28
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.56,
+    "Name": "Alice B.",
+    "FullName": "Alice B.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.93,
+    "Name": "Bob X.",
+    "FullName": "Bob X.",
+    "Age": 21
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.09,
+    "Name": "Charlie T.",
+    "FullName": "Charlie T.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.77,
+    "Name": "Ethan S.",
+    "FullName": "Ethan S.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.23,
+    "Name": "Fiona C.",
+    "FullName": "Fiona C.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.2,
+    "Name": "Charlie W.",
+    "FullName": "Charlie W.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.86,
+    "Name": "Fiona K.",
+    "FullName": "Fiona K.",
+    "Age": 21
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.07,
+    "Name": "George Y.",
+    "FullName": "George Y.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.91,
+    "Name": "Alice B.",
+    "FullName": "Alice B.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.08,
+    "Name": "Helen R.",
+    "FullName": "Helen R.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.83,
+    "Name": "Charlie E.",
+    "FullName": "Charlie E.",
+    "Age": 18
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.91,
+    "Name": "Alice J.",
+    "FullName": "Alice J.",
+    "Age": 20
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.84,
+    "Name": "Alice T.",
+    "FullName": "Alice T.",
+    "Age": 17
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.31,
+    "Name": "Diana T.",
+    "FullName": "Diana T.",
+    "Age": 25
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.37,
+    "Name": "Ethan P.",
+    "FullName": "Ethan P.",
+    "Age": 24
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.81,
+    "Name": "Fiona R.",
+    "FullName": "Fiona R.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.52,
+    "Name": "Diana M.",
+    "FullName": "Diana M.",
+    "Age": 21
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.8,
+    "Name": "Helen D.",
+    "FullName": "Helen D.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.32,
+    "Name": "Alice X.",
+    "FullName": "Alice X.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.09,
+    "Name": "Fiona T.",
+    "FullName": "Fiona T.",
+    "Age": 21
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.33,
+    "Name": "Diana P.",
+    "FullName": "Diana P.",
+    "Age": 21
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.75,
+    "Name": "Bob Q.",
+    "FullName": "Bob Q.",
+    "Age": 29
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.87,
+    "Name": "Ethan A.",
+    "FullName": "Ethan A.",
+    "Age": 29
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.43,
+    "Name": "Diana Z.",
+    "FullName": "Diana Z.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.78,
+    "Name": "Diana K.",
+    "FullName": "Diana K.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.84,
+    "Name": "George L.",
+    "FullName": "George L.",
+    "Age": 29
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.87,
+    "Name": "Diana C.",
+    "FullName": "Diana C.",
+    "Age": 19
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.66,
+    "Name": "Diana F.",
+    "FullName": "Diana F.",
+    "Age": 18
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.61,
+    "Name": "Alice R.",
+    "FullName": "Alice R.",
+    "Age": 28
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.02,
+    "Name": "Diana O.",
+    "FullName": "Diana O.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.79,
+    "Name": "Charlie V.",
+    "FullName": "Charlie V.",
+    "Age": 29
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.78,
+    "Name": "Ethan I.",
+    "FullName": "Ethan I.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.6,
+    "Name": "George H.",
+    "FullName": "George H.",
+    "Age": 28
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.05,
+    "Name": "Fiona A.",
+    "FullName": "Fiona A.",
+    "Age": 21
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.5,
+    "Name": "Bob M.",
+    "FullName": "Bob M.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.23,
+    "Name": "Charlie J.",
+    "FullName": "Charlie J.",
+    "Age": 20
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3,
+    "Name": "Bob N.",
+    "FullName": "Bob N.",
+    "Age": 17
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.75,
+    "Name": "Diana H.",
+    "FullName": "Diana H.",
+    "Age": 28
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.47,
+    "Name": "Diana I.",
+    "FullName": "Diana I.",
+    "Age": 28
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.62,
+    "Name": "Bob O.",
+    "FullName": "Bob O.",
+    "Age": 29
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.6,
+    "Name": "Ethan Z.",
+    "FullName": "Ethan Z.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.28,
+    "Name": "Ethan N.",
+    "FullName": "Ethan N.",
+    "Age": 25
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.09,
+    "Name": "Alice F.",
+    "FullName": "Alice F.",
+    "Age": 19
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.13,
+    "Name": "George P.",
+    "FullName": "George P.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.01,
+    "Name": "George J.",
+    "FullName": "George J.",
+    "Age": 20
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.22,
+    "Name": "Bob Q.",
+    "FullName": "Bob Q.",
+    "Age": 21
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.61,
+    "Name": "Helen O.",
+    "FullName": "Helen O.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.05,
+    "Name": "Bob H.",
+    "FullName": "Bob H.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.94,
+    "Name": "Alice C.",
+    "FullName": "Alice C.",
+    "Age": 21
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.74,
+    "Name": "Ethan K.",
+    "FullName": "Ethan K.",
+    "Age": 27
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.32,
+    "Name": "Helen N.",
+    "FullName": "Helen N.",
+    "Age": 20
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.58,
+    "Name": "Ethan K.",
+    "FullName": "Ethan K.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.48,
+    "Name": "Alice T.",
+    "FullName": "Alice T.",
+    "Age": 25
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.7,
+    "Name": "Bob V.",
+    "FullName": "Bob V.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.28,
+    "Name": "Charlie U.",
+    "FullName": "Charlie U.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.19,
+    "Name": "Alice F.",
+    "FullName": "Alice F.",
+    "Age": 27
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.93,
+    "Name": "Alice O.",
+    "FullName": "Alice O.",
+    "Age": 27
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.16,
+    "Name": "Ethan O.",
+    "FullName": "Ethan O.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.95,
+    "Name": "Fiona F.",
+    "FullName": "Fiona F.",
+    "Age": 21
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.21,
+    "Name": "Diana C.",
+    "FullName": "Diana C.",
+    "Age": 20
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.67,
+    "Name": "Alice C.",
+    "FullName": "Alice C.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.06,
+    "Name": "Helen O.",
+    "FullName": "Helen O.",
+    "Age": 29
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.91,
+    "Name": "Charlie Q.",
+    "FullName": "Charlie Q.",
+    "Age": 29
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2,
+    "Name": "Charlie P.",
+    "FullName": "Charlie P.",
+    "Age": 20
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.99,
+    "Name": "Charlie M.",
+    "FullName": "Charlie M.",
+    "Age": 20
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.17,
+    "Name": "George Q.",
+    "FullName": "George Q.",
+    "Age": 20
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.31,
+    "Name": "George P.",
+    "FullName": "George P.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.57,
+    "Name": "Fiona G.",
+    "FullName": "Fiona G.",
+    "Age": 23
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.26,
+    "Name": "Fiona L.",
+    "FullName": "Fiona L.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.08,
+    "Name": "Fiona F.",
+    "FullName": "Fiona F.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.25,
+    "Name": "Helen L.",
+    "FullName": "Helen L.",
+    "Age": 29
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.78,
+    "Name": "Helen L.",
+    "FullName": "Helen L.",
+    "Age": 20
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.01,
+    "Name": "Alice T.",
+    "FullName": "Alice T.",
+    "Age": 29
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.37,
+    "Name": "Bob T.",
+    "FullName": "Bob T.",
+    "Age": 25
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.58,
+    "Name": "Diana Z.",
+    "FullName": "Diana Z.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.87,
+    "Name": "Alice V.",
+    "FullName": "Alice V.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.02,
+    "Name": "George A.",
+    "FullName": "George A.",
+    "Age": 27
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.2,
+    "Name": "Charlie Z.",
+    "FullName": "Charlie Z.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.95,
+    "Name": "George S.",
+    "FullName": "George S.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.52,
+    "Name": "Ethan S.",
+    "FullName": "Ethan S.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.31,
+    "Name": "Charlie A.",
+    "FullName": "Charlie A.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.1,
+    "Name": "George N.",
+    "FullName": "George N.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.97,
+    "Name": "Diana G.",
+    "FullName": "Diana G.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.18,
+    "Name": "Charlie U.",
+    "FullName": "Charlie U.",
+    "Age": 27
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.23,
+    "Name": "Fiona K.",
+    "FullName": "Fiona K.",
+    "Age": 28
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.08,
+    "Name": "Fiona O.",
+    "FullName": "Fiona O.",
+    "Age": 28
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.26,
+    "Name": "Alice Y.",
+    "FullName": "Alice Y.",
+    "Age": 25
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.44,
+    "Name": "Fiona A.",
+    "FullName": "Fiona A.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.97,
+    "Name": "Fiona D.",
+    "FullName": "Fiona D.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.28,
+    "Name": "Alice W.",
+    "FullName": "Alice W.",
+    "Age": 29
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.85,
+    "Name": "Alice D.",
+    "FullName": "Alice D.",
+    "Age": 29
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.82,
+    "Name": "Ethan D.",
+    "FullName": "Ethan D.",
+    "Age": 17
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.82,
+    "Name": "Charlie V.",
+    "FullName": "Charlie V.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.93,
+    "Name": "Bob Z.",
+    "FullName": "Bob Z.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.59,
+    "Name": "Diana C.",
+    "FullName": "Diana C.",
+    "Age": 25
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.63,
+    "Name": "Alice P.",
+    "FullName": "Alice P.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.95,
+    "Name": "Fiona T.",
+    "FullName": "Fiona T.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.87,
+    "Name": "Ethan G.",
+    "FullName": "Ethan G.",
+    "Age": 27
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.24,
+    "Name": "Alice J.",
+    "FullName": "Alice J.",
+    "Age": 19
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.58,
+    "Name": "Charlie L.",
+    "FullName": "Charlie L.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.48,
+    "Name": "Helen D.",
+    "FullName": "Helen D.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.41,
+    "Name": "Diana H.",
+    "FullName": "Diana H.",
+    "Age": 28
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.29,
+    "Name": "Diana X.",
+    "FullName": "Diana X.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.73,
+    "Name": "Fiona H.",
+    "FullName": "Fiona H.",
+    "Age": 26
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.17,
+    "Name": "Charlie D.",
+    "FullName": "Charlie D.",
+    "Age": 21
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.25,
+    "Name": "Helen T.",
+    "FullName": "Helen T.",
+    "Age": 18
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.95,
+    "Name": "Fiona O.",
+    "FullName": "Fiona O.",
+    "Age": 29
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.22,
+    "Name": "Fiona S.",
+    "FullName": "Fiona S.",
+    "Age": 28
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4,
+    "Name": "Fiona Y.",
+    "FullName": "Fiona Y.",
+    "Age": 29
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.89,
+    "Name": "Ethan B.",
+    "FullName": "Ethan B.",
+    "Age": 27
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.91,
+    "Name": "Charlie J.",
+    "FullName": "Charlie J.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.04,
+    "Name": "Diana D.",
+    "FullName": "Diana D.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.38,
+    "Name": "Fiona X.",
+    "FullName": "Fiona X.",
+    "Age": 20
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.5,
+    "Name": "Fiona Q.",
+    "FullName": "Fiona Q.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.15,
+    "Name": "Charlie G.",
+    "FullName": "Charlie G.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.32,
+    "Name": "Diana M.",
+    "FullName": "Diana M.",
+    "Age": 23
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.17,
+    "Name": "Diana Y.",
+    "FullName": "Diana Y.",
+    "Age": 28
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.49,
+    "Name": "Diana S.",
+    "FullName": "Diana S.",
+    "Age": 21
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.01,
+    "Name": "Helen L.",
+    "FullName": "Helen L.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.08,
+    "Name": "George V.",
+    "FullName": "George V.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.23,
+    "Name": "Bob N.",
+    "FullName": "Bob N.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.63,
+    "Name": "Ethan R.",
+    "FullName": "Ethan R.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.82,
+    "Name": "Ethan U.",
+    "FullName": "Ethan U.",
+    "Age": 29
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.95,
+    "Name": "Ethan K.",
+    "FullName": "Ethan K.",
+    "Age": 24
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.66,
+    "Name": "Alice I.",
+    "FullName": "Alice I.",
+    "Age": 20
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.02,
+    "Name": "Diana J.",
+    "FullName": "Diana J.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.16,
+    "Name": "Alice G.",
+    "FullName": "Alice G.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.23,
+    "Name": "Helen U.",
+    "FullName": "Helen U.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.38,
+    "Name": "Diana N.",
+    "FullName": "Diana N.",
+    "Age": 27
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.35,
+    "Name": "Helen W.",
+    "FullName": "Helen W.",
+    "Age": 29
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.67,
+    "Name": "Helen F.",
+    "FullName": "Helen F.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.26,
+    "Name": "Bob F.",
+    "FullName": "Bob F.",
+    "Age": 20
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.72,
+    "Name": "Charlie F.",
+    "FullName": "Charlie F.",
+    "Age": 17
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.97,
+    "Name": "Alice K.",
+    "FullName": "Alice K.",
+    "Age": 25
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.27,
+    "Name": "Charlie Z.",
+    "FullName": "Charlie Z.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.57,
+    "Name": "Bob B.",
+    "FullName": "Bob B.",
+    "Age": 29
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.81,
+    "Name": "Bob C.",
+    "FullName": "Bob C.",
+    "Age": 18
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.19,
+    "Name": "Bob C.",
+    "FullName": "Bob C.",
+    "Age": 28
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.8,
+    "Name": "Fiona I.",
+    "FullName": "Fiona I.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.57,
+    "Name": "George Q.",
+    "FullName": "George Q.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.23,
+    "Name": "Alice F.",
+    "FullName": "Alice F.",
+    "Age": 21
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.44,
+    "Name": "George B.",
+    "FullName": "George B.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.41,
+    "Name": "Bob L.",
+    "FullName": "Bob L.",
+    "Age": 27
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.14,
+    "Name": "Alice C.",
+    "FullName": "Alice C.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.03,
+    "Name": "Helen S.",
+    "FullName": "Helen S.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.01,
+    "Name": "Diana S.",
+    "FullName": "Diana S.",
+    "Age": 26
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.2,
+    "Name": "Alice V.",
+    "FullName": "Alice V.",
+    "Age": 25
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.35,
+    "Name": "Helen I.",
+    "FullName": "Helen I.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.48,
+    "Name": "George U.",
+    "FullName": "George U.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.52,
+    "Name": "Charlie S.",
+    "FullName": "Charlie S.",
+    "Age": 20
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.07,
+    "Name": "Ethan F.",
+    "FullName": "Ethan F.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.67,
+    "Name": "Alice T.",
+    "FullName": "Alice T.",
+    "Age": 21
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.54,
+    "Name": "Alice B.",
+    "FullName": "Alice B.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.83,
+    "Name": "Fiona W.",
+    "FullName": "Fiona W.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.4,
+    "Name": "Alice E.",
+    "FullName": "Alice E.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.2,
+    "Name": "Diana H.",
+    "FullName": "Diana H.",
+    "Age": 29
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.88,
+    "Name": "George T.",
+    "FullName": "George T.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.51,
+    "Name": "Bob Q.",
+    "FullName": "Bob Q.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.89,
+    "Name": "Fiona B.",
+    "FullName": "Fiona B.",
+    "Age": 21
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.92,
+    "Name": "Fiona F.",
+    "FullName": "Fiona F.",
+    "Age": 25
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.83,
+    "Name": "Bob R.",
+    "FullName": "Bob R.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.12,
+    "Name": "Alice A.",
+    "FullName": "Alice A.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.82,
+    "Name": "Ethan P.",
+    "FullName": "Ethan P.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.4,
+    "Name": "Helen J.",
+    "FullName": "Helen J.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.33,
+    "Name": "Alice O.",
+    "FullName": "Alice O.",
+    "Age": 21
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.87,
+    "Name": "Diana Q.",
+    "FullName": "Diana Q.",
+    "Age": 29
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.47,
+    "Name": "Ethan S.",
+    "FullName": "Ethan S.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.64,
+    "Name": "Fiona V.",
+    "FullName": "Fiona V.",
+    "Age": 24
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.06,
+    "Name": "Alice N.",
+    "FullName": "Alice N.",
+    "Age": 25
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.02,
+    "Name": "Charlie Z.",
+    "FullName": "Charlie Z.",
+    "Age": 17
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.7,
+    "Name": "Bob D.",
+    "FullName": "Bob D.",
+    "Age": 18
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.23,
+    "Name": "Diana V.",
+    "FullName": "Diana V.",
+    "Age": 29
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.12,
+    "Name": "Charlie B.",
+    "FullName": "Charlie B.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.57,
+    "Name": "Diana C.",
+    "FullName": "Diana C.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.87,
+    "Name": "Alice M.",
+    "FullName": "Alice M.",
+    "Age": 19
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.78,
+    "Name": "Charlie Y.",
+    "FullName": "Charlie Y.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.22,
+    "Name": "Alice Q.",
+    "FullName": "Alice Q.",
+    "Age": 17
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.6,
+    "Name": "George C.",
+    "FullName": "George C.",
+    "Age": 17
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.87,
+    "Name": "George G.",
+    "FullName": "George G.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.12,
+    "Name": "Fiona L.",
+    "FullName": "Fiona L.",
+    "Age": 17
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.26,
+    "Name": "Fiona Z.",
+    "FullName": "Fiona Z.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.31,
+    "Name": "Alice Q.",
+    "FullName": "Alice Q.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.09,
+    "Name": "Ethan T.",
+    "FullName": "Ethan T.",
+    "Age": 17
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.54,
+    "Name": "Bob B.",
+    "FullName": "Bob B.",
+    "Age": 29
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.46,
+    "Name": "Diana K.",
+    "FullName": "Diana K.",
+    "Age": 27
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.27,
+    "Name": "Diana Q.",
+    "FullName": "Diana Q.",
+    "Age": 29
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.23,
+    "Name": "Alice X.",
+    "FullName": "Alice X.",
+    "Age": 25
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.26,
+    "Name": "Diana C.",
+    "FullName": "Diana C.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.43,
+    "Name": "Helen P.",
+    "FullName": "Helen P.",
+    "Age": 27
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.14,
+    "Name": "Bob N.",
+    "FullName": "Bob N.",
+    "Age": 28
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.66,
+    "Name": "Charlie Q.",
+    "FullName": "Charlie Q.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.7,
+    "Name": "George H.",
+    "FullName": "George H.",
+    "Age": 29
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.36,
+    "Name": "Bob P.",
+    "FullName": "Bob P.",
+    "Age": 28
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.81,
+    "Name": "Ethan F.",
+    "FullName": "Ethan F.",
+    "Age": 29
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.99,
+    "Name": "Charlie R.",
+    "FullName": "Charlie R.",
+    "Age": 21
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.37,
+    "Name": "Bob P.",
+    "FullName": "Bob P.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.53,
+    "Name": "Bob N.",
+    "FullName": "Bob N.",
+    "Age": 21
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.79,
+    "Name": "Fiona R.",
+    "FullName": "Fiona R.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.11,
+    "Name": "Charlie J.",
+    "FullName": "Charlie J.",
+    "Age": 19
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.33,
+    "Name": "Ethan J.",
+    "FullName": "Ethan J.",
+    "Age": 17
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.83,
+    "Name": "Bob K.",
+    "FullName": "Bob K.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.98,
+    "Name": "George F.",
+    "FullName": "George F.",
+    "Age": 25
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.56,
+    "Name": "Ethan C.",
+    "FullName": "Ethan C.",
+    "Age": 27
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.48,
+    "Name": "George J.",
+    "FullName": "George J.",
+    "Age": 20
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.44,
+    "Name": "Alice U.",
+    "FullName": "Alice U.",
+    "Age": 21
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.74,
+    "Name": "Helen O.",
+    "FullName": "Helen O.",
+    "Age": 27
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.58,
+    "Name": "Charlie X.",
+    "FullName": "Charlie X.",
+    "Age": 20
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.57,
+    "Name": "Diana L.",
+    "FullName": "Diana L.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.45,
+    "Name": "Charlie N.",
+    "FullName": "Charlie N.",
+    "Age": 21
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.22,
+    "Name": "Diana S.",
+    "FullName": "Diana S.",
+    "Age": 25
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.63,
+    "Name": "Helen A.",
+    "FullName": "Helen A.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.62,
+    "Name": "George U.",
+    "FullName": "George U.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.49,
+    "Name": "Ethan Z.",
+    "FullName": "Ethan Z.",
+    "Age": 21
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.12,
+    "Name": "Diana R.",
+    "FullName": "Diana R.",
+    "Age": 27
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.16,
+    "Name": "Diana Q.",
+    "FullName": "Diana Q.",
+    "Age": 21
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.96,
+    "Name": "Helen X.",
+    "FullName": "Helen X.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.2,
+    "Name": "Fiona K.",
+    "FullName": "Fiona K.",
+    "Age": 21
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.07,
+    "Name": "Helen D.",
+    "FullName": "Helen D.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.59,
+    "Name": "Alice O.",
+    "FullName": "Alice O.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.88,
+    "Name": "Bob D.",
+    "FullName": "Bob D.",
+    "Age": 27
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.06,
+    "Name": "Diana X.",
+    "FullName": "Diana X.",
+    "Age": 28
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.92,
+    "Name": "George K.",
+    "FullName": "George K.",
+    "Age": 28
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.73,
+    "Name": "Fiona G.",
+    "FullName": "Fiona G.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.33,
+    "Name": "Fiona N.",
+    "FullName": "Fiona N.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.48,
+    "Name": "Alice F.",
+    "FullName": "Alice F.",
+    "Age": 29
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.81,
+    "Name": "Alice K.",
+    "FullName": "Alice K.",
+    "Age": 27
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.89,
+    "Name": "Bob X.",
+    "FullName": "Bob X.",
+    "Age": 20
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.16,
+    "Name": "Bob J.",
+    "FullName": "Bob J.",
+    "Age": 27
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.35,
+    "Name": "Fiona Y.",
+    "FullName": "Fiona Y.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.27,
+    "Name": "Diana G.",
+    "FullName": "Diana G.",
+    "Age": 29
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.36,
+    "Name": "Bob K.",
+    "FullName": "Bob K.",
+    "Age": 21
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.36,
+    "Name": "Charlie Y.",
+    "FullName": "Charlie Y.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.93,
+    "Name": "George H.",
+    "FullName": "George H.",
+    "Age": 29
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.01,
+    "Name": "George W.",
+    "FullName": "George W.",
+    "Age": 21
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.95,
+    "Name": "Helen K.",
+    "FullName": "Helen K.",
+    "Age": 28
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.9,
+    "Name": "Helen C.",
+    "FullName": "Helen C.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.41,
+    "Name": "Charlie I.",
+    "FullName": "Charlie I.",
+    "Age": 28
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.34,
+    "Name": "Ethan Z.",
+    "FullName": "Ethan Z.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.84,
+    "Name": "Charlie X.",
+    "FullName": "Charlie X.",
+    "Age": 29
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.31,
+    "Name": "Fiona B.",
+    "FullName": "Fiona B.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.26,
+    "Name": "Ethan S.",
+    "FullName": "Ethan S.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.56,
+    "Name": "Fiona Q.",
+    "FullName": "Fiona Q.",
+    "Age": 25
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.21,
+    "Name": "Bob T.",
+    "FullName": "Bob T.",
+    "Age": 25
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.86,
+    "Name": "Bob C.",
+    "FullName": "Bob C.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.6,
+    "Name": "Diana H.",
+    "FullName": "Diana H.",
+    "Age": 25
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.11,
+    "Name": "Helen Z.",
+    "FullName": "Helen Z.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.03,
+    "Name": "Alice V.",
+    "FullName": "Alice V.",
+    "Age": 28
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.05,
+    "Name": "Helen M.",
+    "FullName": "Helen M.",
+    "Age": 23
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.05,
+    "Name": "Alice M.",
+    "FullName": "Alice M.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.12,
+    "Name": "Helen P.",
+    "FullName": "Helen P.",
+    "Age": 22
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.15,
+    "Name": "Diana A.",
+    "FullName": "Diana A.",
+    "Age": 26
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.67,
+    "Name": "Ethan L.",
+    "FullName": "Ethan L.",
+    "Age": 18
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.25,
+    "Name": "Bob Y.",
+    "FullName": "Bob Y.",
+    "Age": 20
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.84,
+    "Name": "Diana N.",
+    "FullName": "Diana N.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.19,
+    "Name": "Bob Y.",
+    "FullName": "Bob Y.",
+    "Age": 18
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.68,
+    "Name": "Helen M.",
+    "FullName": "Helen M.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.42,
+    "Name": "Ethan F.",
+    "FullName": "Ethan F.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.13,
+    "Name": "Bob I.",
+    "FullName": "Bob I.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.06,
+    "Name": "Fiona Q.",
+    "FullName": "Fiona Q.",
+    "Age": 28
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.92,
+    "Name": "Bob R.",
+    "FullName": "Bob R.",
+    "Age": 19
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.21,
+    "Name": "Bob S.",
+    "FullName": "Bob S.",
+    "Age": 25
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.42,
+    "Name": "Helen K.",
+    "FullName": "Helen K.",
+    "Age": 21
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.1,
+    "Name": "Diana L.",
+    "FullName": "Diana L.",
+    "Age": 28
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.99,
+    "Name": "Alice A.",
+    "FullName": "Alice A.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.96,
+    "Name": "Alice K.",
+    "FullName": "Alice K.",
+    "Age": 20
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.93,
+    "Name": "Fiona L.",
+    "FullName": "Fiona L.",
+    "Age": 17
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.58,
+    "Name": "Diana P.",
+    "FullName": "Diana P.",
+    "Age": 26
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.31,
+    "Name": "Ethan W.",
+    "FullName": "Ethan W.",
+    "Age": 20
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.11,
+    "Name": "George F.",
+    "FullName": "George F.",
+    "Age": 28
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.17,
+    "Name": "Alice Q.",
+    "FullName": "Alice Q.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.52,
+    "Name": "Bob G.",
+    "FullName": "Bob G.",
+    "Age": 19
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.3,
+    "Name": "Charlie N.",
+    "FullName": "Charlie N.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.08,
+    "Name": "Diana K.",
+    "FullName": "Diana K.",
+    "Age": 21
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.85,
+    "Name": "George H.",
+    "FullName": "George H.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.83,
+    "Name": "Diana Z.",
+    "FullName": "Diana Z.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.22,
+    "Name": "Diana R.",
+    "FullName": "Diana R.",
+    "Age": 25
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.59,
+    "Name": "Charlie F.",
+    "FullName": "Charlie F.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.97,
+    "Name": "Bob M.",
+    "FullName": "Bob M.",
+    "Age": 25
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.72,
+    "Name": "Charlie V.",
+    "FullName": "Charlie V.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.59,
+    "Name": "Bob W.",
+    "FullName": "Bob W.",
+    "Age": 21
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.71,
+    "Name": "Ethan X.",
+    "FullName": "Ethan X.",
+    "Age": 18
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.56,
+    "Name": "Helen W.",
+    "FullName": "Helen W.",
+    "Age": 26
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.05,
+    "Name": "Diana B.",
+    "FullName": "Diana B.",
+    "Age": 19
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.97,
+    "Name": "Alice E.",
+    "FullName": "Alice E.",
+    "Age": 20
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.67,
+    "Name": "Helen W.",
+    "FullName": "Helen W.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.23,
+    "Name": "Alice G.",
+    "FullName": "Alice G.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.28,
+    "Name": "Ethan G.",
+    "FullName": "Ethan G.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.77,
+    "Name": "Charlie B.",
+    "FullName": "Charlie B.",
+    "Age": 19
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.86,
+    "Name": "Alice N.",
+    "FullName": "Alice N.",
+    "Age": 25
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.85,
+    "Name": "Ethan G.",
+    "FullName": "Ethan G.",
+    "Age": 18
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.91,
+    "Name": "Charlie O.",
+    "FullName": "Charlie O.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.93,
+    "Name": "Helen H.",
+    "FullName": "Helen H.",
+    "Age": 17
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.58,
+    "Name": "Ethan N.",
+    "FullName": "Ethan N.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.85,
+    "Name": "Charlie I.",
+    "FullName": "Charlie I.",
+    "Age": 21
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.98,
+    "Name": "George K.",
+    "FullName": "George K.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.97,
+    "Name": "Bob J.",
+    "FullName": "Bob J.",
+    "Age": 21
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.55,
+    "Name": "Charlie O.",
+    "FullName": "Charlie O.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.77,
+    "Name": "Bob K.",
+    "FullName": "Bob K.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.32,
+    "Name": "Bob Q.",
+    "FullName": "Bob Q.",
+    "Age": 23
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.73,
+    "Name": "Ethan G.",
+    "FullName": "Ethan G.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.72,
+    "Name": "Helen O.",
+    "FullName": "Helen O.",
+    "Age": 29
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.02,
+    "Name": "Charlie A.",
+    "FullName": "Charlie A.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.48,
+    "Name": "Ethan D.",
+    "FullName": "Ethan D.",
+    "Age": 27
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.13,
+    "Name": "Ethan E.",
+    "FullName": "Ethan E.",
+    "Age": 24
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.14,
+    "Name": "Bob R.",
+    "FullName": "Bob R.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.5,
+    "Name": "Alice Z.",
+    "FullName": "Alice Z.",
+    "Age": 21
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.38,
+    "Name": "Bob B.",
+    "FullName": "Bob B.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.58,
+    "Name": "Helen M.",
+    "FullName": "Helen M.",
+    "Age": 29
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.94,
+    "Name": "George C.",
+    "FullName": "George C.",
+    "Age": 27
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.19,
+    "Name": "Fiona S.",
+    "FullName": "Fiona S.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.22,
+    "Name": "Fiona X.",
+    "FullName": "Fiona X.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.16,
+    "Name": "Helen K.",
+    "FullName": "Helen K.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.22,
+    "Name": "Charlie P.",
+    "FullName": "Charlie P.",
+    "Age": 20
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.27,
+    "Name": "Helen M.",
+    "FullName": "Helen M.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.29,
+    "Name": "George L.",
+    "FullName": "George L.",
+    "Age": 18
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.41,
+    "Name": "George J.",
+    "FullName": "George J.",
+    "Age": 21
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.24,
+    "Name": "Alice L.",
+    "FullName": "Alice L.",
+    "Age": 27
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.81,
+    "Name": "Ethan R.",
+    "FullName": "Ethan R.",
+    "Age": 28
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.14,
+    "Name": "George L.",
+    "FullName": "George L.",
+    "Age": 27
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.76,
+    "Name": "Charlie K.",
+    "FullName": "Charlie K.",
+    "Age": 29
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.6,
+    "Name": "Alice H.",
+    "FullName": "Alice H.",
+    "Age": 28
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.09,
+    "Name": "Charlie P.",
+    "FullName": "Charlie P.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.88,
+    "Name": "George X.",
+    "FullName": "George X.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.14,
+    "Name": "Charlie U.",
+    "FullName": "Charlie U.",
+    "Age": 21
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.99,
+    "Name": "Fiona S.",
+    "FullName": "Fiona S.",
+    "Age": 20
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.31,
+    "Name": "Fiona E.",
+    "FullName": "Fiona E.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.49,
+    "Name": "George A.",
+    "FullName": "George A.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.41,
+    "Name": "Helen X.",
+    "FullName": "Helen X.",
+    "Age": 27
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.19,
+    "Name": "Alice Q.",
+    "FullName": "Alice Q.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.31,
+    "Name": "Charlie G.",
+    "FullName": "Charlie G.",
+    "Age": 20
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.51,
+    "Name": "Alice B.",
+    "FullName": "Alice B.",
+    "Age": 25
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.62,
+    "Name": "Diana T.",
+    "FullName": "Diana T.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.33,
+    "Name": "Charlie T.",
+    "FullName": "Charlie T.",
+    "Age": 25
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.81,
+    "Name": "George G.",
+    "FullName": "George G.",
+    "Age": 21
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.46,
+    "Name": "Diana X.",
+    "FullName": "Diana X.",
+    "Age": 20
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.82,
+    "Name": "Charlie V.",
+    "FullName": "Charlie V.",
+    "Age": 19
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.2,
+    "Name": "Ethan H.",
+    "FullName": "Ethan H.",
+    "Age": 23
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.14,
+    "Name": "Diana G.",
+    "FullName": "Diana G.",
+    "Age": 19
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.92,
+    "Name": "Fiona H.",
+    "FullName": "Fiona H.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.1,
+    "Name": "George N.",
+    "FullName": "George N.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.51,
+    "Name": "Bob T.",
+    "FullName": "Bob T.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.85,
+    "Name": "Fiona K.",
+    "FullName": "Fiona K.",
+    "Age": 28
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.01,
+    "Name": "Diana P.",
+    "FullName": "Diana P.",
+    "Age": 20
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.87,
+    "Name": "Bob T.",
+    "FullName": "Bob T.",
+    "Age": 28
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.21,
+    "Name": "Bob H.",
+    "FullName": "Bob H.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.63,
+    "Name": "Ethan E.",
+    "FullName": "Ethan E.",
+    "Age": 20
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.47,
+    "Name": "Ethan O.",
+    "FullName": "Ethan O.",
+    "Age": 25
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.44,
+    "Name": "Bob B.",
+    "FullName": "Bob B.",
+    "Age": 29
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.32,
+    "Name": "Bob W.",
+    "FullName": "Bob W.",
+    "Age": 21
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.34,
+    "Name": "Diana F.",
+    "FullName": "Diana F.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.75,
+    "Name": "Diana H.",
+    "FullName": "Diana H.",
+    "Age": 25
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.27,
+    "Name": "George K.",
+    "FullName": "George K.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.8,
+    "Name": "Ethan G.",
+    "FullName": "Ethan G.",
+    "Age": 17
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.57,
+    "Name": "Diana A.",
+    "FullName": "Diana A.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.17,
+    "Name": "George U.",
+    "FullName": "George U.",
+    "Age": 29
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.79,
+    "Name": "Diana T.",
+    "FullName": "Diana T.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.99,
+    "Name": "Diana D.",
+    "FullName": "Diana D.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.42,
+    "Name": "Helen C.",
+    "FullName": "Helen C.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.06,
+    "Name": "George W.",
+    "FullName": "George W.",
+    "Age": 20
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.68,
+    "Name": "Ethan K.",
+    "FullName": "Ethan K.",
+    "Age": 28
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.27,
+    "Name": "Ethan B.",
+    "FullName": "Ethan B.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.77,
+    "Name": "Fiona T.",
+    "FullName": "Fiona T.",
+    "Age": 25
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.68,
+    "Name": "Fiona M.",
+    "FullName": "Fiona M.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.27,
+    "Name": "Charlie T.",
+    "FullName": "Charlie T.",
+    "Age": 25
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.17,
+    "Name": "George X.",
+    "FullName": "George X.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.19,
+    "Name": "George B.",
+    "FullName": "George B.",
+    "Age": 29
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.06,
+    "Name": "Ethan B.",
+    "FullName": "Ethan B.",
+    "Age": 20
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.65,
+    "Name": "Alice L.",
+    "FullName": "Alice L.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.55,
+    "Name": "Alice H.",
+    "FullName": "Alice H.",
+    "Age": 21
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.89,
+    "Name": "Ethan T.",
+    "FullName": "Ethan T.",
+    "Age": 28
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.52,
+    "Name": "Alice S.",
+    "FullName": "Alice S.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.92,
+    "Name": "George Z.",
+    "FullName": "George Z.",
+    "Age": 18
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.48,
+    "Name": "Alice Y.",
+    "FullName": "Alice Y.",
+    "Age": 19
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.82,
+    "Name": "Bob F.",
+    "FullName": "Bob F.",
+    "Age": 25
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.75,
+    "Name": "Bob E.",
+    "FullName": "Bob E.",
+    "Age": 20
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.57,
+    "Name": "Ethan D.",
+    "FullName": "Ethan D.",
+    "Age": 29
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.76,
+    "Name": "Charlie F.",
+    "FullName": "Charlie F.",
+    "Age": 17
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.83,
+    "Name": "Alice A.",
+    "FullName": "Alice A.",
+    "Age": 29
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.78,
+    "Name": "George C.",
+    "FullName": "George C.",
+    "Age": 29
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.63,
+    "Name": "Charlie T.",
+    "FullName": "Charlie T.",
+    "Age": 20
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.56,
+    "Name": "Charlie D.",
+    "FullName": "Charlie D.",
+    "Age": 18
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.29,
+    "Name": "Fiona E.",
+    "FullName": "Fiona E.",
+    "Age": 20
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.23,
+    "Name": "Alice I.",
+    "FullName": "Alice I.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.73,
+    "Name": "Ethan J.",
+    "FullName": "Ethan J.",
+    "Age": 27
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.39,
+    "Name": "Charlie L.",
+    "FullName": "Charlie L.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.39,
+    "Name": "George C.",
+    "FullName": "George C.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.06,
+    "Name": "Helen N.",
+    "FullName": "Helen N.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.96,
+    "Name": "Fiona Z.",
+    "FullName": "Fiona Z.",
+    "Age": 28
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.52,
+    "Name": "Alice M.",
+    "FullName": "Alice M.",
+    "Age": 25
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.09,
+    "Name": "Charlie B.",
+    "FullName": "Charlie B.",
+    "Age": 29
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.26,
+    "Name": "Charlie V.",
+    "FullName": "Charlie V.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.84,
+    "Name": "Bob K.",
+    "FullName": "Bob K.",
+    "Age": 27
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.93,
+    "Name": "Diana H.",
+    "FullName": "Diana H.",
+    "Age": 29
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.18,
+    "Name": "Alice N.",
+    "FullName": "Alice N.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.02,
+    "Name": "Diana Q.",
+    "FullName": "Diana Q.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.04,
+    "Name": "George W.",
+    "FullName": "George W.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.34,
+    "Name": "Diana D.",
+    "FullName": "Diana D.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.6,
+    "Name": "George R.",
+    "FullName": "George R.",
+    "Age": 22
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.76,
+    "Name": "Helen F.",
+    "FullName": "Helen F.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.3,
+    "Name": "Ethan C.",
+    "FullName": "Ethan C.",
+    "Age": 21
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.48,
+    "Name": "Charlie U.",
+    "FullName": "Charlie U.",
+    "Age": 21
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.27,
+    "Name": "Fiona M.",
+    "FullName": "Fiona M.",
+    "Age": 20
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.99,
+    "Name": "Ethan U.",
+    "FullName": "Ethan U.",
+    "Age": 29
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.28,
+    "Name": "Alice A.",
+    "FullName": "Alice A.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.83,
+    "Name": "Helen I.",
+    "FullName": "Helen I.",
+    "Age": 21
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.45,
+    "Name": "Helen K.",
+    "FullName": "Helen K.",
+    "Age": 25
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.82,
+    "Name": "Fiona M.",
+    "FullName": "Fiona M.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.93,
+    "Name": "Diana T.",
+    "FullName": "Diana T.",
+    "Age": 18
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.52,
+    "Name": "Alice C.",
+    "FullName": "Alice C.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.9,
+    "Name": "Alice A.",
+    "FullName": "Alice A.",
+    "Age": 22
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.55,
+    "Name": "Alice T.",
+    "FullName": "Alice T.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.7,
+    "Name": "Alice K.",
+    "FullName": "Alice K.",
+    "Age": 20
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.37,
+    "Name": "Bob U.",
+    "FullName": "Bob U.",
+    "Age": 23
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.46,
+    "Name": "Charlie H.",
+    "FullName": "Charlie H.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.32,
+    "Name": "George P.",
+    "FullName": "George P.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.88,
+    "Name": "Helen D.",
+    "FullName": "Helen D.",
+    "Age": 25
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.33,
+    "Name": "Charlie K.",
+    "FullName": "Charlie K.",
+    "Age": 29
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.68,
+    "Name": "Helen S.",
+    "FullName": "Helen S.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.27,
+    "Name": "Helen W.",
+    "FullName": "Helen W.",
+    "Age": 17
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.03,
+    "Name": "Bob M.",
+    "FullName": "Bob M.",
+    "Age": 21
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.28,
+    "Name": "George L.",
+    "FullName": "George L.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.71,
+    "Name": "Helen C.",
+    "FullName": "Helen C.",
+    "Age": 25
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.89,
+    "Name": "Charlie K.",
+    "FullName": "Charlie K.",
+    "Age": 25
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.59,
+    "Name": "Ethan B.",
+    "FullName": "Ethan B.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.29,
+    "Name": "Helen D.",
+    "FullName": "Helen D.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.78,
+    "Name": "Fiona O.",
+    "FullName": "Fiona O.",
+    "Age": 22
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.77,
+    "Name": "Charlie C.",
+    "FullName": "Charlie C.",
+    "Age": 21
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.21,
+    "Name": "George N.",
+    "FullName": "George N.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.02,
+    "Name": "Alice A.",
+    "FullName": "Alice A.",
+    "Age": 25
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.61,
+    "Name": "Fiona S.",
+    "FullName": "Fiona S.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4,
+    "Name": "Diana G.",
+    "FullName": "Diana G.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.45,
+    "Name": "Diana H.",
+    "FullName": "Diana H.",
+    "Age": 27
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.78,
+    "Name": "Bob S.",
+    "FullName": "Bob S.",
+    "Age": 19
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3,
+    "Name": "Fiona R.",
+    "FullName": "Fiona R.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.09,
+    "Name": "Fiona W.",
+    "FullName": "Fiona W.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.17,
+    "Name": "Diana D.",
+    "FullName": "Diana D.",
+    "Age": 21
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.52,
+    "Name": "Ethan A.",
+    "FullName": "Ethan A.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.45,
+    "Name": "Fiona Y.",
+    "FullName": "Fiona Y.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.27,
+    "Name": "Helen R.",
+    "FullName": "Helen R.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.51,
+    "Name": "Ethan S.",
+    "FullName": "Ethan S.",
+    "Age": 24
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.55,
+    "Name": "George C.",
+    "FullName": "George C.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.9,
+    "Name": "Fiona E.",
+    "FullName": "Fiona E.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.99,
+    "Name": "Alice D.",
+    "FullName": "Alice D.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.12,
+    "Name": "Charlie C.",
+    "FullName": "Charlie C.",
+    "Age": 27
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.35,
+    "Name": "Bob F.",
+    "FullName": "Bob F.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.01,
+    "Name": "Fiona V.",
+    "FullName": "Fiona V.",
+    "Age": 27
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.41,
+    "Name": "Charlie Z.",
+    "FullName": "Charlie Z.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.72,
+    "Name": "Diana S.",
+    "FullName": "Diana S.",
+    "Age": 21
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.57,
+    "Name": "Charlie O.",
+    "FullName": "Charlie O.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.32,
+    "Name": "George B.",
+    "FullName": "George B.",
+    "Age": 28
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.71,
+    "Name": "Bob S.",
+    "FullName": "Bob S.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.29,
+    "Name": "Helen Z.",
+    "FullName": "Helen Z.",
+    "Age": 20
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.72,
+    "Name": "Bob J.",
+    "FullName": "Bob J.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.04,
+    "Name": "Bob P.",
+    "FullName": "Bob P.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.85,
+    "Name": "Alice G.",
+    "FullName": "Alice G.",
+    "Age": 20
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.26,
+    "Name": "Alice L.",
+    "FullName": "Alice L.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.73,
+    "Name": "Diana S.",
+    "FullName": "Diana S.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.43,
+    "Name": "Ethan T.",
+    "FullName": "Ethan T.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.57,
+    "Name": "Diana W.",
+    "FullName": "Diana W.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.38,
+    "Name": "Helen J.",
+    "FullName": "Helen J.",
+    "Age": 24
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.82,
+    "Name": "Helen Z.",
+    "FullName": "Helen Z.",
+    "Age": 19
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.31,
+    "Name": "Diana K.",
+    "FullName": "Diana K.",
+    "Age": 22
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.16,
+    "Name": "Charlie E.",
+    "FullName": "Charlie E.",
+    "Age": 29
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.11,
+    "Name": "Ethan O.",
+    "FullName": "Ethan O.",
+    "Age": 21
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.54,
+    "Name": "Ethan M.",
+    "FullName": "Ethan M.",
+    "Age": 20
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.9,
+    "Name": "Fiona T.",
+    "FullName": "Fiona T.",
+    "Age": 18
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.1,
+    "Name": "George O.",
+    "FullName": "George O.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.53,
+    "Name": "Ethan E.",
+    "FullName": "Ethan E.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.44,
+    "Name": "Helen Z.",
+    "FullName": "Helen Z.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.61,
+    "Name": "Helen J.",
+    "FullName": "Helen J.",
+    "Age": 28
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.13,
+    "Name": "Fiona G.",
+    "FullName": "Fiona G.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.33,
+    "Name": "Bob O.",
+    "FullName": "Bob O.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.5,
+    "Name": "Fiona V.",
+    "FullName": "Fiona V.",
+    "Age": 29
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.77,
+    "Name": "Fiona Y.",
+    "FullName": "Fiona Y.",
+    "Age": 18
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.18,
+    "Name": "Charlie R.",
+    "FullName": "Charlie R.",
+    "Age": 19
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.26,
+    "Name": "Helen M.",
+    "FullName": "Helen M.",
+    "Age": 26
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.44,
+    "Name": "Alice O.",
+    "FullName": "Alice O.",
+    "Age": 25
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.48,
+    "Name": "George B.",
+    "FullName": "George B.",
+    "Age": 22
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.69,
+    "Name": "Diana Y.",
+    "FullName": "Diana Y.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.41,
+    "Name": "Alice I.",
+    "FullName": "Alice I.",
+    "Age": 23
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.38,
+    "Name": "Fiona I.",
+    "FullName": "Fiona I.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.83,
+    "Name": "Charlie X.",
+    "FullName": "Charlie X.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.47,
+    "Name": "Diana S.",
+    "FullName": "Diana S.",
+    "Age": 29
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.21,
+    "Name": "Ethan O.",
+    "FullName": "Ethan O.",
+    "Age": 20
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.52,
+    "Name": "Helen A.",
+    "FullName": "Helen A.",
+    "Age": 26
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.03,
+    "Name": "Diana O.",
+    "FullName": "Diana O.",
+    "Age": 23
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.94,
+    "Name": "Alice Z.",
+    "FullName": "Alice Z.",
+    "Age": 20
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.26,
+    "Name": "Ethan Z.",
+    "FullName": "Ethan Z.",
+    "Age": 19
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.91,
+    "Name": "George G.",
+    "FullName": "George G.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.83,
+    "Name": "Fiona Z.",
+    "FullName": "Fiona Z.",
+    "Age": 25
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.17,
+    "Name": "George K.",
+    "FullName": "George K.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.23,
+    "Name": "Helen Q.",
+    "FullName": "Helen Q.",
+    "Age": 25
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.69,
+    "Name": "Fiona K.",
+    "FullName": "Fiona K.",
+    "Age": 29
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.43,
+    "Name": "Charlie Z.",
+    "FullName": "Charlie Z.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.16,
+    "Name": "Helen S.",
+    "FullName": "Helen S.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.08,
+    "Name": "Alice L.",
+    "FullName": "Alice L.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.42,
+    "Name": "Alice V.",
+    "FullName": "Alice V.",
+    "Age": 18
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.52,
+    "Name": "Alice R.",
+    "FullName": "Alice R.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.44,
+    "Name": "George Z.",
+    "FullName": "George Z.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.79,
+    "Name": "Helen S.",
+    "FullName": "Helen S.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.61,
+    "Name": "Alice V.",
+    "FullName": "Alice V.",
+    "Age": 25
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.62,
+    "Name": "Helen U.",
+    "FullName": "Helen U.",
+    "Age": 29
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.22,
+    "Name": "Fiona X.",
+    "FullName": "Fiona X.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.69,
+    "Name": "Fiona G.",
+    "FullName": "Fiona G.",
+    "Age": 19
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.92,
+    "Name": "Ethan S.",
+    "FullName": "Ethan S.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.84,
+    "Name": "Diana H.",
+    "FullName": "Diana H.",
+    "Age": 28
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.17,
+    "Name": "Alice B.",
+    "FullName": "Alice B.",
+    "Age": 23
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.85,
+    "Name": "Helen G.",
+    "FullName": "Helen G.",
+    "Age": 27
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.67,
+    "Name": "Charlie U.",
+    "FullName": "Charlie U.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.38,
+    "Name": "Fiona V.",
+    "FullName": "Fiona V.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.8,
+    "Name": "Fiona B.",
+    "FullName": "Fiona B.",
+    "Age": 20
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.8,
+    "Name": "Ethan A.",
+    "FullName": "Ethan A.",
+    "Age": 27
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.75,
+    "Name": "Fiona L.",
+    "FullName": "Fiona L.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.43,
+    "Name": "George U.",
+    "FullName": "George U.",
+    "Age": 27
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.2,
+    "Name": "Alice M.",
+    "FullName": "Alice M.",
+    "Age": 21
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.07,
+    "Name": "Charlie A.",
+    "FullName": "Charlie A.",
+    "Age": 20
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.18,
+    "Name": "Fiona A.",
+    "FullName": "Fiona A.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.81,
+    "Name": "George Z.",
+    "FullName": "George Z.",
+    "Age": 28
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.54,
+    "Name": "Bob I.",
+    "FullName": "Bob I.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.51,
+    "Name": "Diana I.",
+    "FullName": "Diana I.",
+    "Age": 25
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.41,
+    "Name": "Charlie Y.",
+    "FullName": "Charlie Y.",
+    "Age": 21
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.83,
+    "Name": "Charlie A.",
+    "FullName": "Charlie A.",
+    "Age": 28
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.75,
+    "Name": "Diana G.",
+    "FullName": "Diana G.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.16,
+    "Name": "Charlie J.",
+    "FullName": "Charlie J.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.94,
+    "Name": "Ethan H.",
+    "FullName": "Ethan H.",
+    "Age": 29
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.92,
+    "Name": "Diana N.",
+    "FullName": "Diana N.",
+    "Age": 25
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.65,
+    "Name": "Fiona R.",
+    "FullName": "Fiona R.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.27,
+    "Name": "Alice Y.",
+    "FullName": "Alice Y.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.13,
+    "Name": "Fiona J.",
+    "FullName": "Fiona J.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.36,
+    "Name": "Diana U.",
+    "FullName": "Diana U.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.2,
+    "Name": "Alice M.",
+    "FullName": "Alice M.",
+    "Age": 25
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.74,
+    "Name": "Alice F.",
+    "FullName": "Alice F.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.74,
+    "Name": "Diana G.",
+    "FullName": "Diana G.",
+    "Age": 27
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.04,
+    "Name": "Bob N.",
+    "FullName": "Bob N.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.9,
+    "Name": "George R.",
+    "FullName": "George R.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.15,
+    "Name": "Charlie Q.",
+    "FullName": "Charlie Q.",
+    "Age": 28
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.53,
+    "Name": "Ethan H.",
+    "FullName": "Ethan H.",
+    "Age": 28
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.09,
+    "Name": "Alice X.",
+    "FullName": "Alice X.",
+    "Age": 28
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.49,
+    "Name": "Diana S.",
+    "FullName": "Diana S.",
+    "Age": 24
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3,
+    "Name": "Alice O.",
+    "FullName": "Alice O.",
+    "Age": 28
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.44,
+    "Name": "Bob N.",
+    "FullName": "Bob N.",
+    "Age": 28
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.88,
+    "Name": "Helen X.",
+    "FullName": "Helen X.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.97,
+    "Name": "Charlie Y.",
+    "FullName": "Charlie Y.",
+    "Age": 25
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.26,
+    "Name": "Ethan G.",
+    "FullName": "Ethan G.",
+    "Age": 25
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.09,
+    "Name": "Charlie M.",
+    "FullName": "Charlie M.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.39,
+    "Name": "Ethan N.",
+    "FullName": "Ethan N.",
+    "Age": 18
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.53,
+    "Name": "Alice P.",
+    "FullName": "Alice P.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.76,
+    "Name": "Diana B.",
+    "FullName": "Diana B.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.03,
+    "Name": "Bob X.",
+    "FullName": "Bob X.",
+    "Age": 23
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.82,
+    "Name": "Alice D.",
+    "FullName": "Alice D.",
+    "Age": 21
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.41,
+    "Name": "Alice W.",
+    "FullName": "Alice W.",
+    "Age": 21
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.27,
+    "Name": "Helen R.",
+    "FullName": "Helen R.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.09,
+    "Name": "George A.",
+    "FullName": "George A.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.64,
+    "Name": "Alice P.",
+    "FullName": "Alice P.",
+    "Age": 29
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.56,
+    "Name": "Charlie N.",
+    "FullName": "Charlie N.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.28,
+    "Name": "George A.",
+    "FullName": "George A.",
+    "Age": 20
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.07,
+    "Name": "Ethan Z.",
+    "FullName": "Ethan Z.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.69,
+    "Name": "George B.",
+    "FullName": "George B.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.34,
+    "Name": "Fiona S.",
+    "FullName": "Fiona S.",
+    "Age": 23
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.84,
+    "Name": "George V.",
+    "FullName": "George V.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.89,
+    "Name": "George G.",
+    "FullName": "George G.",
+    "Age": 25
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.58,
+    "Name": "George R.",
+    "FullName": "George R.",
+    "Age": 28
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.89,
+    "Name": "George O.",
+    "FullName": "George O.",
+    "Age": 24
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.19,
+    "Name": "Fiona I.",
+    "FullName": "Fiona I.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.59,
+    "Name": "George N.",
+    "FullName": "George N.",
+    "Age": 19
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.04,
+    "Name": "George X.",
+    "FullName": "George X.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.05,
+    "Name": "Diana H.",
+    "FullName": "Diana H.",
+    "Age": 28
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.71,
+    "Name": "Diana Q.",
+    "FullName": "Diana Q.",
+    "Age": 27
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.4,
+    "Name": "George E.",
+    "FullName": "George E.",
+    "Age": 27
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.74,
+    "Name": "Helen X.",
+    "FullName": "Helen X.",
+    "Age": 29
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.91,
+    "Name": "Helen I.",
+    "FullName": "Helen I.",
+    "Age": 29
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.16,
+    "Name": "Helen J.",
+    "FullName": "Helen J.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.28,
+    "Name": "Alice I.",
+    "FullName": "Alice I.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.01,
+    "Name": "Charlie C.",
+    "FullName": "Charlie C.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.52,
+    "Name": "Alice R.",
+    "FullName": "Alice R.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.26,
+    "Name": "Helen L.",
+    "FullName": "Helen L.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.76,
+    "Name": "Alice B.",
+    "FullName": "Alice B.",
+    "Age": 21
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.95,
+    "Name": "Bob D.",
+    "FullName": "Bob D.",
+    "Age": 21
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.51,
+    "Name": "Diana R.",
+    "FullName": "Diana R.",
+    "Age": 27
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.7,
+    "Name": "Diana L.",
+    "FullName": "Diana L.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.44,
+    "Name": "Diana O.",
+    "FullName": "Diana O.",
+    "Age": 29
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.03,
+    "Name": "George W.",
+    "FullName": "George W.",
+    "Age": 28
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.88,
+    "Name": "Ethan F.",
+    "FullName": "Ethan F.",
+    "Age": 28
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.84,
+    "Name": "Diana I.",
+    "FullName": "Diana I.",
+    "Age": 21
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.59,
+    "Name": "Diana W.",
+    "FullName": "Diana W.",
+    "Age": 27
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.96,
+    "Name": "Helen R.",
+    "FullName": "Helen R.",
+    "Age": 28
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.48,
+    "Name": "Bob V.",
+    "FullName": "Bob V.",
+    "Age": 21
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.54,
+    "Name": "Diana Q.",
+    "FullName": "Diana Q.",
+    "Age": 27
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.32,
+    "Name": "Fiona J.",
+    "FullName": "Fiona J.",
+    "Age": 17
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2,
+    "Name": "Alice H.",
+    "FullName": "Alice H.",
+    "Age": 20
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.43,
+    "Name": "Alice C.",
+    "FullName": "Alice C.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.22,
+    "Name": "George W.",
+    "FullName": "George W.",
+    "Age": 25
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.96,
+    "Name": "Bob Y.",
+    "FullName": "Bob Y.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.58,
+    "Name": "Charlie N.",
+    "FullName": "Charlie N.",
+    "Age": 27
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.8,
+    "Name": "Alice U.",
+    "FullName": "Alice U.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.57,
+    "Name": "Fiona Y.",
+    "FullName": "Fiona Y.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.06,
+    "Name": "George F.",
+    "FullName": "George F.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.15,
+    "Name": "George U.",
+    "FullName": "George U.",
+    "Age": 28
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.55,
+    "Name": "Alice S.",
+    "FullName": "Alice S.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.7,
+    "Name": "Alice U.",
+    "FullName": "Alice U.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.51,
+    "Name": "Helen S.",
+    "FullName": "Helen S.",
+    "Age": 27
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.29,
+    "Name": "Bob G.",
+    "FullName": "Bob G.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.07,
+    "Name": "Fiona Z.",
+    "FullName": "Fiona Z.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.46,
+    "Name": "Alice W.",
+    "FullName": "Alice W.",
+    "Age": 25
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.4,
+    "Name": "Fiona W.",
+    "FullName": "Fiona W.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.14,
+    "Name": "Helen B.",
+    "FullName": "Helen B.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.33,
+    "Name": "Bob D.",
+    "FullName": "Bob D.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.41,
+    "Name": "Diana J.",
+    "FullName": "Diana J.",
+    "Age": 25
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.5,
+    "Name": "Bob B.",
+    "FullName": "Bob B.",
+    "Age": 26
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.03,
+    "Name": "Fiona S.",
+    "FullName": "Fiona S.",
+    "Age": 27
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.09,
+    "Name": "Fiona O.",
+    "FullName": "Fiona O.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.39,
+    "Name": "Ethan C.",
+    "FullName": "Ethan C.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.62,
+    "Name": "Helen B.",
+    "FullName": "Helen B.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.06,
+    "Name": "Fiona A.",
+    "FullName": "Fiona A.",
+    "Age": 29
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.18,
+    "Name": "Ethan E.",
+    "FullName": "Ethan E.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.19,
+    "Name": "Fiona P.",
+    "FullName": "Fiona P.",
+    "Age": 21
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.43,
+    "Name": "Charlie K.",
+    "FullName": "Charlie K.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.85,
+    "Name": "Helen K.",
+    "FullName": "Helen K.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.99,
+    "Name": "Ethan I.",
+    "FullName": "Ethan I.",
+    "Age": 22
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.86,
+    "Name": "Charlie W.",
+    "FullName": "Charlie W.",
+    "Age": 23
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.16,
+    "Name": "Diana B.",
+    "FullName": "Diana B.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.41,
+    "Name": "Ethan N.",
+    "FullName": "Ethan N.",
+    "Age": 29
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.73,
+    "Name": "Diana R.",
+    "FullName": "Diana R.",
+    "Age": 25
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.79,
+    "Name": "Charlie G.",
+    "FullName": "Charlie G.",
+    "Age": 20
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.31,
+    "Name": "Bob E.",
+    "FullName": "Bob E.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.76,
+    "Name": "Alice I.",
+    "FullName": "Alice I.",
+    "Age": 27
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.61,
+    "Name": "Diana N.",
+    "FullName": "Diana N.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.63,
+    "Name": "Alice U.",
+    "FullName": "Alice U.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.03,
+    "Name": "Alice Z.",
+    "FullName": "Alice Z.",
+    "Age": 24
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.62,
+    "Name": "Ethan G.",
+    "FullName": "Ethan G.",
+    "Age": 20
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.29,
+    "Name": "George O.",
+    "FullName": "George O.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.76,
+    "Name": "Fiona O.",
+    "FullName": "Fiona O.",
+    "Age": 27
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.32,
+    "Name": "Alice Y.",
+    "FullName": "Alice Y.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.91,
+    "Name": "Diana D.",
+    "FullName": "Diana D.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.65,
+    "Name": "George B.",
+    "FullName": "George B.",
+    "Age": 21
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.31,
+    "Name": "Diana N.",
+    "FullName": "Diana N.",
+    "Age": 20
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.61,
+    "Name": "Charlie O.",
+    "FullName": "Charlie O.",
+    "Age": 23
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.07,
+    "Name": "Helen X.",
+    "FullName": "Helen X.",
+    "Age": 25
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.13,
+    "Name": "Helen R.",
+    "FullName": "Helen R.",
+    "Age": 29
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.47,
+    "Name": "Alice F.",
+    "FullName": "Alice F.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.85,
+    "Name": "Diana S.",
+    "FullName": "Diana S.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.07,
+    "Name": "Alice X.",
+    "FullName": "Alice X.",
+    "Age": 20
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.21,
+    "Name": "Charlie V.",
+    "FullName": "Charlie V.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.04,
+    "Name": "Alice B.",
+    "FullName": "Alice B.",
+    "Age": 29
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.04,
+    "Name": "Bob U.",
+    "FullName": "Bob U.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.23,
+    "Name": "Fiona C.",
+    "FullName": "Fiona C.",
+    "Age": 21
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.61,
+    "Name": "Bob X.",
+    "FullName": "Bob X.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 3.92,
+    "Name": "Alice U.",
+    "FullName": "Alice U.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.06,
+    "Name": "Charlie G.",
+    "FullName": "Charlie G.",
+    "Age": 28
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.75,
+    "Name": "Fiona H.",
+    "FullName": "Fiona H.",
+    "Age": 29
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.25,
+    "Name": "Helen R.",
+    "FullName": "Helen R.",
+    "Age": 20
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.43,
+    "Name": "Diana M.",
+    "FullName": "Diana M.",
+    "Age": 27
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.88,
+    "Name": "Fiona A.",
+    "FullName": "Fiona A.",
+    "Age": 19
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 3.65,
+    "Name": "Alice D.",
+    "FullName": "Alice D.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.26,
+    "Name": "Bob O.",
+    "FullName": "Bob O.",
+    "Age": 29
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.49,
+    "Name": "Bob D.",
+    "FullName": "Bob D.",
+    "Age": 21
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.79,
+    "Name": "Fiona K.",
+    "FullName": "Fiona K.",
+    "Age": 20
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.38,
+    "Name": "Diana T.",
+    "FullName": "Diana T.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.38,
+    "Name": "Charlie G.",
+    "FullName": "Charlie G.",
+    "Age": 17
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 4.53,
+    "Name": "George H.",
+    "FullName": "George H.",
+    "Age": 25
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.76,
+    "Name": "Charlie E.",
+    "FullName": "Charlie E.",
+    "Age": 17
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.54,
+    "Name": "Charlie U.",
+    "FullName": "Charlie U.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.66,
+    "Name": "Fiona Z.",
+    "FullName": "Fiona Z.",
+    "Age": 21
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.27,
+    "Name": "Diana M.",
+    "FullName": "Diana M.",
+    "Age": 29
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.34,
+    "Name": "Bob K.",
+    "FullName": "Bob K.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.77,
+    "Name": "Ethan Z.",
+    "FullName": "Ethan Z.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 2.68,
+    "Name": "Helen N.",
+    "FullName": "Helen N.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-102",
+    "AverageGrade": 4.7,
+    "Name": "Bob D.",
+    "FullName": "Bob D.",
+    "Age": 23
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.1,
+    "Name": "Bob M.",
+    "FullName": "Bob M.",
+    "Age": 24
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 3.14,
+    "Name": "Charlie J.",
+    "FullName": "Charlie J.",
+    "Age": 23
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 4.6,
+    "Name": "George W.",
+    "FullName": "George W.",
+    "Age": 18
+  },
+  {
+    "Group": "CS-101",
+    "AverageGrade": 2.8,
+    "Name": "Diana I.",
+    "FullName": "Diana I.",
+    "Age": 27
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 2.56,
+    "Name": "Helen G.",
+    "FullName": "Helen G.",
+    "Age": 25
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.55,
+    "Name": "Charlie D.",
+    "FullName": "Charlie D.",
+    "Age": 26
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 2.57,
+    "Name": "Charlie M.",
+    "FullName": "Charlie M.",
+    "Age": 24
+  },
+  {
+    "Group": "SE-101",
+    "AverageGrade": 3.18,
+    "Name": "Alice U.",
+    "FullName": "Alice U.",
+    "Age": 25
+  },
+  {
+    "Group": "CS-201",
+    "AverageGrade": 4.98,
+    "Name": "George U.",
+    "FullName": "George U.",
+    "Age": 29
+  }
+]

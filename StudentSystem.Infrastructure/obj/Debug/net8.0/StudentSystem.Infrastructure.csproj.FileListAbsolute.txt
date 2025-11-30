@@ -1,0 +1,28 @@
+C:\Users\Kofeyok\source\repos\Student Management System_V.2\StudentSystem.Infrastructure\bin\Debug\net8.0\StudentSystem.Infrastructure.deps.json
+C:\Users\Kofeyok\source\repos\Student Management System_V.2\StudentSystem.Infrastructure\bin\Debug\net8.0\StudentSystem.Infrastructure.runtimeconfig.json
+C:\Users\Kofeyok\source\repos\Student Management System_V.2\StudentSystem.Infrastructure\bin\Debug\net8.0\StudentSystem.Infrastructure.dll
+C:\Users\Kofeyok\source\repos\Student Management System_V.2\StudentSystem.Infrastructure\bin\Debug\net8.0\StudentSystem.Infrastructure.pdb
+C:\Users\Kofeyok\source\repos\Student Management System_V.2\StudentSystem.Infrastructure\obj\Debug\net8.0\StudentSystem.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Kofeyok\source\repos\Student Management System_V.2\StudentSystem.Infrastructure\obj\Debug\net8.0\StudentSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kofeyok\source\repos\Student Management System_V.2\StudentSystem.Infrastructure\obj\Debug\net8.0\StudentSystem.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Kofeyok\source\repos\Student Management System_V.2\StudentSystem.Infrastructure\obj\Debug\net8.0\StudentSystem.Infrastructure.AssemblyInfo.cs
+C:\Users\Kofeyok\source\repos\Student Management System_V.2\StudentSystem.Infrastructure\obj\Debug\net8.0\StudentSystem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Kofeyok\source\repos\Student Management System_V.2\StudentSystem.Infrastructure\obj\Debug\net8.0\StudentSystem.Infrastructure.dll
+C:\Users\Kofeyok\source\repos\Student Management System_V.2\StudentSystem.Infrastructure\obj\Debug\net8.0\refint\StudentSystem.Infrastructure.dll
+C:\Users\Kofeyok\source\repos\Student Management System_V.2\StudentSystem.Infrastructure\obj\Debug\net8.0\StudentSystem.Infrastructure.pdb
+C:\Users\Kofeyok\source\repos\Student Management System_V.2\StudentSystem.Infrastructure\obj\Debug\net8.0\StudentSystem.Infrastructure.genruntimeconfig.cache
+C:\Users\Kofeyok\source\repos\Student Management System_V.2\StudentSystem.Infrastructure\obj\Debug\net8.0\ref\StudentSystem.Infrastructure.dll
+C:\Users\Kofeyok\source\repos\-NUPP_NET_2025_401_-_Vasilyev_Lab-lab-3\StudentSystem.Infrastructure\bin\Debug\net8.0\StudentSystem.Infrastructure.deps.json
+C:\Users\Kofeyok\source\repos\-NUPP_NET_2025_401_-_Vasilyev_Lab-lab-3\StudentSystem.Infrastructure\bin\Debug\net8.0\StudentSystem.Infrastructure.runtimeconfig.json
+C:\Users\Kofeyok\source\repos\-NUPP_NET_2025_401_-_Vasilyev_Lab-lab-3\StudentSystem.Infrastructure\bin\Debug\net8.0\StudentSystem.Infrastructure.dll
+C:\Users\Kofeyok\source\repos\-NUPP_NET_2025_401_-_Vasilyev_Lab-lab-3\StudentSystem.Infrastructure\bin\Debug\net8.0\StudentSystem.Infrastructure.pdb
+C:\Users\Kofeyok\source\repos\-NUPP_NET_2025_401_-_Vasilyev_Lab-lab-3\StudentSystem.Infrastructure\obj\Debug\net8.0\StudentSystem.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Kofeyok\source\repos\-NUPP_NET_2025_401_-_Vasilyev_Lab-lab-3\StudentSystem.Infrastructure\obj\Debug\net8.0\StudentSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kofeyok\source\repos\-NUPP_NET_2025_401_-_Vasilyev_Lab-lab-3\StudentSystem.Infrastructure\obj\Debug\net8.0\StudentSystem.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Kofeyok\source\repos\-NUPP_NET_2025_401_-_Vasilyev_Lab-lab-3\StudentSystem.Infrastructure\obj\Debug\net8.0\StudentSystem.Infrastructure.AssemblyInfo.cs
+C:\Users\Kofeyok\source\repos\-NUPP_NET_2025_401_-_Vasilyev_Lab-lab-3\StudentSystem.Infrastructure\obj\Debug\net8.0\StudentSystem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Kofeyok\source\repos\-NUPP_NET_2025_401_-_Vasilyev_Lab-lab-3\StudentSystem.Infrastructure\obj\Debug\net8.0\StudentSystem.Infrastructure.dll
+C:\Users\Kofeyok\source\repos\-NUPP_NET_2025_401_-_Vasilyev_Lab-lab-3\StudentSystem.Infrastructure\obj\Debug\net8.0\refint\StudentSystem.Infrastructure.dll
+C:\Users\Kofeyok\source\repos\-NUPP_NET_2025_401_-_Vasilyev_Lab-lab-3\StudentSystem.Infrastructure\obj\Debug\net8.0\StudentSystem.Infrastructure.pdb
+C:\Users\Kofeyok\source\repos\-NUPP_NET_2025_401_-_Vasilyev_Lab-lab-3\StudentSystem.Infrastructure\obj\Debug\net8.0\StudentSystem.Infrastructure.genruntimeconfig.cache
+C:\Users\Kofeyok\source\repos\-NUPP_NET_2025_401_-_Vasilyev_Lab-lab-3\StudentSystem.Infrastructure\obj\Debug\net8.0\ref\StudentSystem.Infrastructure.dll

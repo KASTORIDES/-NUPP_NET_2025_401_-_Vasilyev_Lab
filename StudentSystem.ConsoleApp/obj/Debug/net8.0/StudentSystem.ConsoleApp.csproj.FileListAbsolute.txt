@@ -1,0 +1,5 @@
+C:\Users\Kofeyok\source\repos\-NUPP_NET_2025_401_-_Vasilyev_Lab-lab-3\StudentSystem.ConsoleApp\obj\Debug\net8.0\StudentSystem.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Kofeyok\source\repos\-NUPP_NET_2025_401_-_Vasilyev_Lab-lab-3\StudentSystem.ConsoleApp\obj\Debug\net8.0\StudentSystem.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kofeyok\source\repos\-NUPP_NET_2025_401_-_Vasilyev_Lab-lab-3\StudentSystem.ConsoleApp\obj\Debug\net8.0\StudentSystem.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Kofeyok\source\repos\-NUPP_NET_2025_401_-_Vasilyev_Lab-lab-3\StudentSystem.ConsoleApp\obj\Debug\net8.0\StudentSystem.ConsoleApp.AssemblyInfo.cs
+C:\Users\Kofeyok\source\repos\-NUPP_NET_2025_401_-_Vasilyev_Lab-lab-3\StudentSystem.ConsoleApp\obj\Debug\net8.0\StudentSystem.ConsoleApp.csproj.CoreCompileInputs.cache
